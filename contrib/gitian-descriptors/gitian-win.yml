@@ -22,7 +22,7 @@ packages:
 - "ca-certificates"
 - "python"
 remotes:
-- "url": "https://github.com/securityx/securityx.git"
+- "url": "https://github.com/SecurityX/securityx.git"
   "dir": "securityx"
 files: []
 script: |

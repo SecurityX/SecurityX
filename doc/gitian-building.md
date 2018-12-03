@@ -345,7 +345,7 @@ tail -f var/build.log
 Output from `gbuild` will look something like
 
 ```bash
-    Initialized empty Git repository in /home/debian/gitian-builder/inputs/securityx/.git/
+    Initialized empty Git repository in /home/debian/gitian-builder/inputs/SecurityX/.git/
     remote: Reusing existing pack: 35606, done.
     remote: Total 35606 (delta 0), reused 0 (delta 0)
     Receiving objects: 100% (35606/35606), 26.52 MiB | 4.28 MiB/s, done.
@@ -379,9 +379,9 @@ For example:
 ```bash
 URL=https://github.com/crowning-/securityx.git
 COMMIT=b616fb8ef0d49a919b72b0388b091aaec5849b96
-./bin/gbuild --commit securityx=${COMMIT} --url securityx=${URL} ../securityx/contrib/gitian-descriptors/gitian-linux.yml
-./bin/gbuild --commit securityx=${COMMIT} --url securityx=${URL} ../securityx/contrib/gitian-descriptors/gitian-win.yml
-./bin/gbuild --commit securityx=${COMMIT} --url securityx=${URL} ../securityx/contrib/gitian-descriptors/gitian-osx.yml
+./bin/gbuild --commit securityx=${COMMIT} --url securityx=${URL} ../SecurityX/contrib/gitian-descriptors/gitian-linux.yml
+./bin/gbuild --commit securityx=${COMMIT} --url securityx=${URL} ../SecurityX/contrib/gitian-descriptors/gitian-win.yml
+./bin/gbuild --commit securityx=${COMMIT} --url securityx=${URL} ../SecurityX/contrib/gitian-descriptors/gitian-osx.yml
 ```
 
 Signing externally

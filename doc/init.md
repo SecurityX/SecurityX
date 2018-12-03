@@ -35,7 +35,7 @@ generate one from the shell yourself like this:
 
 bash -c 'tr -dc a-zA-Z0-9 < /dev/urandom | head -c32 && echo'
 
-Once you have a password in hand, set rpcpassword= in /etc/securityx/securityx.conf
+Once you have a password in hand, set rpcpassword= in /etc/SecurityX/securityx.conf
 
 For an example configuration file that describes the configuration settings,
 see contrib/debian/examples/securityx.conf.
@@ -46,7 +46,7 @@ see contrib/debian/examples/securityx.conf.
 All three configurations assume several paths that might need to be adjusted.
 
 Binary:              /usr/bin/securityxd
-Configuration file:  /etc/securityx/securityx.conf
+Configuration file:  /etc/SecurityX/securityx.conf
 Data directory:      /var/lib/securityxd
 PID file:            /var/run/securityxd/securityxd.pid (OpenRC and Upstart)
                      /var/lib/securityxd/securityxd.pid (systemd)

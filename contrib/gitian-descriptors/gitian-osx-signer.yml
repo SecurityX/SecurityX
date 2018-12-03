@@ -7,7 +7,7 @@ architectures:
 packages:
 - "faketime"
 remotes:
-- "url": "https://github.com/securityx/securityx-detached-sigs.git"
+- "url": "https://github.com/SecurityX/securityx-detached-sigs.git"
   "dir": "signature"
 files:
 - "securityx-osx-unsigned.tar.gz"

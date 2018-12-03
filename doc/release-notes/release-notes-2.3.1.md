@@ -1,13 +1,13 @@
 SecurityX Core version 2.3.1 is now available from:
 
-  <https://github.com/securityx/securityx/releases>
+  <https://github.com/SecurityX/SecurityX/releases>
 
 This is a new minor version release, including various bug fixes and
 performance improvements, as well as updated translations.
 
 Please report bugs using the issue tracker at github:
 
-  <https://github.com/securityx/securityx/issues>
+  <https://github.com/SecurityX/SecurityX/issues>
 
 How to Upgrade
 ==============

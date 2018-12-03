@@ -1,19 +1,19 @@
 SecurityX Core version 3.0.5 is now available from:
 
-  <https://github.com/securityx/securityx/releases>
+  <https://github.com/SecurityX/SecurityX/releases>
 
 This is a new minor-revision version release, including various bug fixes and
 performance improvements, as well as updated translations.
 
 Please report bugs using the issue tracker at github:
 
-  <https://github.com/securityx/securityx/issues>
+  <https://github.com/SecurityX/SecurityX/issues>
 
 
 Mandatory Update
 ==============
 
-SecurityX Core v3.0.5 is a mandatory update for all users. This release contains various updates/fixes pertaining to the zSECX protocol, supply tracking, block transmission and relaying, as well as usability and quality-of-life updates to the GUI. Users are required to update before block `908000` which is when the accumulators will be refactored. Shortly after that block, zSECX transactions will be enabled. **When zSECX is enabled, autominting will also be enabled.** If you would like to disable automatic conversion of 10% of your SECX balance to zSECX, then you will need to add `enablezeromint=0` to your `securityx.conf` file. For information about where to find your securityx.conf you can visit this link from [PIVX Support](https://securityx.freshdesk.com/support/solutions/articles/30000004664-where-are-my-wallet-dat-blockchain-and-configuration-conf-files-located-).
+SecurityX Core v3.0.5 is a mandatory update for all users. This release contains various updates/fixes pertaining to the zSECX protocol, supply tracking, block transmission and relaying, as well as usability and quality-of-life updates to the GUI. Users are required to update before block `908000` which is when the accumulators will be refactored. Shortly after that block, zSECX transactions will be enabled. **When zSECX is enabled, autominting will also be enabled.** If you would like to disable automatic conversion of 10% of your SECX balance to zSECX, then you will need to add `enablezeromint=0` to your `securityx.conf` file. For information about where to find your securityx.conf you can visit this link from [SecurityX Support](https://securityx.freshdesk.com/support/solutions/articles/30000004664-where-are-my-wallet-dat-blockchain-and-configuration-conf-files-located-).
 
 Users will have a grace period to update their clients before versions prior to this release are no longer allowed to connect to this (and future) version(s).
 
@@ -21,7 +21,7 @@ Users will have a grace period to update their clients before versions prior to 
 How to Upgrade
 ==============
 
-If you are running an older version, shut it down. Wait until it has completely shut down (which might take a few minutes for older versions), then run the installer (on Windows) or just copy over /Applications/PIVX-Qt (on Mac) or securityxd/securityx-qt (on Linux).
+If you are running an older version, shut it down. Wait until it has completely shut down (which might take a few minutes for older versions), then run the installer (on Windows) or just copy over /Applications/SecurityX-Qt (on Mac) or securityxd/securityx-qt (on Linux).
 
 
 Compatibility
@@ -52,13 +52,11 @@ The zSECX accumulator code has undergone a major refactor. Accumulators are one 
 
 libzerocoin Exploit Fix
 ---------------------
-zSECX relies on a 3rd party library called libzerocoin. All currencies that utilize the zerocoin protocol use libzerocoin, and many of those currencies have been exposed to an exploit which allowed for the creation of multiple zero-knowledge spending proofs for one single zerocoin mint. The PIVX developers
-// Copyright (c) 2018 The SecurityX developers were able properly identify the exploit, track down any fraudulent spending proofs, link the fraudulent spending proofs with their one valid proof that they were mutated from, and remove any mints from the accumulators that were derived from the invalid spends. 
+zSECX relies on a 3rd party library called libzerocoin. All currencies that utilize the zerocoin protocol use libzerocoin, and many of those currencies have been exposed to an exploit which allowed for the creation of multiple zero-knowledge spending proofs for one single zerocoin mint. The SecurityX developers were able properly identify the exploit, track down any fraudulent spending proofs, link the fraudulent spending proofs with their one valid proof that they were mutated from, and remove any mints from the accumulators that were derived from the invalid spends. 
 
 zSECX Maintenance Mode Spork
 ---------------------
-Handling the above noted libzerocoin exploit required the PIVX team to immediately release a patched wallet to as many users as possible which rejected bad spends and also disabled all zSECX transactions in general. The process of releasing a patched wallet in such a small time frame is frustrating and difficult for all members of the PIVX team and especially users of PIVX. The PIVX developers
-// Copyright (c) 2018 The SecurityX developers have added a new spork which allows for zSECX transacting to be turned on/off without having to release a patched wallet. This will allow much smoother operation if any problems occur in the future, and should also allow exchanges and 3rd party services to continue to operate even if zSECX is in maintenance mode.
+Handling the above noted libzerocoin exploit required the SecurityX team to immediately release a patched wallet to as many users as possible which rejected bad spends and also disabled all zSECX transactions in general. The process of releasing a patched wallet in such a small time frame is frustrating and difficult for all members of the SecurityX team and especially users of SecurityX. The SecurityX developers have added a new spork which allows for zSECX transacting to be turned on/off without having to release a patched wallet. This will allow much smoother operation if any problems occur in the future, and should also allow exchanges and 3rd party services to continue to operate even if zSECX is in maintenance mode.
 
 Money Supply Indexing
 ---------------------

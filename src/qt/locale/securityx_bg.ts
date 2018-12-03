@@ -1935,9 +1935,9 @@ Please be patient after clicking import.</source>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/securityx/securityx-translations</source>
+https://www.transifex.com/SecurityX/securityx-translations</source>
         <translation>Липсващ език или непълен превод? Помогнете с преводите тук:
-https://www.transifex.com/securityx/securityx-translations</translation>
+https://www.transifex.com/SecurityX/securityx-translations</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>

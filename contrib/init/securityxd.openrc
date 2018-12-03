@@ -2,13 +2,13 @@
 
 # backward compatibility for existing gentoo layout
 #
-if [ -d "/var/lib/securityx/.securityx" ]; then
-	BITCOIND_DEFAULT_DATADIR="/var/lib/securityx/.securityx"
+if [ -d "/var/lib/SecurityX/.securityx" ]; then
+	BITCOIND_DEFAULT_DATADIR="/var/lib/SecurityX/.securityx"
 else
 	BITCOIND_DEFAULT_DATADIR="/var/lib/securityxd"
 fi
 
-BITCOIND_CONFIGFILE=${BITCOIND_CONFIGFILE:-/etc/securityx/securityx.conf}
+BITCOIND_CONFIGFILE=${BITCOIND_CONFIGFILE:-/etc/SecurityX/securityx.conf}
 BITCOIND_PIDDIR=${BITCOIND_PIDDIR:-/var/run/securityxd}
 BITCOIND_PIDFILE=${BITCOIND_PIDFILE:-${BITCOIND_PIDDIR}/securityxd.pid}
 BITCOIND_DATADIR=${BITCOIND_DATADIR:-${BITCOIND_DEFAULT_DATADIR}}

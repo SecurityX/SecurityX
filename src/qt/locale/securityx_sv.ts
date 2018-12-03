@@ -1,820 +1,820 @@
-<TS language="es" version="2.1">
+<TS language="sv" version="2.1">
 <context>
     <name>AddressBookPage</name>
     <message>
         <source>Right-click to edit address or label</source>
-        <translation>Click derecho para editar la dirección o etiqueta</translation>
+        <translation>Höger klicka för att redigera adress eller etikett</translation>
     </message>
     <message>
         <source>Create a new address</source>
-        <translation>Crear nueva dirección</translation>
+        <translation>Skapa en ny adress</translation>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation>&amp;Nuevo</translation>
+        <translation>&amp;Ny</translation>
     </message>
     <message>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>Copiar la dirección seleccionada al portapapeles</translation>
+        <translation>Kopiera den markerade adressen till systemets urklipp</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>&amp;Copiar</translation>
+        <translation>&amp;Kopiera</translation>
     </message>
     <message>
         <source>Delete the currently selected address from the list</source>
-        <translation>Borrar la dirección seleccionada de la lista</translation>
+        <translation>Radera den valda adressen från listan</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>Borrar</translation>
+        <translation>&amp;Radera</translation>
     </message>
     <message>
         <source>Export the data in the current tab to a file</source>
-        <translation>Exportar los datos de la pestaña actual a un archivo</translation>
+        <translation>Exportera data in den nuvarande fliken till en fil</translation>
     </message>
     <message>
         <source>&amp;Export</source>
-        <translation>&amp;Exportar</translation>
+        <translation>&amp;Exportera</translation>
     </message>
     <message>
         <source>C&amp;lose</source>
-        <translation>Cerrar</translation>
+        <translation>Stäng</translation>
     </message>
     <message>
         <source>Choose the address to send coins to</source>
-        <translation>Escoja la dirección a la cual desee enviar las monedas</translation>
+        <translation>Välj adress att skicka mynt till</translation>
     </message>
     <message>
         <source>Choose the address to receive coins with</source>
-        <translation>Escoja la dirección en la cual recibirá las monedas</translation>
+        <translation>Välj adress att ta emot mynt med</translation>
     </message>
     <message>
         <source>C&amp;hoose</source>
-        <translation>&amp;Escoger</translation>
+        <translation>Välj</translation>
     </message>
     <message>
         <source>Sending addresses</source>
-        <translation>Direcciones de envío</translation>
+        <translation>Skicka adresser</translation>
     </message>
     <message>
         <source>Receiving addresses</source>
-        <translation>Direcciones de recepción</translation>
+        <translation>Mottagar adresser</translation>
     </message>
     <message>
         <source>These are your SecurityX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estas son sus direcciones SecurityX para realizar pagos. Verifique siempre la cantidad y la dirección de recepción antes de enviar monedas.</translation>
+        <translation>Det här är dina SecurityX adresser för att skicka betalningar. Kontrollera alltid summan och mottagaradressen före du sänder mynt.</translation>
     </message>
     <message>
         <source>These are your SecurityX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Estas son sus direcciones SecurityX para recibir pagos. Es recomendable usar una nueva dirección de recepción para cada transacción.</translation>
+        <translation>Det här är dina SecurityX adresser för att ta emot betalningar. Det är rekomenderat att använda en ny mottagaradress för varje transaktion.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
-        <translation>Copiar dirección</translation>
+        <translation>&amp;Kopiera Adress</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
-        <translation>Copiar etiqueta</translation>
+        <translation>Kopiera &amp; Ettiket</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation>Editar</translation>
+        <translation>&amp;Redigera</translation>
     </message>
     <message>
         <source>Export Address List</source>
-        <translation>Exportar lista de direcciones</translation>
+        <translation>Exportera Adress Lista</translation>
     </message>
     <message>
         <source>Comma separated file (*.csv)</source>
-        <translation>Archivo separado por comas (*.csv)</translation>
+        <translation>Kommaseparerad fil (*.csv)</translation>
     </message>
     <message>
         <source>Exporting Failed</source>
-        <translation>Exportación fallida</translation>
+        <translation>Exportering Misslyckades</translation>
     </message>
     <message>
         <source>There was an error trying to save the address list to %1. Please try again.</source>
-        <translation>Ha habido un error intentando guardar la lista de direcciones %1. Por favor inténtelo de nuevo.</translation>
+        <translation>Det uppstod ett fel när vi försökte spara adresslistan till %1. Var snäll och försök på nytt.</translation>
     </message>
 </context>
 <context>
     <name>AddressTableModel</name>
     <message>
         <source>Label</source>
-        <translation>Etiqueta</translation>
+        <translation>Etikett</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>Dirección</translation>
+        <translation>Adress</translation>
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(sin etiqueta)</translation>
+        <translation>(Ingen etikett)</translation>
     </message>
 </context>
 <context>
     <name>AskPassphraseDialog</name>
     <message>
         <source>Passphrase Dialog</source>
-        <translation>Diálogo de contraseña</translation>
+        <translation>Lösenfras Dialog</translation>
     </message>
     <message>
         <source>Enter passphrase</source>
-        <translation>Introduzca la contraseña</translation>
+        <translation>Fyll i lösenfras</translation>
     </message>
     <message>
         <source>New passphrase</source>
-        <translation>Nueva contraseña</translation>
+        <translation>Ny lösenfras</translation>
     </message>
     <message>
         <source>Repeat new passphrase</source>
-        <translation>Repetir nueva contraseña</translation>
+        <translation>Repetera ny lösenfras</translation>
     </message>
     <message>
         <source>Serves to disable the trivial sendmoney when OS account compromised. Provides no real security.</source>
-        <translation>Sirve para desactivar el envío de dinero cuando la cuenta del SO está comprometida. No provee de una seguridad real</translation>
+        <translation>Ser till att inaktivera obetydliga skickade pengar när OS kontot är i risk. Förser ingen riktig säkerhet.</translation>
     </message>
     <message>
         <source>For anonymization, automint, and staking only</source>
-        <translation>Para anonimización y staking solamente</translation>
+        <translation>Endast för anonymisering, automint, och staking</translation>
     </message>
     <message>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;ten or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation>Escriba la nueva contraseña para el monedero. &lt;br/&gt;Por favor utilice una contraseña de &lt;b&gt;10 o más caracteres aleatorios&lt;/b&gt;, u &lt;b&gt; ocho o más palabras&lt;/b&gt;</translation>
+        <translation>Skriv in den nya lösenfrasen för plånboken.&lt;br/&gt;Var vänlig använd en lösenfras bestående av &lt;b&gt;tio eller mer slumpmässiga bokstäver&lt;/b&gt;, eller &lt;b&gt;åtta eller flera ord &lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Encrypt wallet</source>
-        <translation>Cifrar monedero</translation>
+        <translation>Kryptera Plånbok</translation>
     </message>
     <message>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation>Esta operación requiere su contraseña para desbloquear el monedero</translation>
+        <translation>Den här processen kräver din plånboks lösenfras för att låsa upp plånboken</translation>
     </message>
     <message>
         <source>Unlock wallet</source>
-        <translation>Desbloquear monedero</translation>
+        <translation>lås upp plånbok</translation>
     </message>
     <message>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation>Esta operación requiere su contraseña para descifrar el monedero</translation>
+        <translation>Den här processen kräver din plånboks lösenfras för att avkryptera plånboken</translation>
     </message>
     <message>
         <source>Decrypt wallet</source>
-        <translation>Descifrar monedero</translation>
+        <translation>Avkryptera plånbok</translation>
     </message>
     <message>
         <source>Change passphrase</source>
-        <translation>Cambiar contraseña</translation>
+        <translation>Ändra lösenfras</translation>
     </message>
     <message>
         <source>Enter the old and new passphrase to the wallet.</source>
-        <translation>Ingrese la antigua y la nueva contraseña para el monedero</translation>
+        <translation>Skriv in den gamla och den nya lösenfrasen för plånboken.</translation>
     </message>
     <message>
         <source>Confirm wallet encryption</source>
-        <translation>Confirme el cifrado del monedero</translation>
+        <translation>Bekräfta plånboks krypering</translation>
     </message>
     <message>
         <source>SecurityX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your SECXs from being stolen by malware infecting your computer.</source>
-        <translation>SecurityX se cerrará para finalizar el proceso de cifrado. Recuerde que cifrar su monedero no garantiza que sus SECXs no sean robados mediante malware de su ordenador.</translation>
+        <translation>SecurityX kommer att stängas ner nu för att färdigställa kryperingsprocessen. Kom ihåg att kryptering av din plånbok inte kan säkerställa dina SECXs från att bli stulna av skadeprogram som infekterat din dator.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation>¿Está seguro de que desea cifrar su monedero?</translation>
+        <translation>Är du säker på att du vill kryptera din plånbok?</translation>
     </message>
     <message>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR SECX&lt;/b&gt;!</source>
-        <translation>Atención: Si cifra su monedero y pierde su contraseña, perderá &lt;b&gt; TODOS SUS SECX&lt;/b&gt;!</translation>
+        <translation>Varning: om du krypterar din plånbok och tappar bort din lösenfras kommer du &lt;b&gt; FÖRLORA ALLA DINA SECX&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
-        <translation>Monedero cifrado</translation>
+        <translation>Plånbok krypterad</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
-        <translation>IMPORTANTE: Cualquier copia de seguridad anterior que haya realizado de su monedero debe ser reemplazada por la nueva copia de seguridad cifrada. Por razones de seguridad, las copias de seguridad anteriores del monedero sin cifrar pasarán a ser obsoletas tan pronto empiece a utilizar el nuevo monedero cifrado.</translation>
+        <translation>VIKTIGT: Alla dina tidigare säkerhetskopior du har gjort av plånboks filen bör ersättas med den nygenererade, krypterade plånboks filen. För säkerhetsskäl, tidigare säkerhetskopior av okrypterade plånboks filer kommer bli oanvändbar så fort du börjar använda den nya krypterade plånboken.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
-        <translation>El cifrado del monedero ha fallado</translation>
+        <translation>Plånboks kryptering misslyckades</translation>
     </message>
     <message>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
-        <translation>El cifrado del monedero ha fallado debido a un error interno. Su monedero no ha sido cifrado.</translation>
+        <translation>Plånboks kryptering misslyckades på grund av ett internt fel. Din plånbok blev inte krypterad.</translation>
     </message>
     <message>
         <source>The supplied passphrases do not match.</source>
-        <translation>Las contraseñas introducidas no coinciden.</translation>
+        <translation>Den tillhandahållna lösenfrasen stämmer inte överens.</translation>
     </message>
     <message>
         <source>Wallet unlock failed</source>
-        <translation>Desbloqueo del monedero fallido</translation>
+        <translation>Plånboks upplåsning misslyckades</translation>
     </message>
     <message>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
-        <translation>La contraseña introducida para el descifrado del monedero es incorrecta.</translation>
+        <translation>Den givna lösenfrasen för plånbokens avkryptering var fel.</translation>
     </message>
     <message>
         <source>Wallet decryption failed</source>
-        <translation>Descifrado del monedero fallido</translation>
+        <translation>plånboks dekryptering misslyckades</translation>
     </message>
     <message>
         <source>Wallet passphrase was successfully changed.</source>
-        <translation>Se cambió la contraseña con éxito.</translation>
+        <translation>Ändring av plånbokens lösenfras lyckades.</translation>
     </message>
     <message>
         <source>Warning: The Caps Lock key is on!</source>
-        <translation>Aviso: La tecla Mayúsculas está encendida!</translation>
+        <translation>Varning: Caps-Lock tangent är på!</translation>
     </message>
 </context>
 <context>
     <name>BanTableModel</name>
     <message>
         <source>IP/Netmask</source>
-        <translation>IP/Máscara de Red</translation>
+        <translation>IP/Nätmask</translation>
     </message>
     <message>
         <source>Banned Until</source>
-        <translation>Suspendido hasta</translation>
+        <translation>Portad fram tills</translation>
     </message>
 </context>
 <context>
     <name>Bip38ToolDialog</name>
     <message>
         <source>BIP 38 Tool</source>
-        <translation>Herramienta BIP 38</translation>
+        <translation>BIP 38 Verktyg</translation>
     </message>
     <message>
         <source>&amp;BIP 38 Encrypt</source>
-        <translation>&amp;Cifrado BIP 38</translation>
+        <translation>BIP 38 Kryptering</translation>
     </message>
     <message>
         <source>Address:</source>
-        <translation>Dirección:</translation>
+        <translation>Adress:</translation>
     </message>
     <message>
         <source>Enter a SecurityX Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Introduzca la dirección SecurityX que querría cifrar usando BIP 38. Introduzca una contraseña en el campo central. Haga clic en cifrar para generar la clave privada cifrada.</translation>
+        <translation>Fyll i en SecurityX Adress som du skulle vilja cryptera med BIP 38. Skriv in en lösenfras i den mittersta lådan. Tryck kryptera för att beräkna fram den krypterade privata nyckeln.</translation>
     </message>
     <message>
         <source>The SecurityX address to encrypt</source>
-        <translation>La dirección SecurityX a cifrar</translation>
+        <translation>SecurityX adressen som ska krypteras</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
-        <translation>Escoja una dirección usada previamente</translation>
+        <translation>Använd den föregående använda adressen</translation>
     </message>
     <message>
         <source>Alt+A</source>
-        <translation>Alt + A</translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <source>Paste address from clipboard</source>
-        <translation>Pegar dirección desde el portapapeles</translation>
+        <translation>Limma in adress från urklipp</translation>
     </message>
     <message>
         <source>Alt+P</source>
-        <translation>Alt + P</translation>
+        <translation>Alt+P</translation>
     </message>
     <message>
         <source>Passphrase: </source>
-        <translation>Contraseña:</translation>
+        <translation>Lösenfras:</translation>
     </message>
     <message>
         <source>Encrypted Key:</source>
-        <translation>Clave cifrada:</translation>
+        <translation>Krypterad Nyckel:</translation>
     </message>
     <message>
         <source>Copy the current signature to the system clipboard</source>
-        <translation>Copiar la firma actual al portapapeles del sistema</translation>
+        <translation>Kopiera den nuvarande signaturen till systemets urklipp</translation>
     </message>
     <message>
         <source>Encrypt the private key for this SecurityX address</source>
-        <translation>Cifrar la llave privada para esta dirección SecurityX</translation>
+        <translation>Kryptera den privata nyckeln för denna SecurityX adressen</translation>
     </message>
     <message>
         <source>Reset all fields</source>
-        <translation>Limpiar todos los campos</translation>
+        <translation>Återställ alla fält</translation>
     </message>
     <message>
         <source>The encrypted private key</source>
-        <translation>La llave privada cifrada</translation>
+        <translation>Den krypterade privata nyckeln</translation>
     </message>
     <message>
         <source>Decrypt the entered key using the passphrase</source>
-        <translation>Descifrar la llave ingresada usando la frase de contraseña</translation>
+        <translation>Dekryptera den inmatade nyckeln med lösenordsfrasen</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
-        <translation>Cifrar &amp;Clave</translation>
+        <translation>Kryptera &amp;Nyckel</translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
-        <translation>Limpiar &amp;Todo</translation>
+        <translation>Rensa &amp;allt</translation>
     </message>
     <message>
         <source>&amp;BIP 38 Decrypt</source>
-        <translation>&amp;Descifrado BIP 38</translation>
+        <translation>&amp;BIP 38 Dekryptera</translation>
     </message>
     <message>
         <source>Enter the BIP 38 encrypted private key. Enter the passphrase in the middle box. Click Decrypt Key to compute the private key. After the key is decrypted, clicking 'Import Address' will add this private key to the wallet.</source>
-        <translation>Introduzca la clave cifrada privada BIP 38. Introduzca la contraseña en el campo central. Haga clic en descifrar clave para generar la clave privada. Después de que la clave sea descifrada, pulsando en 'Importar dirección' añadirá esta clave privada al monedero.</translation>
+        <translation>Ange BIP 38 krypterade privata nyckeln. Ange lösenfrasen i med mittersta boxen. Tryck på krypetra nyckel för att beräkna den privata nyckeln. Efter att nyckeln är avkrypterad, tryck på 'Importera Adress' kommer att lägga till denna privata nyckel till plånboken.</translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
-        <translation>Descifrar &amp;Clave</translation>
+        <translation>Dekryptera &amp;Nyckel</translation>
     </message>
     <message>
         <source>Decrypted Key:</source>
-        <translation>Clave descifrada:</translation>
+        <translation>Dekrypterad Nyckel:</translation>
     </message>
     <message>
         <source>Import Address</source>
-        <translation>Importar dirección</translation>
+        <translation>Importera Adress</translation>
     </message>
     <message>
         <source>Click "Decrypt Key" to compute key</source>
-        <translation>Haga clic en "Descifrar clave" para generar la clave</translation>
+        <translation>Tryck "Dekryptera Nyckel" för att beräkna nyckeln</translation>
     </message>
     <message>
         <source>The entered passphrase is invalid. </source>
-        <translation>La contraseña introducida es inválida</translation>
+        <translation>Den angivna lösenfrasen är felaktig.</translation>
     </message>
     <message>
         <source>Allowed: 0-9,a-z,A-Z,</source>
-        <translation>Permitido: 0-9,a.z,A-Z,</translation>
+        <translation>Tillåtna: 0-9,a-z.A-Z.</translation>
     </message>
     <message>
         <source>The entered address is invalid.</source>
-        <translation>La dirección introducida es inválida</translation>
+        <translation>Den angivna adressen är felaktig.</translation>
     </message>
     <message>
         <source>Please check the address and try again.</source>
-        <translation>Por favor compruebe la dirección e inténtelo de nuevo.</translation>
+        <translation>Var vänlig kontrollera adressen och försök igen.</translation>
     </message>
     <message>
         <source>The entered address does not refer to a key.</source>
-        <translation>La dirección introducida no se refiere a ninguna clave.</translation>
+        <translation>Den angivna adressen visar inte till en nyckel.</translation>
     </message>
     <message>
         <source>Wallet unlock was cancelled.</source>
-        <translation>El desbloqueo del monedero fue cancelado.</translation>
+        <translation>Upplåsningen av plånboken blev avbruten.</translation>
     </message>
     <message>
         <source>Private key for the entered address is not available.</source>
-        <translation>La clave privada para la dirección introducida no está disponible.</translation>
+        <translation>Den privata nyckel som angivits till adressen är inte tillgänglig.</translation>
     </message>
     <message>
         <source>Failed to decrypt.</source>
-        <translation>Falló el descifrado</translation>
+        <translation>Dekryptering misslyckades.</translation>
     </message>
     <message>
         <source>Please check the key and passphrase and try again.</source>
-        <translation>Por favor compruebe la clave y la contraseña e inténtelo de nuevo.</translation>
+        <translation>Var vänlig och kontrollera nyckeln och lösenfrasen och försök igen.</translation>
     </message>
     <message>
         <source>Data Not Valid.</source>
-        <translation>Datos no válidos.</translation>
+        <translation>Data ogiltig.</translation>
     </message>
     <message>
         <source>Please try again.</source>
-        <translation>Por favor inténtelo de nuevo.</translation>
+        <translation>Var vänlig försök igen.</translation>
     </message>
     <message>
         <source>Please wait while key is imported</source>
-        <translation>Por favor espere mientras la clave es importada</translation>
+        <translation>Var god vänta medans nyckeln importeras</translation>
     </message>
     <message>
         <source>Key Already Held By Wallet</source>
-        <translation>Llave Ya Presente En El Monedero</translation>
+        <translation>Nyckeln är redan bunden till plånboken</translation>
     </message>
     <message>
         <source>Error Adding Key To Wallet</source>
-        <translation>Error Añadiendo la Clave en la Wallet</translation>
+        <translation>Fel när nyckel skulle läggas till plånbok</translation>
     </message>
     <message>
         <source>Successfully Added Private Key To Wallet</source>
-        <translation>Clave privada añadida a la wallet con éxito</translation>
+        <translation>privat nyckel framgångsrikt tillagd till plånbok</translation>
     </message>
 </context>
 <context>
     <name>BitcoinGUI</name>
     <message>
         <source>Wallet</source>
-        <translation>Monedero</translation>
+        <translation>Plånbok</translation>
     </message>
     <message>
         <source>Node</source>
-        <translation>Nodo</translation>
+        <translation>Nod</translation>
     </message>
     <message>
         <source>&amp;Overview</source>
-        <translation>&amp;Visión general</translation>
+        <translation>&amp;Översikt</translation>
     </message>
     <message>
         <source>Show general overview of wallet</source>
-        <translation>Mostrar visión general del monedero</translation>
+        <translation>Visa generell översikt av plånbok</translation>
     </message>
     <message>
         <source>&amp;Send</source>
-        <translation>&amp;Enviar</translation>
+        <translation>&amp;Skicka</translation>
     </message>
     <message>
         <source>&amp;Receive</source>
-        <translation>&amp;Recibir</translation>
+        <translation>&amp;Mottaga</translation>
     </message>
     <message>
         <source>&amp;Transactions</source>
-        <translation>&amp;Transacciones</translation>
+        <translation>&amp;Transaktioner</translation>
     </message>
     <message>
         <source>Browse transaction history</source>
-        <translation>Navegar por el historial de transacciones</translation>
+        <translation>Bläddra i transaktions historiken</translation>
     </message>
     <message>
         <source>Privacy Actions for zSECX</source>
-        <translation>Acciones de privacidad para zSECX</translation>
+        <translation>Integritets funktioner för zSECX</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
-        <translation>S&amp;alir</translation>
+        <translation>gå ur</translation>
     </message>
     <message>
         <source>Quit application</source>
-        <translation>Cerrar aplicación</translation>
+        <translation>Avsluta applikationen</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
-        <translation>Sobre &amp;Qt</translation>
+        <translation>Om &amp;Qt</translation>
     </message>
     <message>
         <source>Show information about Qt</source>
-        <translation>Mostrar información sobre Qt</translation>
+        <translation>Visa information om Qt</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
-        <translation>&amp;Opciones...</translation>
+        <translation>&amp;Alternativ...</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
-        <translation>&amp;Mostrar / Esconder</translation>
+        <translation>&amp;Visa / Dölj</translation>
     </message>
     <message>
         <source>Show or hide the main Window</source>
-        <translation>Mostrar o esconder la ventana principal</translation>
+        <translation>Visa eller Dölj huvudfönstret</translation>
     </message>
     <message>
         <source>&amp;Encrypt Wallet...</source>
-        <translation>&amp;Encriptar monedero...</translation>
+        <translation>&amp;Kryptera Plånbok...</translation>
     </message>
     <message>
         <source>Encrypt the private keys that belong to your wallet</source>
-        <translation>Encriptar las claves privadas que pertenecen a tu monedero</translation>
+        <translation>Kryptera privata nycklar som tillhör din plånbok</translation>
     </message>
     <message>
         <source>&amp;Backup Wallet...</source>
-        <translation>&amp;Copia de seguridad del monedero...</translation>
+        <translation>&amp;Säkerhetskopiera Plånbok...</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
-        <translation>Copia de seguridad del monedero a otra ubicación</translation>
+        <translation>Säkerhetskopiera din plånbok till en annan plats</translation>
     </message>
     <message>
         <source>&amp;Change Passphrase...</source>
-        <translation>&amp;Cambiar contraseña...</translation>
+        <translation>Ändra lösenfras</translation>
     </message>
     <message>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation>Cambiar contraseña usada para la encriptación del monedero</translation>
+        <translation>Ändra lösenfrasen som används för kryptering av plånbok</translation>
     </message>
     <message>
         <source>&amp;Unlock Wallet...</source>
-        <translation>&amp;Desbloquear monedero...</translation>
+        <translation>lås upp plånbok</translation>
     </message>
     <message>
         <source>Unlock wallet</source>
-        <translation>Desbloquear monedero</translation>
+        <translation>lås upp plånbok</translation>
     </message>
     <message>
         <source>&amp;Lock Wallet</source>
-        <translation>&amp;Bloquear monedero</translation>
+        <translation>lås plånbok</translation>
     </message>
     <message>
         <source>Sign &amp;message...</source>
-        <translation>Firmar &amp;mensaje..</translation>
+        <translation>signera &amp;meddelande...</translation>
     </message>
     <message>
         <source>&amp;Verify message...</source>
-        <translation>&amp;Verificar mensaje...</translation>
+        <translation>&amp;Verifiera meddelande</translation>
     </message>
     <message>
         <source>&amp;Information</source>
-        <translation>&amp;Información</translation>
+        <translation>&amp;Information</translation>
     </message>
     <message>
         <source>Show diagnostic information</source>
-        <translation>Mostrar información de diagnóstico</translation>
+        <translation>Visa diagnostisk information</translation>
     </message>
     <message>
         <source>&amp;Debug console</source>
-        <translation>&amp;Consola de depuración</translation>
+        <translation>Felsökningskonsol</translation>
     </message>
     <message>
         <source>Open debugging console</source>
-        <translation>Abrir consola de depuración</translation>
+        <translation>Öppna felsökningskonsol</translation>
     </message>
     <message>
         <source>&amp;Network Monitor</source>
-        <translation>&amp;Monitor de red</translation>
+        <translation>&amp;Nätverks Övervakare</translation>
     </message>
     <message>
         <source>Show network monitor</source>
-        <translation>Mostrar monitor de red</translation>
+        <translation>Visa nätverksövervakare</translation>
     </message>
     <message>
         <source>&amp;Peers list</source>
-        <translation>&amp;Lista de Peers</translation>
+        <translation>enhets lista</translation>
     </message>
     <message>
         <source>Show peers info</source>
-        <translation>Mostrar información de peers</translation>
+        <translation>Visa enhetslista</translation>
     </message>
     <message>
         <source>Wallet &amp;Repair</source>
-        <translation>&amp;Reparación del monedero</translation>
+        <translation>Plånbok &amp;Reparera</translation>
     </message>
     <message>
         <source>Show wallet repair options</source>
-        <translation>Mostrar opciones de reparación del monedero</translation>
+        <translation>Visa val av reparation av plånbok</translation>
     </message>
     <message>
         <source>Open configuration file</source>
-        <translation>Abrir archivo configuración</translation>
+        <translation>Öppna konfigurations fil</translation>
     </message>
     <message>
         <source>Show Automatic &amp;Backups</source>
-        <translation>Mostrar &amp;copias de seguridad automatizadas</translation>
+        <translation>Visa Automatiskt &amp;Säkerthetskopior</translation>
     </message>
     <message>
         <source>Show automatically created wallet backups</source>
-        <translation>Mostrar las copias de seguridad creadas automáticamente</translation>
+        <translation>Visa automatiskt skapade säkerhetskopior av plånbok</translation>
     </message>
     <message>
         <source>&amp;Sending addresses...</source>
-        <translation>&amp;Direcciones de envío...</translation>
+        <translation>Sändnings adresser</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
-        <translation>Mostrar la lista y etiquetas de direcciones de envío usadas</translation>
+        <translation>Visa listan över använda sändningsadresser och etiketter</translation>
     </message>
     <message>
         <source>&amp;Receiving addresses...</source>
-        <translation>&amp;Dirección receptora</translation>
+        <translation>Mottagar adresser</translation>
     </message>
     <message>
         <source>Show the list of used receiving addresses and labels</source>
-        <translation>Mostrar la lista de las direcciones y etiquetas usadas</translation>
+        <translation>Visa listan över använda mottagar adresser och etiketter</translation>
     </message>
     <message>
         <source>&amp;Multisignature creation...</source>
-        <translation>Creación multifirmas ...</translation>
+        <translation>&amp;Multisignaturskapande...</translation>
     </message>
     <message>
         <source>Create a new multisignature address and add it to this wallet</source>
-        <translation>Crear una nueva dirección multifirma y agregarla a este monedero</translation>
+        <translation>Skapa en ny multisignaturadress och lägg till den till denna plånbok</translation>
     </message>
     <message>
         <source>&amp;Multisignature spending...</source>
-        <translation>Gasto &amp;multifirmas...</translation>
+        <translation>&amp;Multisignatur spendering...</translation>
     </message>
     <message>
         <source>Spend from a multisignature address</source>
-        <translation>Gastar desde una dirección multifirmas</translation>
+        <translation>Spendera från en multisignaturadress</translation>
     </message>
     <message>
         <source>&amp;Multisignature signing...</source>
-        <translation>Firma &amp;multifirmas...</translation>
+        <translation>&amp;Multisignatur signerar...</translation>
     </message>
     <message>
         <source>Sign with a multisignature address</source>
-        <translation>Firmar con una dirección multifirmas</translation>
+        <translation>Signera med en multisignaturadress</translation>
     </message>
     <message>
         <source>Open &amp;URI...</source>
-        <translation>Abrir &amp;URI...</translation>
+        <translation>Öppna &amp; URl</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
-        <translation>&amp;Opciones de linea de comandos</translation>
+        <translation>komanndo linje val</translation>
     </message>
     <message numerus="yes">
         <source>Processed %n blocks of transaction history.</source>
-        <translation><numerusform>Procesados %n bloques del histórico de transacciones.</numerusform><numerusform>Procesados %n bloques del histórico de transacciones.</numerusform></translation>
+        <translation><numerusform>Bearbetar %n block av transaktionshistoriken.</numerusform><numerusform>Bearbetar %n block av transaktionshistoriken.</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing additional data: %p%</source>
-        <translation>Sincronizando datos adicionales: %p%</translation>
+        <translation>synchroniserar ytterligare data %p%</translation>
     </message>
     <message>
         <source>%1 behind. Scanning block %2</source>
-        <translation>%1 detrás. Escaneando bloque %2</translation>
+        <translation>%1 efter. Skannar block %2</translation>
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt; for anonymization and staking only</source>
-        <translation>El monedero está &lt;b&gt;cifrado&lt;/b&gt; y actualmente &lt;b&gt;desbloqueado&lt;/b&gt; para anonimato y prueba de participación.</translation>
+        <translation>Plånboken är &lt;b&gt;krypterad&lt;/b&gt; och för tillfället &lt;b&gt;olåst&lt;/b&gt; för anonymisering och staking enbart</translation>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation>&amp;Archivo</translation>
+        <translation>Fil</translation>
     </message>
     <message>
         <source>&amp;Settings</source>
-        <translation>&amp;Ajustes</translation>
+        <translation>Inställningar</translation>
     </message>
     <message>
         <source>&amp;Tools</source>
-        <translation>&amp;Herramientas</translation>
+        <translation>Verktyg</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation>&amp;Ayuda</translation>
+        <translation>Hjälp</translation>
     </message>
     <message>
         <source>Tabs toolbar</source>
-        <translation>Herramienta de pestañas</translation>
+        <translation>flik vertygsrad</translation>
     </message>
     <message>
         <source>SecurityX Core</source>
-        <translation>SecurityX Core</translation>
+        <translation>SecurityX Kärna</translation>
     </message>
     <message>
         <source>Send coins to a SecurityX address</source>
-        <translation>Enviar monedas a una dirección SecurityX</translation>
+        <translation>Skicka mynt till en SecurityX adress</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and securityx: URIs)</source>
-        <translation>Solicitud de pago (genera un código QR y URIs)</translation>
+        <translation>Begär betalning (genererar QR kod och securityx: URls)</translation>
     </message>
     <message>
         <source>&amp;Privacy</source>
-        <translation>&amp;Privacidad</translation>
+        <translation>&amp;Sekretess</translation>
     </message>
     <message>
         <source>&amp;Masternodes</source>
-        <translation>&amp;Masternodes</translation>
+        <translation>Masternoder</translation>
     </message>
     <message>
         <source>Browse masternodes</source>
-        <translation>Explorar masternodes</translation>
+        <translation>Utforska masternoder</translation>
     </message>
     <message>
         <source>&amp;About SecurityX Core</source>
-        <translation>&amp;Sobre SecurityX Core</translation>
+        <translation>Om SecurityX Kärnan</translation>
     </message>
     <message>
         <source>Show information about SecurityX Core</source>
-        <translation>Mostrar información sobre SecurityX Core</translation>
+        <translation>Visa information om SecurityX Kärnan</translation>
     </message>
     <message>
         <source>Modify configuration options for SecurityX</source>
-        <translation>Modificar las opciones de configuración de SecurityX</translation>
+        <translation>Ändra konfigurationsval för SecurityX</translation>
     </message>
     <message>
         <source>Sign messages with your SecurityX addresses to prove you own them</source>
-        <translation>Firmar mensajes con sus direcciones SecurityX para demostrar que le pertenecen</translation>
+        <translation>Signera meddelanden med din SecurityX adress för att visa att du äger dem</translation>
     </message>
     <message>
         <source>Verify messages to ensure they were signed with specified SecurityX addresses</source>
-        <translation>Verificar mensajes para asegurar que están firmados con la dirección SecurityX especificada</translation>
+        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika SecurityX adressen.</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
-        <translation>&amp;Herramienta BIP38</translation>
+        <translation>BIP38 Verktyg</translation>
     </message>
     <message>
         <source>Encrypt and decrypt private keys using a passphrase</source>
-        <translation>Encriptar y desencriptar las llaves privadas usando una frase contraseña</translation>
+        <translation>Kryptera och dekryptera privata nycklar genom användning av lösenfras</translation>
     </message>
     <message>
         <source>&amp;MultiSend</source>
-        <translation>&amp;MultiEnvío</translation>
+        <translation>&amp;MultiSend</translation>
     </message>
     <message>
         <source>MultiSend Settings</source>
-        <translation>Configuración de MultiEnvío</translation>
+        <translation>MultiSend Inställningar</translation>
     </message>
     <message>
         <source>Open Wallet &amp;Configuration File</source>
-        <translation>Abrir fichero del monedero &amp;Configuración</translation>
+        <translation>Öppna Plånbok &amp;Konfigurations Fil</translation>
     </message>
     <message>
         <source>Open &amp;Masternode Configuration File</source>
-        <translation>Abrir Fichero de Configuración de &amp;Masternodes</translation>
+        <translation>Öppna &amp;Huvudnod Konfigurations Fil</translation>
     </message>
     <message>
         <source>Open Masternode configuration file</source>
-        <translation>Abrir fichero de Configuración de masternodes</translation>
+        <translation>Öppna Huvudnodens konfigurations fil </translation>
     </message>
     <message>
         <source>Open a SecurityX: URI or payment request</source>
-        <translation>Abrir un SecurityX: URI o solicitud de pago</translation>
+        <translation>Öppna en SecurityX: URI eller betalningsförfrågan</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
-        <translation>Explorador de &amp;Blockchain</translation>
+        <translation>&amp;Blockchain Utforskare</translation>
     </message>
     <message>
         <source>Block explorer window</source>
-        <translation>Ventana del explorador de bloques</translation>
+        <translation>Blockera utforskarfönstret</translation>
     </message>
     <message>
         <source>Show the SecurityX Core help message to get a list with possible SecurityX command-line options</source>
-        <translation>Mostrar la ayuda de SecurityX Core para obtener una lista de posibles opciones en línea de comandos</translation>
+        <translation>Visa SecurityX Core hjälp meddelande för att få en lista med möjliga SecurityX kommandorad alternativ</translation>
     </message>
     <message>
         <source>SecurityX Core client</source>
-        <translation>Cliente SecurityX Core</translation>
+        <translation>SecurityX kärn klient</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to SecurityX network</source>
-        <translation><numerusform>%n conexión(es) activas a la red SecurityX</numerusform><numerusform>%n conexión(es) activas a la red SecurityX</numerusform></translation>
+        <translation><numerusform>%n aktiv(a) annslutning(ar) till SecurityX nätverket</numerusform><numerusform>%n aktiv(a) annslutning(ar) till SecurityX nätverket</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
-        <translation>Sincronizando con la red...</translation>
+        <translation>Synkroniserar med nätverket...</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
-        <translation>Importando bloques de disco...</translation>
+        <translation>Importerar block från disk...</translation>
     </message>
     <message>
         <source>Reindexing blocks on disk...</source>
-        <translation>Reindexando bloques en el disco...</translation>
+        <translation>Omindexering av block på disk...</translation>
     </message>
     <message>
         <source>No block source available...</source>
-        <translation>Fuente de bloques no disponible...</translation>
+        <translation>Ingen block källa tillgänglig...</translation>
     </message>
     <message>
         <source>Up to date</source>
-        <translation>Actualizado</translation>
+        <translation>Aktuell</translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s)</source>
-        <translation><numerusform>%n horas</numerusform><numerusform>%n horas</numerusform></translation>
+        <translation><numerusform>%n timme</numerusform><numerusform>%n timmar</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n day(s)</source>
-        <translation><numerusform>%n días</numerusform><numerusform>%n días</numerusform></translation>
+        <translation><numerusform>%n dag</numerusform><numerusform>%n dagar</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n week(s)</source>
-        <translation><numerusform>%n semanas</numerusform><numerusform>%n semanas</numerusform></translation>
+        <translation><numerusform>%n vecka</numerusform><numerusform>%n veckor</numerusform></translation>
     </message>
     <message>
         <source>%1 and %2</source>
-        <translation>%1 y %2</translation>
+        <translation>%1 och %2</translation>
     </message>
     <message numerus="yes">
         <source>%n year(s)</source>
-        <translation><numerusform>%n años</numerusform><numerusform>%n años</numerusform></translation>
+        <translation><numerusform>%n år</numerusform><numerusform>%n år</numerusform></translation>
     </message>
     <message>
         <source>Catching up...</source>
-        <translation>Recogiendo...</translation>
+        <translation>Inhämtar...</translation>
     </message>
     <message>
         <source>Last received block was generated %1 ago.</source>
-        <translation>El último bloque recibido se generó hace %1.</translation>
+        <translation>Senaste block som togs emot genererades för %1 sen.</translation>
     </message>
     <message>
         <source>Transactions after this will not yet be visible.</source>
-        <translation>Las transacciones posteriores todavía no son visibles.</translation>
+        <translation>Transaktioner efter detta kommer ännu inte synas.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Error</translation>
+        <translation>Fel</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>Advertencia</translation>
+        <translation>Varning</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation>Información</translation>
+        <translation>Information</translation>
     </message>
     <message>
         <source>Sent transaction</source>
-        <translation>Transacción enviada</translation>
+        <translation>Skickad transaktion</translation>
     </message>
     <message>
         <source>Incoming transaction</source>
-        <translation>Transacción entrante</translation>
+        <translation>Inkommande transaktion</translation>
     </message>
     <message>
         <source>Sent MultiSend transaction</source>
-        <translation>Transacción MultiEnvío emitida</translation>
+        <translation>Skickad MultiSend transaktion</translation>
     </message>
     <message>
         <source>Date: %1
@@ -822,417 +822,417 @@ Amount: %2
 Type: %3
 Address: %4
 </source>
-        <translation>Fecha: %1
-Cantidad: %2
-Tipo: %3
-Dirección: %4
+        <translation>Datum: %1
+Mängd: %2
+Typ: %3
+Adress: %4
 </translation>
     </message>
     <message>
         <source>Staking is active
  MultiSend: %1</source>
-        <translation>Staking está activado
-MultiEnvío: %1</translation>
+        <translation>Staking aktivt
+MultiSend: %1</translation>
     </message>
     <message>
         <source>Active</source>
-        <translation>Activo</translation>
+        <translation>Aktiv</translation>
     </message>
     <message>
         <source>Not Active</source>
-        <translation>Inactivo</translation>
+        <translation>Inte aktiv</translation>
     </message>
     <message>
         <source>Staking is not active
  MultiSend: %1</source>
-        <translation>Staking inactiva
-MultiEnvío: %1</translation>
+        <translation>Staking inaktivt
+MultiSend: %1</translation>
     </message>
     <message>
         <source>AutoMint is currently enabled and set to </source>
-        <translation>AutoMint está actualmente habilitado y configurado en</translation>
+        <translation>AutoMint är för tillfället aktiverat och inställd på</translation>
     </message>
     <message>
         <source>AutoMint is disabled</source>
-        <translation>AutoMint está desactivado</translation>
+        <translation>AutoMint är inaktiverat</translation>
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation>El monedero está &lt;b&gt;encriptado&lt;/b&gt; y actualmente &lt;b&gt;desbloqueado&lt;/b&gt;</translation>
+        <translation>Plånbok är &lt;b&gt;krypterad&lt;/b&gt; och tillfälligt &lt;b&gt;olåst&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation>El monedero está &lt;b&gt;encriptado&lt;/b&gt; y actualmente &lt;b&gt;bloqueado&lt;/b&gt;</translation>
+        <translation>Plånbok är &lt;b&gt;krypterad&lt;/b&gt; och tillfälligt &lt;b&gt;låst&lt;/b&gt;</translation>
     </message>
 </context>
 <context>
     <name>BlockExplorer</name>
     <message>
         <source>Blockchain Explorer</source>
-        <translation>Explorador del blockchain</translation>
+        <translation>Blockchain Utforskaren</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation>Atrás</translation>
+        <translation>Tillbaka</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation>Adelante</translation>
+        <translation>Framåt</translation>
     </message>
     <message>
         <source>Address / Block / Transaction</source>
-        <translation>Dirección / Bloque / Transacción</translation>
+        <translation>Adress / Block / Transaktion</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation>Buscar</translation>
+        <translation>Sök</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation>EtiquetaDeTexto</translation>
+        <translation>text etikett</translation>
     </message>
     <message>
         <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (securityx.conf).</source>
-        <translation>No se muestran todas las transacciones. Para ver todas las transacciones introduzca la línea "txindex=1" en el archivo de configuración (securityx.conf).</translation>
+        <translation>Alla transaktioner kommer inte visas. För att visa alla transaktioner behöver du sätta txindex=1 i konfigurationsfilen (securityx.conf).</translation>
     </message>
 </context>
 <context>
     <name>ClientModel</name>
     <message>
         <source>Total: %1 (IPv4: %2 / IPv6: %3 / Tor: %4 / Unknown: %5)</source>
-        <translation>Total: %1 (IPv4: %2 / IPv6: %3 / Tor: %4 / Desconocido: %5)</translation>
+        <translation>Total: %1 (IPv4: %2 / IPv6: %3 / Tor: %4 / Okänd: %5)</translation>
     </message>
     <message>
         <source>Network Alert</source>
-        <translation>Alerta de Red</translation>
+        <translation>Nätverks alarm</translation>
     </message>
 </context>
 <context>
     <name>CoinControlDialog</name>
     <message>
         <source>Quantity:</source>
-        <translation>Cantidad:</translation>
+        <translation>Kvantitet:</translation>
     </message>
     <message>
         <source>Bytes:</source>
-        <translation>Octetos:</translation>
+        <translation>Bytes:</translation>
     </message>
     <message>
         <source>Amount:</source>
-        <translation>Cantidad:</translation>
+        <translation>Antal:</translation>
     </message>
     <message>
         <source>Priority:</source>
-        <translation>Prioridad:</translation>
+        <translation>Prioritet:</translation>
     </message>
     <message>
         <source>Fee:</source>
-        <translation>Comisión:</translation>
+        <translation>Avgift:</translation>
     </message>
     <message>
         <source>Coin Selection</source>
-        <translation>Selección de Moneda</translation>
+        <translation>Mynt Val</translation>
     </message>
     <message>
         <source>Dust:</source>
-        <translation>Calderilla:</translation>
+        <translation>Dust:</translation>
     </message>
     <message>
         <source>After Fee:</source>
-        <translation>Después de Comisión:</translation>
+        <translation>Efter Avgift:</translation>
     </message>
     <message>
         <source>Change:</source>
-        <translation>Cambio:</translation>
+        <translation>Växel:</translation>
     </message>
     <message>
         <source>(un)select all</source>
-        <translation>(de)seleccionar todos</translation>
+        <translation>(av)markera alla</translation>
     </message>
     <message>
         <source>toggle lock state</source>
-        <translation>cambiar estado de bloqueo</translation>
+        <translation>toggla låst läge</translation>
     </message>
     <message>
         <source>Tree mode</source>
-        <translation>Modo de Árbol</translation>
+        <translation>träd mode</translation>
     </message>
     <message>
         <source>List mode</source>
-        <translation>Modo de Lista</translation>
+        <translation>list mode</translation>
     </message>
     <message>
         <source>(1 locked)</source>
-        <translation>(1 bloqueado)</translation>
+        <translation>(1 låst)</translation>
     </message>
     <message>
         <source>Amount</source>
-        <translation>Cantidad</translation>
+        <translation>Mängd</translation>
     </message>
     <message>
         <source>Received with label</source>
-        <translation>Recibido con etiqueta</translation>
+        <translation>Mottag med etikett</translation>
     </message>
     <message>
         <source>Received with address</source>
-        <translation>Recibido con dirección</translation>
+        <translation>Mottag med adress</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Tipo</translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation>Fecha</translation>
+        <translation>Datum</translation>
     </message>
     <message>
         <source>Confirmations</source>
-        <translation>Confirmaciones</translation>
+        <translation>Bekräftelser</translation>
     </message>
     <message>
         <source>Confirmed</source>
-        <translation>Confirmado</translation>
+        <translation>bekräftad</translation>
     </message>
     <message>
         <source>Priority</source>
-        <translation>Prioridad</translation>
+        <translation>Prioritet</translation>
     </message>
     <message>
         <source>Copy address</source>
-        <translation>Copiar dirección</translation>
+        <translation>Kopiera Adress</translation>
     </message>
     <message>
         <source>Copy label</source>
-        <translation>Copiar etiqueta</translation>
+        <translation>Kopiera etikett</translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>Copiar cantidad</translation>
+        <translation>Kopiera antal</translation>
     </message>
     <message>
         <source>Copy transaction ID</source>
-        <translation>Copiar código de transacción</translation>
+        <translation>Kopiera transaktions ID</translation>
     </message>
     <message>
         <source>Lock unspent</source>
-        <translation>Bloquear no gastado</translation>
+        <translation>Lås ospenderat</translation>
     </message>
     <message>
         <source>Unlock unspent</source>
-        <translation>Desbloquear no gastado</translation>
+        <translation>Lås upp ospenderat</translation>
     </message>
     <message>
         <source>Copy quantity</source>
-        <translation>Copiar cantidad</translation>
+        <translation>Kopiera kvantitet</translation>
     </message>
     <message>
         <source>Copy fee</source>
-        <translation>Copiar comisión</translation>
+        <translation>Kopiera avgift</translation>
     </message>
     <message>
         <source>Copy after fee</source>
-        <translation>Copiar después de comisión</translation>
+        <translation>Kopiera efter avgift</translation>
     </message>
     <message>
         <source>Copy bytes</source>
-        <translation>Copiar octetos</translation>
+        <translation>Kopiera bytes</translation>
     </message>
     <message>
         <source>Copy priority</source>
-        <translation>Copiar prioridad</translation>
+        <translation>Kopierings prioritet</translation>
     </message>
     <message>
         <source>Copy dust</source>
-        <translation>Copiar calderilla</translation>
+        <translation>Kopiera dust</translation>
     </message>
     <message>
         <source>Copy change</source>
-        <translation>Copiar cambio</translation>
+        <translation>kopiera ändringar</translation>
     </message>
     <message>
         <source>Please switch to "List mode" to use this function.</source>
-        <translation>Por favor cambie a "Modo de Lista" para utilizar esta función.</translation>
+        <translation>Var vänlig byt till "Lista läge" för att använda denna funktion.</translation>
     </message>
     <message>
         <source>highest</source>
-        <translation>la más alta</translation>
+        <translation>högst</translation>
     </message>
     <message>
         <source>higher</source>
-        <translation>más alta</translation>
+        <translation>högre</translation>
     </message>
     <message>
         <source>high</source>
-        <translation>alta</translation>
+        <translation>hög</translation>
     </message>
     <message>
         <source>medium-high</source>
-        <translation>medio-alta</translation>
+        <translation>medel-hög</translation>
     </message>
     <message>
         <source>medium</source>
-        <translation>media</translation>
+        <translation>medel</translation>
     </message>
     <message>
         <source>low-medium</source>
-        <translation>baja-media</translation>
+        <translation>låg-medel</translation>
     </message>
     <message>
         <source>low</source>
-        <translation>baja</translation>
+        <translation>låg</translation>
     </message>
     <message>
         <source>lower</source>
-        <translation>muy baja</translation>
+        <translation>lägre</translation>
     </message>
     <message>
         <source>lowest</source>
-        <translation>la más baja</translation>
+        <translation>lägst</translation>
     </message>
     <message>
         <source>(%1 locked)</source>
-        <translation>(%1 bloqueado)</translation>
+        <translation>(%1 låst)</translation>
     </message>
     <message>
         <source>none</source>
-        <translation>ninguno</translation>
+        <translation>ingen</translation>
     </message>
     <message>
         <source>yes</source>
-        <translation>sí</translation>
+        <translation>ja</translation>
     </message>
     <message>
         <source>no</source>
-        <translation>no</translation>
+        <translation>nej</translation>
     </message>
     <message>
         <source>This label turns red, if the transaction size is greater than 1000 bytes.</source>
-        <translation>Esta etiqueta se pone roja, si el tamaño de la transacción es mayor de 1000 bytes.</translation>
+        <translation>Den här etiketten blir röd, ifall storleken på transaktionen överstiger 1000 bytes.</translation>
     </message>
     <message>
         <source>This means a fee of at least %1 per kB is required.</source>
-        <translation>Esto significa que se requiere una comisión de al menos %1 por kB.</translation>
+        <translation>Detta betyder att en avgift på minst %1 per kB är nödvändigt.</translation>
     </message>
     <message>
         <source>Can vary +/- 1 byte per input.</source>
-        <translation>Puede variar +/- 1 byte por entrada.</translation>
+        <translation>Kan variera med +/- 1 byte per inmatning.</translation>
     </message>
     <message>
         <source>Transactions with higher priority are more likely to get included into a block.</source>
-        <translation>Las transacciones con alta prioridad tienen más probabilidades de ser incluidas en un bloque.</translation>
+        <translation>Transaktioner med högre prioritet har högre sannolikhet att inkluderas i ett block.</translation>
     </message>
     <message>
         <source>This label turns red, if the priority is smaller than "medium".</source>
-        <translation>Esta etiqueta se vuelve roja, si la prioridad es inferior a "media".</translation>
+        <translation>Den här etiketten blir röd, om prioriteten är lägre än "medium".</translation>
     </message>
     <message>
         <source>This label turns red, if any recipient receives an amount smaller than %1.</source>
-        <translation>Esta etiqueta se vuelve roja, si algún destinatario recibe una cantidad menor que %1.</translation>
+        <translation>Den här etiketten blir röd, ifall någon mottagare får en mängd som är mindre än %1.</translation>
     </message>
     <message>
         <source>Can vary +/- %1 usecx per input.</source>
-        <translation>Puede variar +/- %1 usecx por entrada.</translation>
+        <translation>Kan variera med +/- %1 usecx per inmatning.</translation>
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(sin etiqueta)</translation>
+        <translation>(Ingen etikett)</translation>
     </message>
     <message>
         <source>change from %1 (%2)</source>
-        <translation>cambio desde %1 (%2)</translation>
+        <translation>ändra från %1 (%2)</translation>
     </message>
     <message>
         <source>(change)</source>
-        <translation>(cambio)</translation>
+        <translation>(ändra)</translation>
     </message>
 </context>
 <context>
     <name>EditAddressDialog</name>
     <message>
         <source>Edit Address</source>
-        <translation>Editar Dirección</translation>
+        <translation>Redigera Adress</translation>
     </message>
     <message>
         <source>&amp;Label</source>
-        <translation>&amp;Etiqueta</translation>
+        <translation>&amp;Etikett</translation>
     </message>
     <message>
         <source>The label associated with this address list entry</source>
-        <translation>La etiqueta asociada con esta entrada de la libreta de direcciones</translation>
+        <translation>Etiketten som associeras med denna adresslista</translation>
     </message>
     <message>
         <source>&amp;Address</source>
-        <translation>&amp;Dirección</translation>
+        <translation>&amp;Adress</translation>
     </message>
     <message>
         <source>The address associated with this address list entry. This can only be modified for sending addresses.</source>
-        <translation>La dirección asociada con esta entrada de la libreta de direcciones. Ésta sólo puede ser modificada en las direcciones de envío.</translation>
+        <translation>Adressen som associeras med denna adresslista. Den kan bara modifieras för skickande adresser.</translation>
     </message>
     <message>
         <source>New receiving address</source>
-        <translation>Nueva dirección de cobro</translation>
+        <translation>Ny mottagaradress</translation>
     </message>
     <message>
         <source>New sending address</source>
-        <translation>Nueva dirección de envío</translation>
+        <translation>Ny skickande adress</translation>
     </message>
     <message>
         <source>Edit receiving address</source>
-        <translation>Editar dirección de cobro</translation>
+        <translation>Redigera mottagaradressen</translation>
     </message>
     <message>
         <source>Edit sending address</source>
-        <translation>Editar dirección de envío</translation>
+        <translation>Redigera skickande adress</translation>
     </message>
     <message>
         <source>The entered address "%1" is not a valid SecurityX address.</source>
-        <translation>La dirección introducida "%1" no es una dirección SecurityX válida.</translation>
+        <translation>Den inmatade adressen "%1" är ej en giltig SecurityX adress.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
-        <translation>La dirección introducida "%1" ya está en la libreta de direcciones.</translation>
+        <translation>Den inmatade adressen "%1" är redan i adressboken.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
-        <translation>No se pudo desbloquear el monedero.</translation>
+        <translation>Kunde inte låsa upp plånbok.</translation>
     </message>
     <message>
         <source>New key generation failed.</source>
-        <translation>La generación de llave nueva falló.</translation>
+        <translation>Generering av ny nyckel misslyckades.</translation>
     </message>
 </context>
 <context>
     <name>FreespaceChecker</name>
     <message>
         <source>A new data directory will be created.</source>
-        <translation>Se creará una nueva carpeta de datos.</translation>
+        <translation>En ny data katalog kommer skapas.</translation>
     </message>
     <message>
         <source>name</source>
-        <translation>nombre</translation>
+        <translation>namn</translation>
     </message>
     <message>
         <source>Directory already exists. Add %1 if you intend to create a new directory here.</source>
-        <translation>El directorio ya existe, Añada %1 si pretende crear una nueva carpeta aquí.</translation>
+        <translation>Katalogen finns redan. Lägg till %1 om vill skapa en ny katalog här.</translation>
     </message>
     <message>
         <source>Path already exists, and is not a directory.</source>
-        <translation>La ruta ya existe, y no es una carpeta.</translation>
+        <translation>Vägen finns redan och är inte en katalog.</translation>
     </message>
     <message>
         <source>Cannot create data directory here.</source>
-        <translation>No se puede crear un directorio de datos aquí.</translation>
+        <translation>Kan inte skapa data katalog här.</translation>
     </message>
 </context>
 <context>
     <name>HelpMessageDialog</name>
     <message>
         <source>version</source>
-        <translation>versión</translation>
+        <translation>version</translation>
     </message>
     <message>
         <source>SecurityX Core</source>
-        <translation>SecurityX Core</translation>
+        <translation>SecurityX Kärna</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
@@ -1240,70 +1240,70 @@ MultiEnvío: %1</translation>
     </message>
     <message>
         <source>About SecurityX Core</source>
-        <translation>Acerca de SecurityX Core</translation>
+        <translation>Om SecurityX Kärna</translation>
     </message>
     <message>
         <source>Command-line options</source>
-        <translation>Opciones de línea de comandos</translation>
+        <translation>Kommandoradsalternativ</translation>
     </message>
     <message>
         <source>Usage:</source>
-        <translation>Uso:</translation>
+        <translation>Användning:</translation>
     </message>
     <message>
         <source>command-line options</source>
-        <translation>opciones de línea de comandos</translation>
+        <translation>kommandoradsalternativ</translation>
     </message>
     <message>
         <source>UI Options:</source>
-        <translation>Opciones de interfaz de usuario:</translation>
+        <translation>Användargränssnitts-alternativ</translation>
     </message>
     <message>
         <source>Choose data directory on startup (default: %u)</source>
-        <translation>Elija la carpeta de datos al arrancar (por defecto: %u)</translation>
+        <translation>Välj data katalog vid start (standard: %u)</translation>
     </message>
     <message>
         <source>Show splash screen on startup (default: %u)</source>
-        <translation>Mostrar pantalla de bienvenida al arrancar (por defecto: %u)</translation>
+        <translation>Visa startbild vid start (standard: %u)</translation>
     </message>
     <message>
         <source>Set language, for example "de_DE" (default: system locale)</source>
-        <translation>Seleccionar el idioma, por ejemplo "es_ES" (por defecto: idioma del sistema)</translation>
+        <translation>Ange språk, till exempel "de_DE" (standard: system)</translation>
     </message>
     <message>
         <source>Start minimized</source>
-        <translation>Arrancar minimizado</translation>
+        <translation>Starta i minimerat läge</translation>
     </message>
     <message>
         <source>Set SSL root certificates for payment request (default: -system-)</source>
-        <translation>Elegir certificado raíz SSL para solicitud de pago (por defecto: -sistema-)</translation>
+        <translation>Ställ in SSL root certificates för betalningsbegäran (standard: -system-)</translation>
     </message>
 </context>
 <context>
     <name>Intro</name>
     <message>
         <source>Welcome</source>
-        <translation>Bienvenido/a</translation>
+        <translation>Välkommen</translation>
     </message>
     <message>
         <source>Welcome to SecurityX Core.</source>
-        <translation>Bienvenido/a a SecurityX Core.</translation>
+        <translation>Välkommen till SecurityX Core.</translation>
     </message>
     <message>
         <source>As this is the first time the program is launched, you can choose where SecurityX Core will store its data.</source>
-        <translation>Al ser la primera vez que se inicia el programa, usted puede elegir dónde guardará SecurityX Core sus datos.</translation>
+        <translation>Eftersom detta är första gången programmet körs så kan du välja var SecurityX Core ska spara sin data.</translation>
     </message>
     <message>
         <source>SecurityX Core will download and store a copy of the SecurityX block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>SecurityX Core descargará y guardará una copia de la cadena de bloques SecurityX. Por lo menos %1GB de datos serán guardados en esta carpeta, y crecerá con el tiempo. El monedero también se guardará en esta carpeta.</translation>
+        <translation>SecurityX Kärnan kommer ladda ner och spara en kopia av SecurityX block chain. Minst %1GB data kommer sparas i denna katalog och den kommer växa med tiden. Plånboken kommer också sparas i denna katalog.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
-        <translation>Usar la carpeta de datos por defecto</translation>
+        <translation>Använd standard data katalogen</translation>
     </message>
     <message>
         <source>Use a custom data directory:</source>
-        <translation>Usar una carpeta de datos personalizada:</translation>
+        <translation>Använd en skräddarsydd data katalog</translation>
     </message>
     <message>
         <source>SecurityX Core</source>
@@ -1311,82 +1311,82 @@ MultiEnvío: %1</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
-        <translation>Error: La carpeta de datos especificada "%1" no pudo ser creada.</translation>
+        <translation>Fel: Den specifierade data katalogen "%1" kan inte skapas.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Error</translation>
+        <translation>Fel</translation>
     </message>
     <message>
         <source>%1 GB of free space available</source>
-        <translation>%1 GB de espacio libre en disco</translation>
+        <translation>%1 GB ledigt diskutrymme tillgängligt</translation>
     </message>
     <message>
         <source>(of %1 GB needed)</source>
-        <translation>(de %1 GB necesarios)</translation>
+        <translation>(varav %1 GB är nödvändigt)</translation>
     </message>
 </context>
 <context>
     <name>MasternodeList</name>
     <message>
         <source>Form</source>
-        <translation>Formulario</translation>
+        <translation>Formulär</translation>
     </message>
     <message>
         <source>MASTERNODES</source>
-        <translation>NODO MAESTROS</translation>
+        <translation>HUVUDNODER</translation>
     </message>
     <message>
         <source>Note: Status of your masternodes in local wallet can potentially be slightly incorrect.&lt;br /&gt;Always wait for wallet to sync additional data and then double check from another node&lt;br /&gt;if your node should be running but you still see "MISSING" in "Status" field.</source>
-        <translation>Nota: El estado de tus nodos maestros en el monedero local podría ser incorrecto.&lt;br /&gt;Siempre espere a que el monedero sincronice la información adicional y entonces compruébelo desde otro nodo&lt;br /&gt;si su nodo debería estar funcionando pero aún vee el mensaje "FALTA" en el campo "Estado".</translation>
+        <translation>Observera: Dina huvudnodernas status i local plånbok kan potentiellt vara något inkorrekta. &lt;br /&gt;Vänta alltid på att plånboken ska synkronisera ytterligare data och sedan dubbelkolla med en annan nod&lt;br /&gt; om din nod skulle fortfarande köras men du ser fortfarande "FATTAS" i "Status" fältet.</translation>
     </message>
     <message>
         <source>Alias</source>
-        <translation>Apodo</translation>
+        <translation>Alias</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>Dirección</translation>
+        <translation>Adress</translation>
     </message>
     <message>
         <source>Protocol</source>
-        <translation>Protocolo</translation>
+        <translation>Protokoll</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>Estado</translation>
+        <translation>Status</translation>
     </message>
     <message>
         <source>Active</source>
-        <translation>Activo</translation>
+        <translation>Aktiv</translation>
     </message>
     <message>
         <source>Last Seen (UTC)</source>
-        <translation>Visto por última vez (UTC)</translation>
+        <translation>Senast Sedd (UTC)</translation>
     </message>
     <message>
         <source>Pubkey</source>
-        <translation>Llave pública</translation>
+        <translation>Pubkey</translation>
     </message>
     <message>
         <source>S&amp;tart alias</source>
-        <translation>&amp;Iniciar apodo</translation>
+        <translation>Start &amp;alias</translation>
     </message>
     <message>
         <source>Start &amp;all</source>
-        <translation>Iniciar &amp;todo</translation>
+        <translation>Start &amp;allt</translation>
     </message>
     <message>
         <source>Start &amp;MISSING</source>
-        <translation>Iniciar &amp;FALTAN</translation>
+        <translation>Start &amp;FATTAS</translation>
     </message>
     <message>
         <source>&amp;Update status</source>
-        <translation>Estado de &amp;Actualización</translation>
+        <translation>&amp;Uppdatera status</translation>
     </message>
     <message>
         <source>Status will be updated automatically in (sec):</source>
-        <translation>El estado se actualizará automáticamente en (seg):</translation>
+        <translation>Status kommer automatiskt att uppdateras om (sec):</translation>
     </message>
     <message>
         <source>0</source>
@@ -1394,88 +1394,88 @@ MultiEnvío: %1</translation>
     </message>
     <message>
         <source>Start alias</source>
-        <translation>Iniciar apodo</translation>
+        <translation>Starta alias</translation>
     </message>
     <message>
         <source>Confirm masternode start</source>
-        <translation>Confirmar inicio del masternode</translation>
+        <translation>Bekräfta huvudnod start</translation>
     </message>
     <message>
         <source>Are you sure you want to start masternode %1?</source>
-        <translation>¿Está seguro de que quiere arrancar el masternode %1?</translation>
+        <translation>Är du säker på att du vill starta huvudnod %1?</translation>
     </message>
     <message>
         <source>Confirm all masternodes start</source>
-        <translation>Confirmar el arranque de todos los masternodes</translation>
+        <translation>Konfirmera att alla huvudnoder startar</translation>
     </message>
     <message>
         <source>Are you sure you want to start ALL masternodes?</source>
-        <translation>¿Estás seguro de querer arrancar TODOS los masternodes?</translation>
+        <translation>Är du säker på att du vill starta ALLA huvudnoder?</translation>
     </message>
     <message>
         <source>Command is not available right now</source>
-        <translation>El comando no está disponible en este momento</translation>
+        <translation>Kommandot är inte tillgängligt just nu</translation>
     </message>
     <message>
         <source>You can't use this command until masternode list is synced</source>
-        <translation>No se puede utilizar este comando hasta que la lista de nodos maestros esté sincronizada</translation>
+        <translation>Du kan inte använda detta kommando fram tills huvudnodlistan (masternode) är synkad</translation>
     </message>
     <message>
         <source>Confirm missing masternodes start</source>
-        <translation>Confirmar arranque de masternodes no encontrados</translation>
+        <translation>Konfirmera att försvunnen huvudnod startas</translation>
     </message>
     <message>
         <source>Are you sure you want to start MISSING masternodes?</source>
-        <translation>¿Estás seguro de querer arrancar los masternodes NO ENCONTRADOS?</translation>
+        <translation>Är du säker på att du vill starta SAKNADE huvudnoder (masternodes) ?</translation>
     </message>
 </context>
 <context>
     <name>MultiSendDialog</name>
     <message>
         <source>MultiSend</source>
-        <translation>MultiEnvío</translation>
+        <translation>MultiSend</translation>
     </message>
     <message>
         <source>Enter whole numbers 1 - 100</source>
-        <translation>Introduzca números enteros 1 - 100</translation>
+        <translation>Mata in heltal 1 - 100</translation>
     </message>
     <message>
         <source>Enter % to Give (1-100)</source>
-        <translation>Introduzca % a Dar (1-100)</translation>
+        <translation>Slå in % för att Ge (1-100)</translation>
     </message>
     <message>
         <source>Enter Address to Send to</source>
-        <translation>Introduzca Dirección a la cual Enviar</translation>
+        <translation>Mata in Adress att Skicka till</translation>
     </message>
     <message>
         <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other SecurityX addresses after it matures.
 To Add: enter percentage to give and SecurityX address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiEnvío le permite enviar automáticamente hasta el 100% de recompensa de participación o de nodo maestro a una lista de otras direcciones SecurityX después de su maduración.
-Para Añadir: introduzca porcentaje a enviar y las direcciones SecurityX a añadir al vector MultiEnvío.
-Para Eliminar: Introduzca la dirección a eliminar y pulse la tecla delete.
-MultiEnvío no se activará a menos que haga usted click en Activar</translation>
+        <translation>MultiSend tillåter dig att automatiskt skicka upp till 100% av dina staking eller huvudnod belöningar till en lista av andra SecurityX adresser efter att belöningarna har mognat.
+För att Lägga till: Ange procent att ge och SecurityX adress för att lägga till i MultiSend vektorn.
+För att Ta Bort: Ange adressen som ska tas bort och tryck ta bort.
+MultiSend kommer inte aktiveras om du inte tryckt på Aktivera</translation>
     </message>
     <message>
         <source>Add to MultiSend Vector</source>
-        <translation>Añadir al vector MultiSend</translation>
+        <translation>Lägg till MultiSend Vektor</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Añadir</translation>
+        <translation>Lägg till</translation>
     </message>
     <message>
         <source>Deactivate MultiSend</source>
-        <translation>Desactivar MultiEnvío</translation>
+        <translation>Avaktivera MultiSend</translation>
     </message>
     <message>
         <source>Deactivate</source>
-        <translation>Desactivar</translation>
+        <translation>Avaktivera</translation>
     </message>
     <message>
         <source>Choose an address from the address book</source>
-        <translation>Seleccione una dirección de la libreta de direcciones</translation>
+        <translation>Välj en adress från adressboken</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -1483,106 +1483,105 @@ MultiEnvío no se activará a menos que haga usted click en Activar</translation
     </message>
     <message>
         <source>Percentage of stake to send</source>
-        <translation>Porcentaje de stake a enviar</translation>
+        <translation>Procent av staking att skicka</translation>
     </message>
     <message>
         <source>Percentage:</source>
-        <translation>Porcentaje:</translation>
+        <translation>Procent:</translation>
     </message>
     <message>
         <source>Address to send portion of stake to</source>
-        <translation>Dirección a enviar porción del stake</translation>
+        <translation>Adress till att skicka del av staking till</translation>
     </message>
     <message>
         <source>Address:</source>
-        <translation>Dirección:</translation>
+        <translation>Adress:</translation>
     </message>
     <message>
         <source>Label:</source>
-        <translation>Etiqueta:</translation>
+        <translation>Etikett:</translation>
     </message>
     <message>
         <source>Enter a label for this address to add it to your address book</source>
-        <translation>Introduzca una etiqueta para esta dirección para añadirla a su libreta de direcciones</translation>
+        <translation>Mata in en etikett till denna adress för att lägga till den till din adressbok</translation>
     </message>
     <message>
         <source>Delete Address From MultiSend Vector</source>
-        <translation>Borrar Dirección De Vector MultiEnvío</translation>
+        <translation>Ta Bort Adresser Från MultiSend Vektorn</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Borrar</translation>
+        <translation>Radera</translation>
     </message>
     <message>
         <source>Activate MultiSend</source>
-        <translation>Activar MultiEnvío</translation>
+        <translation>Aktivera MultiSend</translation>
     </message>
     <message>
         <source>Activate</source>
-        <translation>Activar</translation>
+        <translation>Aktivera</translation>
     </message>
     <message>
         <source>View MultiSend Vector</source>
-        <translation>Ver Vector MultiEnvío</translation>
+        <translation>Visa MultiSend Vektor</translation>
     </message>
     <message>
         <source>View MultiSend</source>
-        <translation>Ver MultiEnvío</translation>
+        <translation>Visa MultiSend</translation>
     </message>
     <message>
         <source>Send For Stakes</source>
-        <translation>Enviar Para Stakes</translation>
+        <translation>Skicka För Stakes</translation>
     </message>
     <message>
         <source>Send For Masternode Rewards</source>
-        <translation>Enviar Para Recomensas De masternodes</translation>
+        <translation>Skicka för masternode belöningar</translation>
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(sin etiqueta)</translation>
+        <translation>(Ingen etikett)</translation>
     </message>
     <message>
         <source>The entered address:
 </source>
-        <translation>La dirección introducida:
+        <translation>Den inmatade adressen:
 </translation>
     </message>
     <message>
         <source> is invalid.
 Please check the address and try again.</source>
-        <translation>es inválida.
-Por favor compruebe la dirección e inténtelo de nuevo.</translation>
+        <translation>är ogiltig.
+Var vänlig kontrollera adressen och försök igen.</translation>
     </message>
     <message>
         <source>The total amount of your MultiSend vector is over 100% of your stake reward
 </source>
-        <translation>La cantidad total de su vector MultiEnvío es superior al 100% de su recompensa de stake
+        <translation>Din totala MultiSend vektor mängd överstiger 100% av din staking belöning
 </translation>
     </message>
     <message>
         <source>Please Enter 1 - 100 for percent.</source>
-        <translation>Por favor Introduzca 1 - 100 por ciento.</translation>
+        <translation>Var vänlig mata in 1 - 100 i procent.</translation>
     </message>
     <message>
         <source>Saved the MultiSend to memory, but failed saving properties to the database.
 </source>
-        <translation>Se guardó MultiEnvío en la memoria, pero se produjo un error al guardar las propiedades en la base de datos.
+        <translation>Sparade MultiSend till minne, men misslyckades spara egenskaperna till databasen.
 </translation>
     </message>
     <message>
         <source>MultiSend Vector
 </source>
-        <translation>Vector MultiEnvío
-</translation>
+        <translation>MultiSend Vektor</translation>
     </message>
     <message>
         <source>Removed </source>
-        <translation>Borrado</translation>
+        <translation>Borttagen</translation>
     </message>
     <message>
         <source>Could not locate address
 </source>
-        <translation>No se pudo localizar la dirección
+        <translation>Kunde inte lokalisera adress
 </translation>
     </message>
 </context>
@@ -1590,75 +1589,75 @@ Por favor compruebe la dirección e inténtelo de nuevo.</translation>
     <name>MultisigDialog</name>
     <message>
         <source>Multisignature Address Interactions</source>
-        <translation>Interacciones de direcciones multifirmas</translation>
+        <translation>Multisignatur Adress Interaktioner</translation>
     </message>
     <message>
         <source>Create MultiSignature &amp;Address</source>
-        <translation>Crear una dirección multifirma</translation>
+        <translation>Skapa MultiSignatur &amp;Adress</translation>
     </message>
     <message>
         <source>How many people must sign to verify a transaction</source>
-        <translation>Cuántas personas deben firmar para verificar una transacción</translation>
+        <translation>Hur många måste skriva på för att verifiera en transaktion</translation>
     </message>
     <message>
         <source>Enter the minimum number of signatures required to sign transactions</source>
-        <translation>Entra el número mínimo de firmas requerido para firmar la transacción</translation>
+        <translation>Slå in den minsta nödvändiga mängden signaturer till att skriva under transaktioner</translation>
     </message>
     <message>
         <source>Address Label:</source>
-        <translation>Etiqueta de dirección</translation>
+        <translation>Adress Etikett:</translation>
     </message>
     <message>
         <source>Add another address that could sign to verify a transaction from the multisig address.</source>
-        <translation>Agrega otra dirección que pueda firmar para verificar la transacción desde la dirección multifirmas</translation>
+        <translation>Lägg till en annan adress som kan skriva under för att verifiera en transaktion från multisig adressen.</translation>
     </message>
     <message>
         <source>&amp;Add Address / Key</source>
-        <translation>&amp;Agrega dirección / Llave</translation>
+        <translation>&amp;Lägg till Adress / Nyckel</translation>
     </message>
     <message>
         <source>Local addresses or public keys that can sign:</source>
-        <translation>Direcciones locales o llaves publicas que puedan firmar:</translation>
+        <translation>Lokala adresser eller offentliga nycklar som kan skriva under:</translation>
     </message>
     <message>
         <source>Create a new multisig address</source>
-        <translation>Crea una nueva dirección multifirmas</translation>
+        <translation>Skapa en ny multisig adress</translation>
     </message>
     <message>
         <source>C&amp;reate</source>
-        <translation>C&amp;rear</translation>
+        <translation>C&amp;reate</translation>
     </message>
     <message>
         <source>Status:</source>
-        <translation>Estado:</translation>
+        <translation>Status:</translation>
     </message>
     <message>
         <source>Use below to quickly import an address by its redeem. Don't forget to add a label before clicking import!
 Keep in mind, the wallet will rescan the blockchain to find transactions containing the new address.
 Please be patient after clicking import.</source>
-        <translation>Use debajo para importar rápidamente una dirección al canjearla. ¡No olvide agregar una etiqueta antes de hacer clic en importar!
-Tenga en cuenta que el monedero volverá a explorar el blockchain para buscar transacciones que contengan la nueva dirección.
-Por favor, tenga paciencia después de hacer clic en importar.</translation>
+        <translation>Använd nedan för att snabbt importera en adress genom dess inlösning. Glöm inte att lägga till en etikett innan du trycker på importera!
+Kom ihåg att plånboken kommer scanna om the blockchain för att hitta transaktioner som innehåller den nya adressen.
+Var god vänta efter att du trycker på importera.</translation>
     </message>
     <message>
         <source>&amp;Import Redeem</source>
-        <translation>&amp;Importar redimir</translation>
+        <translation>&amp;Importera Inlösning</translation>
     </message>
     <message>
         <source>&amp;Create MultiSignature Tx</source>
-        <translation>Crear transacción multifirmas</translation>
+        <translation>&amp;Skapa MultiSignatur Tx</translation>
     </message>
     <message>
         <source>Inputs:</source>
-        <translation>Entradas:</translation>
+        <translation>Inmatningar:</translation>
     </message>
     <message>
         <source>Coin Control</source>
-        <translation>Control de moneda</translation>
+        <translation>Mynt Kontroll</translation>
     </message>
     <message>
         <source>Quantity Selected:</source>
-        <translation>Cantidad Seleccionada:</translation>
+        <translation>Kvantitet Vald:</translation>
     </message>
     <message>
         <source>0</source>
@@ -1666,173 +1665,173 @@ Por favor, tenga paciencia después de hacer clic en importar.</translation>
     </message>
     <message>
         <source>Amount:</source>
-        <translation>Cantidad:</translation>
+        <translation>Antal:</translation>
     </message>
     <message>
         <source>Add an input to fund the outputs</source>
-        <translation>Agregue una entrada para financiar las salidas</translation>
+        <translation>Lägg till en inmatning för att få outputs</translation>
     </message>
     <message>
         <source>Add a Raw Input</source>
-        <translation>Agregar una entrada sin procesar</translation>
+        <translation>Lägg till en "rå" Inmatning</translation>
     </message>
     <message>
         <source>Address / Amount:</source>
-        <translation>Dirección / Cantidad:</translation>
+        <translation>Adress / Mängd:</translation>
     </message>
     <message>
         <source>Add destinations to send SECX to</source>
-        <translation>Agregue los destinos para enviar SECX</translation>
+        <translation>Lägg till destination att skicka SECX till</translation>
     </message>
     <message>
         <source>Add &amp;Destination</source>
-        <translation>Agregar &amp;Destino</translation>
+        <translation>Lägg till &amp;Destination</translation>
     </message>
     <message>
         <source>Create a transaction object using the given inputs to the given outputs</source>
-        <translation>Crear un objeto de transacción usando las entradas dadas a las salidas dadas</translation>
+        <translation>Skapa ett transaktionsobjekt genom att använda de givna inmatningarna till de givna utmatningarna</translation>
     </message>
     <message>
         <source>Cr&amp;eate</source>
-        <translation>Cr&amp;ear</translation>
+        <translation>Cr&amp;eate</translation>
     </message>
     <message>
         <source>&amp;Sign MultiSignature Tx</source>
-        <translation>&amp;Firmar Tx multifirmas</translation>
+        <translation>&amp;Skriv under MultiSignatur Tx</translation>
     </message>
     <message>
         <source>Transaction Hex:</source>
-        <translation>Hexadecimal de transacción:</translation>
+        <translation>Transaktions Hex:</translation>
     </message>
     <message>
         <source>Sign the transaction from this wallet or from provided private keys</source>
-        <translation>Firma la transacción desde este monedero o desde llaves privadas provistas</translation>
+        <translation>Skriv under från denna plånbok eller från försedd privat nyckel</translation>
     </message>
     <message>
         <source>S&amp;ign</source>
-        <translation>F&amp;irmar</translation>
+        <translation>S&amp;ignera</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;DISABLED until transaction has been signed enough times.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;DESACTIVADO hasta que la transacción se haya firmado suficientes veces.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;IINAKTIVERAD tills transaktion har blivit signerad tillräckligt många gånger.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Co&amp;mmit</source>
-        <translation>Co&amp;nfirmar</translation>
+        <translation>Co&amp;mmit</translation>
     </message>
     <message>
         <source>Add private keys to sign the transaction with</source>
-        <translation>Agregar llaves privadas para firmar la transacción</translation>
+        <translation>Lägg till privata nycklar att skriva under transaktionen med</translation>
     </message>
     <message>
         <source>Add Private &amp;Key</source>
-        <translation>Agregar &amp;llave privada</translation>
+        <translation>Lägg till Privat &amp;Nyckel</translation>
     </message>
     <message>
         <source>Sign with only private keys (Not Recommened)</source>
-        <translation>Firmar solo con llaves privadas (No Recomendado)</translation>
+        <translation>Signera endast med privata nycklar (Inte Rekomenderat)</translation>
     </message>
     <message>
         <source>Invalid Tx Hash.</source>
-        <translation>Hash Tx inválido.</translation>
+        <translation>Ogiltig Tx Hash.</translation>
     </message>
     <message>
         <source>Vout position must be positive.</source>
-        <translation>La posición de Vout debe ser positiva.</translation>
+        <translation>Vout position måste vara positiv.</translation>
     </message>
     <message>
         <source>Maximum possible addresses reached. (15)</source>
-        <translation>Máxima cantidad de direcciones posibles alcanzadas. (15)</translation>
+        <translation>Högst antal möjliga adresser nådda. (15)</translation>
     </message>
     <message>
         <source>Vout Position: </source>
-        <translation>Posición Vout:</translation>
+        <translation>Vout Position:</translation>
     </message>
     <message>
         <source>Amount: </source>
-        <translation>Cantidad:</translation>
+        <translation>Mängd:</translation>
     </message>
     <message>
         <source>Maximum (15)</source>
-        <translation>Máximo (15)</translation>
+        <translation>Max antal (15)</translation>
     </message>
 </context>
 <context>
     <name>ObfuscationConfig</name>
     <message>
         <source>Configure Obfuscation</source>
-        <translation>Configurar Ofuscación</translation>
+        <translation>Konfigurera Fördunkling</translation>
     </message>
     <message>
         <source>Basic Privacy</source>
-        <translation>Privacidad Básica</translation>
+        <translation>Grundläggande sekretess</translation>
     </message>
     <message>
         <source>High Privacy</source>
-        <translation>Alta Privacidad</translation>
+        <translation>Hög Sekretess</translation>
     </message>
     <message>
         <source>Maximum Privacy</source>
-        <translation>Máxima Privacidad</translation>
+        <translation>Maximal Sekretess</translation>
     </message>
     <message>
         <source>Please select a privacy level.</source>
-        <translation>Por favor seleccione un nivel de privacidad.</translation>
+        <translation>Var vänlig och välj en sekretess nivå.</translation>
     </message>
     <message>
         <source>Use 2 separate masternodes to mix funds up to 10000 SECX</source>
-        <translation>Use 2 masterdodes diferentes para mezclar los fondos hasta los 10000 SECX</translation>
+        <translation>Använd 2 separata huvudnoder för att blanda tillgångar upp till 10000 SECX</translation>
     </message>
     <message>
         <source>Use 8 separate masternodes to mix funds up to 10000 SECX</source>
-        <translation>Use 8 masternodes diferentes para mezclar fondos hasta los 10000 SECX</translation>
+        <translation>Använd 8 separata huvudnoderför att blanda tillgångar upp till 10000 SECX</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
-        <translation>Use 16 masternodes diferentes</translation>
+        <translation>Använd 16 separata huvudnoder</translation>
     </message>
     <message>
         <source>This option is the quickest and will cost about ~0.025 SECX to anonymize 10000 SECX</source>
-        <translation>Esta opción es la más rápida y costará alrededor de ~0.025 SECX para anonimizar 10000 SECX</translation>
+        <translation>Det här alternativet är det snabbaste och kommer kostar ungefär ~0.025 SECX för att anonymisera 10000 SECX</translation>
     </message>
     <message>
         <source>This option is moderately fast and will cost about 0.05 SECX to anonymize 10000 SECX</source>
-        <translation>Esta opción es moderadamente rápida y costará cerca de 0.05 SECX para anonimizar 10000 SECX</translation>
+        <translation>Det här alternativet är måttligt snabb och kommer kostar ungefär 0.05 SECX för att anonymisera 10000 SECX</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
-        <translation>Esta es la opción más lenta pero más segura. Usar el máximo anonimato costará</translation>
+        <translation>Det här är det långsammaste och säkraste alternativet. Använda maximal anonymitet kommer kosta</translation>
     </message>
     <message>
         <source>0.1 SECX per 10000 SECX you anonymize.</source>
-        <translation>0.1 SECX por 10000 SECX que anonimizas.</translation>
+        <translation>0.1 SECX per 10000 SECX du anonymiserar.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
-        <translation>Configuración de Ofuscación</translation>
+        <translation>Fördunkling Konfiguration</translation>
     </message>
     <message>
         <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening SecurityX's configuration screen.</source>
-        <translation>La Ofuscación se configuró correctamente en modo básico (%1 y 2 rondas). Puedes cambiar esto en cualquier momento accediendo a la ventana de configuración de SecurityX.</translation>
+        <translation>Fördunkling sattes framgångsrikt till grundläggande (%1 och 2 rundor). Du kan ändra det här när du vill genom att öppna SecurityX's konfigurationsskärm.</translation>
     </message>
     <message>
         <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening SecurityX's configuration screen.</source>
-        <translation>La Ofuscación se activó correctamente en modo alto (%1 y 8 rondas). Usted puede cambiar esto en cualquier momento abriendo la ventana de configuración de SecurityX.</translation>
+        <translation>Fördunkling sattes framgångsrikt till hög (%1 och 8 rundor). Du kan ändra det här när du vill genom att öppna SecurityX's konfigurationsskärm.</translation>
     </message>
     <message>
         <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening SecurityX's configuration screen.</source>
-        <translation>La Ofuscación se activó correctamente en su grado máximo (%1 y 16 rondas). Usted puede cambiar ésto en cualquier momento en la ventana de configuración de SecurityX.</translation>
+        <translation>Fördunkling sattes framgångsrikt till maximal (%1 och 16 rundor). Du kan ändra det här när du vill genom att öppna SecurityX's konfigurationsskärm.</translation>
     </message>
 </context>
 <context>
     <name>OpenURIDialog</name>
     <message>
         <source>Open URI</source>
-        <translation>Abrir URI</translation>
+        <translation>Öppna URI</translation>
     </message>
     <message>
         <source>Open payment request from URI or file</source>
-        <translation>Abrir solicitud de pago de URI o archivo</translation>
+        <translation>Öppna betalningsförfrågan från URI eller fil</translation>
     </message>
     <message>
         <source>URI:</source>
@@ -1840,228 +1839,204 @@ Por favor, tenga paciencia después de hacer clic en importar.</translation>
     </message>
     <message>
         <source>Select payment request file</source>
-        <translation>Seleccione el fichero que contiene la solicitud de pago</translation>
+        <translation>Välj fil med betalningsförfågan</translation>
     </message>
     <message>
         <source>Select payment request file to open</source>
-        <translation>Seleccione el fichero de solicitud de pago que desea abrir</translation>
+        <translation>Välj betalningsförfråganfil till att öppna</translation>
     </message>
 </context>
 <context>
     <name>OptionsDialog</name>
     <message>
         <source>Options</source>
-        <translation>Opciones</translation>
+        <translation>Alternativ</translation>
     </message>
     <message>
         <source>&amp;Main</source>
-        <translation>&amp;Principal</translation>
+        <translation>&amp;Main</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
-        <translation>Tamaño del caché de &amp;base de datos</translation>
+        <translation>Storlek på &amp;databasbuffert</translation>
     </message>
     <message>
         <source>MB</source>
         <translation>MB</translation>
     </message>
     <message>
-        <source>Number of script &amp;verification threads</source>
-        <translation>Número de procesos de &amp;verificación de scripts</translation>
-    </message>
-    <message>
         <source>(0 = auto, &lt;0 = leave that many cores free)</source>
-        <translation>(0 = auto, &lt;0 = dejar libres tal número de cores)</translation>
+        <translation>(0 = auto, &lt;0 = lämna så många "kärnor" fria)</translation>
     </message>
     <message>
         <source>W&amp;allet</source>
-        <translation>M&amp;onedero</translation>
+        <translation>W&amp;allet</translation>
     </message>
     <message>
         <source>If you disable the spending of unconfirmed change, the change from a transaction&lt;br/&gt;cannot be used until that transaction has at least one confirmation.&lt;br/&gt;This also affects how your balance is computed.</source>
-        <translation>Si deselecciona el gasto de cambio no confirmado, las entradas de una transacción&lt;br/&gt;no podrán ser usadas hasta que esa transacción tenga al menos una confirmación.&lt;br/&gt;Esto también afecta a cómo se calcula su balance actual.</translation>
+        <translation>Om du avaktiverar spenderandet av okonfirmerad växel så kommer växeln från en transaktion &lt;br/&gt;ej kunna användas föräns transaktionen har minst en bekräftelse. &lt;br/&gt; Detta påverkar även hur ditt saldo beräknas.</translation>
     </message>
     <message>
         <source>Automatically open the SecurityX client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir automáticamente el puerto del cliente SecurityX en el enrutador. Ésto sólo funciona si su enrutador soporta UPnP y esta función está activada.</translation>
+        <translation>Öppna automatiskt SecurityX klient porten på denna router. Detta funkar endast om din router stödjer UPnP och är påslaget.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
-        <translation>Aceptar conexiones del exterior</translation>
+        <translation>Acceptera anslutningar utifrån</translation>
     </message>
     <message>
         <source>Allow incoming connections</source>
-        <translation>Permitir conexiones entrantes</translation>
-    </message>
-    <message>
-        <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
-        <translation>&amp;Conectar a través de un proxy SOCKS5 (proxy por defecto):</translation>
+        <translation>Tillåt inkommande anslutningar</translation>
     </message>
     <message>
         <source>Expert</source>
-        <translation>Experto</translation>
+        <translation>Expert</translation>
     </message>
     <message>
         <source>Automatically start SecurityX after logging in to the system.</source>
-        <translation>Arrancar SecurityX automáticamente después de identificarse en el sistema.</translation>
+        <translation>Starta SecurityX automatiskt efter inloggning på systemet.</translation>
     </message>
     <message>
         <source>&amp;Start SecurityX on system login</source>
-        <translation>&amp;Arrancar SecurityX al inicio del sistema</translation>
+        <translation>&amp;Starta SecurityX vid systeminloggning</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
-        <translation>Mostrar las características de control de monedas, o no</translation>
-    </message>
-    <message>
-        <source>Enable coin &amp;control features</source>
-        <translation>Activar funciones de &amp;control de monedas</translation>
+        <translation>Huruvida mynt kontroll funktioner ska visas eller inte.</translation>
     </message>
     <message>
         <source>Show additional tab listing all your masternodes in first sub-tab&lt;br/&gt;and all masternodes on the network in second sub-tab.</source>
-        <translation>Mostrar pestaña adicional listando todos sus masternodes en la primera sub-pestaña&lt;br/&gt;y todos los masternodes de la red en la segunda sub-pestaña.</translation>
+        <translation>Visa ytterligare en flik som visar alla dina huvudnoder i sin första sub-flik&lt;br/&gt;och alla huvudnoder på nätverket i en andra sub-flik.</translation>
     </message>
     <message>
         <source>Show Masternodes Tab</source>
-        <translation>Mostrar la pestaña de masternodes</translation>
+        <translation>Visa Huvudnoder Flik</translation>
     </message>
     <message>
         <source>&amp;Spend unconfirmed change</source>
-        <translation>&amp;Gastar cambio no confirmado</translation>
+        <translation>&amp;Spendera ej bekräftad växel</translation>
     </message>
     <message>
         <source>&amp;Network</source>
-        <translation>&amp;Red</translation>
+        <translation>&amp;Nätverk</translation>
     </message>
     <message>
         <source>The user interface language can be set here. This setting will take effect after restarting SecurityX.</source>
-        <translation>El idioma de interface de usuario puede seleccionarse aquí. Este ajuste tomará efecto después de reiniciar SecurityX.</translation>
+        <translation>Användargränssnittets språk kan väljas här. Denna inställning börjar gälla efter att man startat om SecurityX.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/securityx/securityx-translations</source>
-        <translation>¿Falta su lenguaje o la traducción está incompleta? Contribuya con las traducciones aquí:
-https://www.transifex.com/securityx/securityx-translations</translation>
+https://www.transifex.com/SecurityX/securityx-translations</source>
+        <translation>Fattas språk eller är översättningen ofullständig? Hjälp till att bidra med översättning här:
+https://www.transifex.com/SecurityX/securityx-translations</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
-        <translation>Mapear un puerto utilizando &amp;UPnP</translation>
+        <translation>Kartlägg port med &amp;UPnP</translation>
     </message>
     <message>
         <source>Enable automatic minting of SECX units to zSECX</source>
-        <translation>Activar el minting automática de unidades SECX a zSECX</translation>
+        <translation>Tillåt automatisk prägling med SECX enheter till zSECX</translation>
     </message>
     <message>
         <source>Enable zSECX Automint</source>
-        <translation>Activar zSECX Automint</translation>
+        <translation>Tillåt zSECX Autoprägling</translation>
     </message>
     <message>
         <source>Percentage of incoming SECX which get automatically converted to zSECX via Zerocoin Protocol (min: 10%)</source>
-        <translation>Porcentaje de SECX entrantes que serán automáticamente convertidos a zSECX a través del Protocolo Zerocoin (mín: 10%)</translation>
+        <translation>Procent av inkommande SECX som automatiskt konverteras till zSECX via Zerocoin Protokollet (min: 10%)</translation>
     </message>
     <message>
         <source>Percentage of autominted zSECX</source>
-        <translation>Porcentaje de zSECX autogenerados</translation>
+        <translation>Procent av autopräglade zSECX</translation>
     </message>
     <message>
         <source>Wait with automatic conversion to Zerocoin until enough SECX for this denomination is available</source>
-        <translation>Esperar con la conversión automática a Zerocoin hasta que hayan suficientes SECX disponibles para este tamaño de billete</translation>
+        <translation>Vänta med automatisk omvandling till Zerocoin tills tillräckligt många SECX för denna valör är tillgängliga</translation>
     </message>
     <message>
         <source>Preferred Automint zSECX Denomination</source>
-        <translation>Tamaño de billete zSECX preferido en la creación automática de dinero</translation>
+        <translation>Preferens på zSECX valör i autoprägling</translation>
     </message>
     <message>
         <source>Stake split threshold:</source>
-        <translation>Parte limite de stake:</translation>
+        <translation>Staking delnings tröskel:</translation>
     </message>
     <message>
         <source>Connect to the SecurityX network through a SOCKS5 proxy.</source>
-        <translation>Conectar a la red SecurityX mediante un proxy SOCKS5.</translation>
+        <translation>Anslut till SecurityX nätverket via en SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
-        <translation>&amp;IP del proxy:</translation>
+        <translation>Proxy &amp;IP:</translation>
     </message>
     <message>
         <source>IP address of the proxy (e.g. IPv4: 127.0.0.1 / IPv6: ::1)</source>
-        <translation>Dirección IP del proxy (p.e. IPv4: 127.0.0.1 / IPv6: ::1)</translation>
+        <translation>Proxyns IP adress (t.ex. IPv4: 127.0.0.1 / IPv6: ::1)</translation>
     </message>
     <message>
         <source>&amp;Port:</source>
-        <translation>&amp;Puerto:</translation>
+        <translation>&amp;Port:</translation>
     </message>
     <message>
         <source>Port of the proxy (e.g. 9050)</source>
-        <translation>Puerto del proxy (p.e. 9050)</translation>
+        <translation>Proxyns port (t.ex. 9050)</translation>
     </message>
     <message>
         <source>&amp;Window</source>
-        <translation>&amp;Ventana</translation>
+        <translation>&amp;Window</translation>
     </message>
     <message>
         <source>Show only a tray icon after minimizing the window.</source>
-        <translation>Mostrar sólo un icono en la bandeja al minimizar la ventana.</translation>
+        <translation>När fönstret minimeras visa endast en icon.</translation>
     </message>
     <message>
         <source>&amp;Minimize to the tray instead of the taskbar</source>
-        <translation>&amp;Minimizar a la bandeja en lugar de a la barra de tareas</translation>
+        <translation>&amp;Minimera till "tray" istället för aktivitetsfältet</translation>
     </message>
     <message>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>
-        <translation>Minimizar en lugar de cerrar la aplicación cuando se cierra la ventana. Cuando active esta opción, tendrá que cerrar la aplicación seleccionando Salir desde el menú.</translation>
+        <translation>Minimera istället för att stänga ner applikationen när fönstret stängs. När denna inställning är tillåten kan applikationen endast stängas ner av att välja Avsluta i menyn.</translation>
     </message>
     <message>
         <source>M&amp;inimize on close</source>
-        <translation>M&amp;inimizar al cerrar</translation>
+        <translation>M&amp;inimera på stäng</translation>
     </message>
     <message>
         <source>&amp;Display</source>
-        <translation>&amp;Mostrar</translation>
-    </message>
-    <message>
-        <source>User Interface &amp;language:</source>
-        <translation>&amp;Idioma de la interface de usuario:</translation>
+        <translation>&amp;Display</translation>
     </message>
     <message>
         <source>User Interface Theme:</source>
-        <translation>Tema de la Interface de Usuario:</translation>
-    </message>
-    <message>
-        <source>&amp;Unit to show amounts in:</source>
-        <translation>&amp;Unidad para mostrar cantidades:</translation>
+        <translation>Användargränssnitts Tema:</translation>
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Seleccionar la subdivisión a mostrar por defecto en la interface y al enviar monedas.</translation>
+        <translation>Välj standardindelningsenheten att visa i gränssnittet och när mynt skickas.</translation>
     </message>
     <message>
         <source>Decimal digits</source>
-        <translation>Dígitos decimales</translation>
+        <translation>Decimal platser</translation>
     </message>
     <message>
         <source>Hide empty balances</source>
-        <translation>Ocultar saldos vazios</translation>
+        <translation>Dölj tomma saldon</translation>
     </message>
     <message>
         <source>Third party URLs (e.g. a block explorer) that appear in the transactions tab as context menu items. %s in the URL is replaced by transaction hash. Multiple URLs are separated by vertical bar |.</source>
-        <translation>Direcciones web de terceras partes (p.e. un explorador de bloques) que aparecen en la pestaña de transacciones como objetos contextuales del menú. %s en la dirección web es reemplazada por el identificador de la transacción. Múltiples direcciones web están separadas por una barra vertical (|).</translation>
+        <translation>Tredjeparts URLs (t.ex. en blockutforskare) som visar sig i transaktionsfliken som objekt i innehållsmeny. %s i URLen ersätts med transaktionshash. Flera URLs separeras med vertical stång |.</translation>
     </message>
     <message>
         <source>Third party transaction URLs</source>
-        <translation>Direcciones web de transacciones de terceras partes</translation>
+        <translation>Tredjeparts transaktion URLs</translation>
     </message>
     <message>
         <source>Active command-line options that override above options:</source>
-        <translation>Opciones de línea de comando activas que anulan las opciones anteriores:</translation>
+        <translation>Aktiva commandorad val som överskrider valen över:</translation>
     </message>
     <message>
         <source>Reset all client options to default.</source>
-        <translation>Resetear todas las opciones de cliente a su valor por defecto.</translation>
-    </message>
-    <message>
-        <source>&amp;Reset Options</source>
-        <translation>Opciones de &amp;Reset</translation>
+        <translation>Starta om alla klient alternativ till standard.</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -2069,321 +2044,321 @@ https://www.transifex.com/securityx/securityx-translations</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Cancelar</translation>
+        <translation>&amp;ta bort</translation>
     </message>
     <message>
         <source>Any</source>
-        <translation>Qualquer</translation>
+        <translation>Vilken som helst</translation>
     </message>
     <message>
         <source>default</source>
-        <translation>por defecto</translation>
+        <translation>standard</translation>
     </message>
     <message>
         <source>none</source>
-        <translation>ninguno</translation>
+        <translation>ingen</translation>
     </message>
     <message>
         <source>Confirm options reset</source>
-        <translation>Confirmar reinicio de las opciones</translation>
+        <translation>Bekräfta omstart av alternativ</translation>
     </message>
     <message>
         <source>Client restart required to activate changes.</source>
-        <translation>Se requiere un reinicio del cliente para activar los cambios.</translation>
+        <translation>Omstart av applikationen krävs för att aktivera ändringarna.</translation>
     </message>
     <message>
         <source>Client will be shutdown, do you want to proceed?</source>
-        <translation>El cliente se cerrará, ¿procedemos?</translation>
+        <translation>Applikationen kommer stängas av, vill du fortsätta.</translation>
     </message>
     <message>
         <source>This change would require a client restart.</source>
-        <translation>Este cambio requerirá un reinicio del cliente.</translation>
+        <translation>Denna ändring kommer kräva att applikationen startas om.</translation>
     </message>
     <message>
         <source>The supplied proxy address is invalid.</source>
-        <translation>La dirección proxy indicada es inválida.</translation>
+        <translation>Den angivna proxyadressen är ogiltig.</translation>
     </message>
     <message>
         <source>The supplied proxy port is invalid.</source>
-        <translation>El puerto proxy suministrado no es válido.</translation>
+        <translation>Den angivna proxy porten är ogiltig.</translation>
     </message>
     <message>
         <source>The supplied proxy settings are invalid.</source>
-        <translation>La configuración del proxy suministrado no es válida.</translation>
+        <translation>De angivna proxy inställningarna ör ogiltiga.</translation>
     </message>
 </context>
 <context>
     <name>OverviewPage</name>
     <message>
         <source>Form</source>
-        <translation>Formulario</translation>
+        <translation>Formulär</translation>
     </message>
     <message>
         <source>Available:</source>
-        <translation>Disponible:</translation>
+        <translation>Tillgänglig:</translation>
     </message>
     <message>
         <source>Your current spendable balance</source>
-        <translation>Tu balance actualmente disponible</translation>
+        <translation>Ditt nuvarande förbrukningsbara saldo</translation>
     </message>
     <message>
         <source>Total Balance, including all unavailable coins.</source>
-        <translation>Balance Total, incluidas todas las monedas no disponibles.</translation>
+        <translation>Totalt saldo, inkluderar alla otillgängliga mynt.</translation>
     </message>
     <message>
         <source>SECX Balance</source>
-        <translation>Balance SECX</translation>
+        <translation>SECX Saldo</translation>
     </message>
     <message>
         <source>Pending:</source>
-        <translation>Pendiente:</translation>
+        <translation>I avvaktan på:</translation>
     </message>
     <message>
         <source>Total of transactions that have yet to be confirmed, and do not yet count toward the spendable balance</source>
-        <translation>Total de transacciones que aún deben ser confirmadas, y todavía no cuentan en el balance disponible</translation>
+        <translation>Totala transaktioner som fortfarande behöver bekräftas och som inte ännu  ingår i det förbrukningsbara saldot</translation>
     </message>
     <message>
         <source>Immature:</source>
-        <translation>Inmaduro:</translation>
+        <translation>Omogen:</translation>
     </message>
     <message>
         <source>Staked or masternode rewards that has not yet matured</source>
-        <translation>Recompensa de participación o de nodo maestro que aún no ha madurado</translation>
+        <translation>Staking eller masternodes belöning som ännu inte mognat</translation>
     </message>
     <message>
         <source>Current locked balance in watch-only addresses</source>
-        <translation>Saldo bloqueado actual en direcciones solo de lectura</translation>
+        <translation>Nuvarande låst saldo endast i "watch only" adresser</translation>
     </message>
     <message>
         <source>Your current SecurityX balance, unconfirmed and immature transactions included</source>
-        <translation>Su balance SecurityX actual, transacciones no confirmadas e inmaduras incluidas</translation>
+        <translation>Ditt nuvarande SecurityX saldo, obekräftade och omogna transaktioner är inkluderade</translation>
     </message>
     <message>
         <source>zSECX Balance</source>
-        <translation>Balance zSECX</translation>
+        <translation>zSECX Saldo</translation>
     </message>
     <message>
         <source>Mature: more than 20 confirmation and more than 1 mint of the same denomination after it was minted.
 These zSECX are spendable.</source>
-        <translation>Maduración: más de 20 confirmaciones y más de 1 acuñación de la misma denominación después de acuñarse.
-Estas zSECX son utilizables.</translation>
+        <translation>Mogna: över 20 bekräftelser och över 1 prägling av samma valör efter den blev myntad.
+Dessa zSECX kan spenderas.</translation>
     </message>
     <message>
         <source>Unconfirmed: less than 20 confirmations
 Immature: confirmed, but less than 1 mint of the same denomination after it was minted</source>
-        <translation>Sin confirmar: menos de 20 confirmaciones
-Inmaduro: confirmado, pero menos de 1 acuñación de la misma denominación después de ser acuñado</translation>
+        <translation>Obekräftade: Under 20 bekräftelser
+Omogna: bekräftade men under 1 myntning av samma valör efter den blev präglad</translation>
     </message>
     <message>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the SecurityX network after a connection is established, but this process has not completed yet.</source>
-        <translation>La información mostrada puede estar desactualizada. Su monedero se sincroniza automáticamente con la red SecurityX después de establecer una conexión, pero este proceso aún no se ha completado.</translation>
+        <translation>Informationen kan vara föråldrad. Din plånbok synkroniserar automatiskt med SecurityX nätverket efter att en anslutning är etablerad, men denna process har inte blivit klar än.</translation>
     </message>
     <message>
         <source>OVERVIEW</source>
-        <translation>VISIÓN DE CONJUNTO</translation>
+        <translation>ÖVERBLICK</translation>
     </message>
     <message>
         <source>Combined Balance (including unconfirmed and immature coins)</source>
-        <translation>Balance combinados (incluidas las monedas no confirmadas e inmaduras)</translation>
+        <translation>Kombinerat Saldo (inkluderar obekräftade och omogna mynt)</translation>
     </message>
     <message>
         <source>Combined Balance</source>
-        <translation>Balance Combinado</translation>
+        <translation>Kombinerat Saldo</translation>
     </message>
     <message>
         <source>Unconfirmed transactions to watch-only addresses</source>
-        <translation>Transacciones no confirmadas a direcciones sólo de lectura</translation>
+        <translation>Obekräftade transaktioner till "watch only" adresser</translation>
     </message>
     <message>
         <source>Staked or masternode rewards in watch-only addresses that has not yet matured</source>
-        <translation>Recompensa stake o recompensa de masternodes en direcciones de sólo lectura que todavía no han madurado</translation>
+        <translation>Staking eller masternode belöningar i "watch only" adresser som ännu inte har mognat</translation>
     </message>
     <message>
         <source>Total:</source>
-        <translation>Total:</translation>
+        <translation>Totalt:</translation>
     </message>
     <message>
         <source>Current total balance in watch-only addresses</source>
-        <translation>Balance total actual en direcciones de sólo lectura</translation>
+        <translation>Nuvarande totalt saldo i "watch only" adresser</translation>
     </message>
     <message>
         <source>Watch-only:</source>
-        <translation>Sólo-lectura:</translation>
+        <translation>"Watch only":</translation>
     </message>
     <message>
         <source>Your current balance in watch-only addresses</source>
-        <translation>Su balance actual en direcciones de sólo lectura</translation>
+        <translation>Ditt nuvarande saldo i "watch only" adresser</translation>
     </message>
     <message>
         <source>Spendable:</source>
-        <translation>Disponible:</translation>
+        <translation>Spenderbar:</translation>
     </message>
     <message>
         <source>Locked SECX or Masternode collaterals. These are excluded from zSECX minting.</source>
-        <translation>SECX bloqueado o Masternode colaterales. Estos están excluidos de minting zSECX.</translation>
+        <translation>Låsta SECX eller masternode som säkerhet. Dessa är uteslutna från zSECX minting.</translation>
     </message>
     <message>
         <source>Locked:</source>
-        <translation>Bloqueado:</translation>
+        <translation>Låsta:</translation>
     </message>
     <message>
         <source>Unconfirmed:</source>
-        <translation>Sin confirmar:</translation>
+        <translation>Obekräftade:</translation>
     </message>
     <message>
         <source>Your current zSECX balance, unconfirmed and immature zSECX included.</source>
-        <translation>Su balance zSECX actual, zSECX inmaduro e inmaduro incluido.</translation>
+        <translation>Ditt nuvarande zSECX saldo, obekräftade och omogna zSECX inräknade.</translation>
     </message>
     <message>
         <source>Recent transactions</source>
-        <translation>Transacciones recientes</translation>
+        <translation>Senaste transaktioner</translation>
     </message>
     <message>
         <source>out of sync</source>
-        <translation>desincronizado</translation>
+        <translation>osynkroniserad</translation>
     </message>
     <message>
         <source>Current percentage of zSECX.
 If AutoMint is enabled this percentage will settle around the configured AutoMint percentage (default = 10%).
 </source>
-        <translation>Porcentaje actual de zSECX.
-Si AutoMint está habilitado, este porcentaje se establecerá alrededor del porcentaje de AutoMint configurado (predeterminado = 10%).
+        <translation>Nuvarande procent zSECX.
+Om AutoMint är tillåten så kommer denna procent att vara som den konfigurerade AutoMint procenten (standard = 10%).
 </translation>
     </message>
     <message>
         <source>AutoMint is currently enabled and set to </source>
-        <translation>AutoMint está actualmente habilitado y configurado en</translation>
+        <translation>AutoMint är för tillfället aktiverat och inställt på</translation>
     </message>
     <message>
         <source>To disable AutoMint add 'enablezeromint=0' in securityx.conf.</source>
-        <translation>Para desactivar AutoMint agrega 'enablezeromint=0' en securityx.conf.</translation>
+        <translation>För att inaktivera AutoMint, lägg till 'enablezeromint=0' i securityx.conf.</translation>
     </message>
     <message>
         <source>AutoMint is currently disabled.
 To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in securityx.conf</source>
-        <translation>AutoMint está actualmente desactivado.
-Para habilitar AutoMint cambie 'enablezeromint = 0' a 'enablezeromint = 1' en securityx.conf</translation>
+        <translation>AutoMint är för närvarande inaktiverat.
+För att aktivera AutoMint ändra 'enablezeromint=0' till 'enablezeromint=1' i securityx.conf</translation>
     </message>
 </context>
 <context>
     <name>PaymentServer</name>
     <message>
         <source>Payment request error</source>
-        <translation>Error en la solicitud de pago</translation>
+        <translation>Betalningsförfrågan felaktighet</translation>
     </message>
     <message>
         <source>URI handling</source>
-        <translation>Manejo de URI</translation>
+        <translation>URI hantering</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
-        <translation>Solicitud de pago via web inválida: %1</translation>
+        <translation>Betalningsförfrågan hämta URL är ogiltig: %1</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
-        <translation>Manejo del fichero de solicitud de pago</translation>
+        <translation>Betalningsförfrågan filhantering</translation>
     </message>
     <message>
         <source>Invalid payment address %1</source>
-        <translation>Dirección de pago inválida %1</translation>
+        <translation>Ogiltig betalningsadress %1</translation>
     </message>
     <message>
         <source>Cannot start securityx: click-to-pay handler</source>
-        <translation>No se puede iniciar securityx: módulo click-to-pay</translation>
+        <translation>Kan ej starta securityx: klicka-för-att-betala hanterare</translation>
     </message>
     <message>
         <source>URI cannot be parsed! This can be caused by an invalid SecurityX address or malformed URI parameters.</source>
-        <translation>¡El identificador de la dirección no puede ser analizado! Esto puede ser causado por una dirección SecurityX inválida o parámetros del identificador malformados.</translation>
+        <translation>URI kunde ej analyseras! Detta kan orsakas av en ogiltig SecurityX adress eller felproducerade URI parametrar.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
-        <translation>El fichero de solicitud de pago no se pudo leer! Esto puede estar causado por una solicitud de pago inválida.</translation>
+        <translation>Betalningsförfrågan fil kan ej läsas! Detta kan orsakas av en ogiltig betalsningsförfrågan fil.</translation>
     </message>
     <message>
         <source>Payment request rejected</source>
-        <translation>Solicitud de pago rechazada</translation>
+        <translation>Betalningsförfrågan nekad</translation>
     </message>
     <message>
         <source>Payment request network doesn't match client network.</source>
-        <translation>La solicitud de pago no coincide con la red del cliente.</translation>
+        <translation>Betalningsförfrågan nätverk stämmer inte överens med klient nätverk.</translation>
     </message>
     <message>
         <source>Payment request has expired.</source>
-        <translation>La solicitud de pago ha expirado.</translation>
+        <translation>Betalningsförfrågan har gått ut.</translation>
     </message>
     <message>
         <source>Payment request is not initialized.</source>
-        <translation>La solicitud de pago no está inicializada.</translation>
+        <translation>Betalningsförfrågan är inte initialiserad.</translation>
     </message>
     <message>
         <source>Unverified payment requests to custom payment scripts are unsupported.</source>
-        <translation>Solicitudes de pago no verificadas a scripts de pago personalizado no están soportadas.</translation>
+        <translation>Obekräftade betalningsförfrågningar till skräddarsydda betalningsskript stöds ej.</translation>
     </message>
     <message>
         <source>Requested payment amount of %1 is too small (considered dust).</source>
-        <translation>La cantidad de pago solicitada de %1 es demasiado pequeña (se considera calderilla).</translation>
+        <translation>Betalningsförfrågans mängd på %1 är för liten (anses vara damm).</translation>
     </message>
     <message>
         <source>Refund from %1</source>
-        <translation>Reembolso desde %1</translation>
+        <translation>Återbetalning från %1</translation>
     </message>
     <message>
         <source>Payment request %1 is too large (%2 bytes, allowed %3 bytes).</source>
-        <translation>La solicitud de pago %1 es demasiado larga (%2 bytes, permitidos %3 bytes).</translation>
+        <translation>Betalningsförfrågan %1 är för stor (%2 bytes, tillåten %3 bytes).</translation>
     </message>
     <message>
         <source>Payment request DoS protection</source>
-        <translation>Protección de Denegación de Servicio para la solicitud de pago</translation>
+        <translation>Betalningsförfrågan DoS skydd</translation>
     </message>
     <message>
         <source>Error communicating with %1: %2</source>
-        <translation>Error de comunicación con %1: %2</translation>
+        <translation>Kommunikationsfel med %1: %2</translation>
     </message>
     <message>
         <source>Payment request cannot be parsed!</source>
-        <translation>¡La solicitud de pago no se pudo procesar!</translation>
+        <translation>Betalningsförfrågan kan ej analyseras!</translation>
     </message>
     <message>
         <source>Bad response from server %1</source>
-        <translation>Respuesta inadecuada del servidor %1</translation>
+        <translation>Dåligt svar från server %1</translation>
     </message>
     <message>
         <source>Network request error</source>
-        <translation>Error de Red</translation>
+        <translation>Fel på nätverksförfrågan</translation>
     </message>
     <message>
         <source>Payment acknowledged</source>
-        <translation>Pago confirmado</translation>
+        <translation>Betalning erkänd</translation>
     </message>
 </context>
 <context>
     <name>PeerTableModel</name>
     <message>
         <source>Address/Hostname</source>
-        <translation>Dirección/Nombre Host</translation>
+        <translation>Adress/Värdnamn</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation>Versión</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <source>Ping Time</source>
-        <translation>Intervalo de Ping</translation>
+        <translation>Ping Tid</translation>
     </message>
 </context>
 <context>
     <name>PrivacyDialog</name>
     <message>
         <source>Zerocoin Actions:</source>
-        <translation>Acciones Zerocoin:</translation>
+        <translation>Zerocoin Handlingar:</translation>
     </message>
     <message>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the SecurityX network after a connection is established, but this process has not completed yet.</source>
-        <translation>La información mostrada puede estar desactualizada. Su monedero se sincroniza automáticamente con la red SecurityX después de establecer una conexión, pero este proceso aún no se ha completado.</translation>
+        <translation>nformationen kan vara föråldrad. Din plånbok synkroniserar automatiskt med SecurityX nätverket efter att en anslutning är etablerad, men denna process har inte blivit klar än.</translation>
     </message>
     <message>
         <source>Mint Zerocoin</source>
-        <translation>Creación de moneda Zerocoin</translation>
+        <translation>Prägla Zerocoin</translation>
     </message>
     <message>
         <source>0</source>
@@ -2395,11 +2370,11 @@ Para habilitar AutoMint cambie 'enablezeromint = 0' a 'enablezeromint = 1' en se
     </message>
     <message>
         <source>Available for minting are coins which are confirmed and not locked or Masternode collaterals.</source>
-        <translation>Disponibles para minting son monedas que están confirmadas y no bloqueadas o colateral de Masternode.</translation>
+        <translation>Tillgänglig att prägla med mynt som är bekräftade och ej låsta eller som är en masternod säkerhet.</translation>
     </message>
     <message>
         <source>Available for Minting:</source>
-        <translation>Disponible para minting:</translation>
+        <translation>Tillgängligt att prägla:</translation>
     </message>
     <message>
         <source>0.000 000 00 SECX</source>
@@ -2407,79 +2382,79 @@ Para habilitar AutoMint cambie 'enablezeromint = 0' a 'enablezeromint = 1' en se
     </message>
     <message>
         <source>Reset Zerocoin Wallet DB. Deletes transactions that did not make it into the blockchain.</source>
-        <translation>Resetear la base de datos del monedero Zerocoin. Esta opción borra transacciones que no consiguieron salir publicadas en el blockchain.</translation>
+        <translation>Starta om Zerocoin Wallet DB. Raderar transaktioner som ej kom med i blockchain.</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation>Reiniciar</translation>
+        <translation>Starta om</translation>
     </message>
     <message>
         <source>Coin Control...</source>
-        <translation>Control de Monedas...</translation>
+        <translation>Mynt Kontroll</translation>
     </message>
     <message>
         <source>Quantity:</source>
-        <translation>Cantidad:</translation>
+        <translation>Kvantitet:</translation>
     </message>
     <message>
         <source>Amount:</source>
-        <translation>Suma:</translation>
+        <translation>Antal:</translation>
     </message>
     <message>
         <source>Rescan the complete blockchain for  Zerocoin mints and their meta-data.</source>
-        <translation>Reescanear el blockchain entero buscando Zerocoin mints y su meta-datos.</translation>
+        <translation>Skanna om hela blockchain för att hitta Zerocoin präglingar och deras meta-data.</translation>
     </message>
     <message>
         <source>ReScan</source>
-        <translation>ReeScanear</translation>
+        <translation>Skanna om</translation>
     </message>
     <message>
         <source>Status and/or Mesages from the last Mint Action.</source>
-        <translation>Estado y/o Mensajes de la última acción mint.</translation>
+        <translation>Status och/eller Meddelande från den senaste präglingen.</translation>
     </message>
     <message>
         <source>PRIVACY</source>
-        <translation>PRIVACIDAD</translation>
+        <translation>SEKRETESS</translation>
     </message>
     <message>
         <source>Enter an amount of Secx to convert to zSECX</source>
-        <translation>Introduzca la cantidad de SECX que desea convertir a zSecx</translation>
+        <translation>Mata in en mängd SECX att konvertera till zSECX</translation>
     </message>
     <message>
         <source>zSECX Control</source>
-        <translation>Control zSECX</translation>
+        <translation>zSECX Kontroll</translation>
     </message>
     <message>
         <source>zSECX Selected:</source>
-        <translation>zSECX Seleccionados:</translation>
+        <translation>Valda zSECX:</translation>
     </message>
     <message>
         <source>Quantity Selected:</source>
-        <translation>Cantidad Seleccionada:</translation>
+        <translation>Vald Kvantitet:</translation>
     </message>
     <message>
         <source>Spend Zerocoin. Without 'Pay To:' address creates payments to yourself.</source>
-        <translation>Gastar Zerocoin. Sin direcciones "Pagar a:", esto creará pagos a usted mismo.</translation>
+        <translation>Spendera Zerocoin. Utan 'Betala Till:' adress skapar betalningar till dig själv.</translation>
     </message>
     <message>
         <source>Spend Zerocoin</source>
-        <translation>Gastar Zerocoin</translation>
+        <translation>Spendera Zerocoin</translation>
     </message>
     <message>
         <source>Available (mature and spendable) zSECX for spending</source>
-        <translation>zSECX disponible (maduro y gastable) para gastar</translation>
+        <translation>Tillgängliga (mogna och spenderbara) zSECX att spendera</translation>
     </message>
     <message>
         <source>Available Balance:</source>
-        <translation>Balance disponible:</translation>
+        <translation>Tillgängligt Saldo:</translation>
     </message>
     <message>
         <source>Available (mature and spendable) zSECX for spending
 
 zSECX are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
-        <translation>zSECX disponible (maduro y gastable) para gastar
+        <translation>Tillgängliga (mogna och spenderbara) zSECX att spendera
 
-zSECX son maduros cuando tienen más de 20 confirmaciones Y más de 2 mints de la misma denominación después que ellos fueron minted</translation>
+zSECX är mogna när de har över 20 bekräftelser OCH över 2 präglingar av samma valör efter de är myntade.</translation>
     </message>
     <message>
         <source>0 zSECX</source>
@@ -2487,27 +2462,27 @@ zSECX son maduros cuando tienen más de 20 confirmaciones Y más de 2 mints de l
     </message>
     <message>
         <source>Security Level for Zerocoin Transactions. More is better, but needs more time and resources.</source>
-        <translation>Nivel de Seguridad para Transacciones Zerocoin. Cuanto más mejor, pero necesitará más tiempo y recursos.</translation>
+        <translation>Säkerhetsnivå på Zerocoin Transaktioner. Mer är bättre, men behöver mer tid och resurser.</translation>
     </message>
     <message>
         <source>Security Level:</source>
-        <translation>Nivel de Seguridad:</translation>
+        <translation>Säkerhetsnivå:</translation>
     </message>
     <message>
         <source>Security Level 1 - 100 (default: 42)</source>
-        <translation>Nivel de Seguridad 1 - 100 (por defecto: 42)</translation>
+        <translation>Säkerhetsnivå 1- 100 (standard: 42)</translation>
     </message>
     <message>
         <source>Pay &amp;To:</source>
-        <translation>Pagar &amp;A:</translation>
+        <translation>Betala &amp;Till:</translation>
     </message>
     <message>
         <source>The SecurityX address to send the payment to. Creates local payment to yourself when empty.</source>
-        <translation>La dirección SecurityX a la que enviar el pago. Si se deja en blanco, crea un pago a usted mismo.</translation>
+        <translation>SecurityX adress att skicka betalningen till. Skapar betalning till dig själv när den är tom.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
-        <translation>Escoja una dirección usada previamente</translation>
+        <translation>Använd den föregående använda adressen</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2515,7 +2490,7 @@ zSECX son maduros cuando tienen más de 20 confirmaciones Y más de 2 mints de l
     </message>
     <message>
         <source>Paste address from clipboard</source>
-        <translation>Pegar dirección desde el portapapeles</translation>
+        <translation>Infoga adress från urklipp</translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -2523,57 +2498,57 @@ zSECX son maduros cuando tienen más de 20 confirmaciones Y más de 2 mints de l
     </message>
     <message>
         <source>&amp;Label:</source>
-        <translation>&amp;Etiqueta:</translation>
+        <translation>Etikett:</translation>
     </message>
     <message>
         <source>Enter a label for this address to add it to the list of used addresses</source>
-        <translation>Introduzca una etiqueta para esta dirección para añadirla a la lista de direcciones utilizadas</translation>
+        <translation>Mata in en etikett till denna adress för att lägga till den till listan med använda adresser</translation>
     </message>
     <message>
         <source>A&amp;mount:</source>
-        <translation>C&amp;antidad:</translation>
+        <translation>&amp;Mängd:</translation>
     </message>
     <message>
         <source>Convert Change to Zerocoin (might cost additional fees)</source>
-        <translation>Convertir el Cambio a Zerocoin (puede costar alguna comisión adicional)</translation>
+        <translation>Konvertera växel till Zerocoin (extra avgifter kan tillkomma)</translation>
     </message>
     <message>
         <source>If checked, the wallet tries to minimize the returning change instead of minimizing the number of spent denominations.</source>
-        <translation>Si está marcado, el monedero intenta minimizar el cambio de vuelta en lugar de minimizar el numero de denominaciones necesarios.</translation>
+        <translation>Om markerad, försöker plånboken minimera mängden växel istället för att minimera mängden spenderade valörer.</translation>
     </message>
     <message>
         <source>Minimize Change</source>
-        <translation>Minimizar Cambio</translation>
+        <translation>Minimera Växel</translation>
     </message>
     <message>
         <source>Information about the available Zerocoin funds.</source>
-        <translation>Información sobre los fondos Zerocoin disponibles.</translation>
+        <translation>Information angående de tillgängliga Zerocoin tillgångar.</translation>
     </message>
     <message>
         <source>Zerocoin Stats:</source>
-        <translation>Estadísticas Zerocoin:</translation>
+        <translation>Zerocoin Stats:</translation>
     </message>
     <message>
         <source>Total Balance including unconfirmed and immature zSECX</source>
-        <translation>Balance total incluyendo zSECX no confirmado e inmaduro</translation>
+        <translation>Totalt Saldo, obekräftade och omogna zSECX inkluderade</translation>
     </message>
     <message>
         <source>Total Zerocoin  Balance:</source>
-        <translation>Balance total de Zerocoin:</translation>
+        <translation>Totalt Zerocoinsaldo:</translation>
     </message>
     <message>
         <source>Denominations with value 1:</source>
-        <translation>Denominaciones con valor 1:</translation>
+        <translation>Valörer med värde 1:</translation>
     </message>
     <message>
         <source>Denom. with value 1:</source>
-        <translation>Denom. con valor 1:</translation>
+        <translation>Valörer med värde 1:</translation>
     </message>
     <message>
         <source>Unconfirmed: less than 20 confirmations
 Immature: confirmed, but less than 1 mint of the same denomination after it was minted</source>
-        <translation>Sin confirmar: menos de 20 confirmaciones
-Inmaduro: confirmado, pero menos de 1 acuñación de la misma denominación después de ser acuñado</translation>
+        <translation>Obekräftade: Under 20 bekräftelser
+Omogna: bekräftade men under 1 mint av samma valör efter den blev mintad</translation>
     </message>
     <message>
         <source>Show the current status of automatic zSECX minting.
@@ -2586,55 +2561,56 @@ To change the percentage (no restart required):
 - menu Settings-&gt;Options-&gt;Percentage of autominted zSECX
 
 </source>
-        <translation>Muestra el estado actual de zSECX minting automática.
+        <translation>Visa den nuvarande statusen av automatisk zSECX minting.
 
-Para cambiar el estado (reinicio requerido):
-- activar: añade 'enablezeromint = 1' en securityx.conf
-- desctivar: añade 'enablezeromint = 0' en securityx.conf
+För att ändra statusen (omstart krävs):
+-aktivera: lägg till 'enablezeromint=1' i securityx.conf
+-inaktivera: lägg till 'enablezeromint=0' i securityx.conf
 
-Para cambiar el porcentaje (no se requiere reiniciar):
-- menú Configuración-&gt;Opciones-&gt;Porcentaje de zSECX automint
+För att ändra procenten (ingen omstart krävs):
+-meny Inställningar-&gt;Alternativ-&gt;Procent på autominted zSECX
+
 </translation>
     </message>
     <message>
         <source>AutoMint Status</source>
-        <translation>Estado de AutoMint</translation>
+        <translation>AutoPräglings Status</translation>
     </message>
     <message>
         <source>Global Supply:</source>
-        <translation>Suministro Global:</translation>
+        <translation>Global Tillgång:</translation>
     </message>
     <message>
         <source>Denom. 1:</source>
-        <translation>Denom. 1:</translation>
+        <translation>Valör 1:</translation>
     </message>
     <message>
         <source>Denom. 5:</source>
-        <translation>Denom. 5:</translation>
+        <translation>Valör 5:</translation>
     </message>
     <message>
         <source>Denom. 10:</source>
-        <translation>Denom. 10:</translation>
+        <translation>Valör 10:</translation>
     </message>
     <message>
         <source>Denom. 50:</source>
-        <translation>Denom. 50:</translation>
+        <translation>Valör 50:</translation>
     </message>
     <message>
         <source>Denom. 100:</source>
-        <translation>Denom. 100:</translation>
+        <translation>Valör 100:</translation>
     </message>
     <message>
         <source>Denom. 500:</source>
-        <translation>Denom. 500:</translation>
+        <translation>Valör 500:</translation>
     </message>
     <message>
         <source>Denom. 1000:</source>
-        <translation>Denom. 1000:</translation>
+        <translation>Valör 1000:</translation>
     </message>
     <message>
         <source>Denom. 5000:</source>
-        <translation>Denom. 5000:</translation>
+        <translation>Valör 5000:</translation>
     </message>
     <message>
         <source>0 x</source>
@@ -2642,378 +2618,378 @@ Para cambiar el porcentaje (no se requiere reiniciar):
     </message>
     <message>
         <source>Denominations with value 5:</source>
-        <translation>Denominación con valor 5:</translation>
+        <translation>Valörer med värde 5:</translation>
     </message>
     <message>
         <source>Denom. with value 5:</source>
-        <translation>Denom. con valor 5:</translation>
+        <translation>Valörer med värde 5:</translation>
     </message>
     <message>
         <source>Denominations with value 10:</source>
-        <translation>Denominación con valor 10:</translation>
+        <translation>Valörer med värde 10:</translation>
     </message>
     <message>
         <source>Denom. with value 10:</source>
-        <translation>Denom. con valor 10:</translation>
+        <translation>Valörer med värde 10:</translation>
     </message>
     <message>
         <source>Denominations with value 50:</source>
-        <translation>Denominación con valor 50:</translation>
+        <translation>Valörer med värde 50:</translation>
     </message>
     <message>
         <source>Denom. with value 50:</source>
-        <translation>Denom. con valor 50:</translation>
+        <translation>Valörer med värde 50:</translation>
     </message>
     <message>
         <source>Denominations with value 100:</source>
-        <translation>Denominación con valor 100:</translation>
+        <translation>Valörer med värde 100:</translation>
     </message>
     <message>
         <source>Denom. with value 100:</source>
-        <translation>Denom. con valor 100:</translation>
+        <translation>Valörer med värde 100:</translation>
     </message>
     <message>
         <source>Denominations with value 500:</source>
-        <translation>Denominación con valor 500:</translation>
+        <translation>Valörer med värde 500:</translation>
     </message>
     <message>
         <source>Denom. with value 500:</source>
-        <translation>Denom. con valor 500:</translation>
+        <translation>Valörer med värde 500:</translation>
     </message>
     <message>
         <source>Denominations with value 1000:</source>
-        <translation>Denominación con valor 1000:</translation>
+        <translation>Valörer med värde 1000:</translation>
     </message>
     <message>
         <source>Denom. with value 1000:</source>
-        <translation>Denom. con valor 1000:</translation>
+        <translation>Valörer med värde 1000:</translation>
     </message>
     <message>
         <source>Denominations with value 5000:</source>
-        <translation>Denominación con valor 5000:</translation>
+        <translation>Valörer med värde 5000:</translation>
     </message>
     <message>
         <source>Denom. with value 5000:</source>
-        <translation>Denom. con valor 5000:</translation>
+        <translation>Valörer med värde 5000:</translation>
     </message>
     <message>
         <source>Priority:</source>
-        <translation>Prioridad:</translation>
+        <translation>Prioritet:</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation>EtiquetaDeTexto</translation>
+        <translation>text etikett</translation>
     </message>
     <message>
         <source>Fee:</source>
-        <translation>Comisión:</translation>
+        <translation>Avgift:</translation>
     </message>
     <message>
         <source>Dust:</source>
-        <translation>Calderilla:</translation>
+        <translation>Dust:</translation>
     </message>
     <message>
         <source>no</source>
-        <translation>no</translation>
+        <translation>nej</translation>
     </message>
     <message>
         <source>Bytes:</source>
-        <translation>Octetos:</translation>
+        <translation>Bytes:</translation>
     </message>
     <message>
         <source>Insufficient funds!</source>
-        <translation>¡Fondos insuficientes!</translation>
+        <translation>Otillräckliga medel !</translation>
     </message>
     <message>
         <source>Coins automatically selected</source>
-        <translation>Monedas seleccionadas automáticamente</translation>
+        <translation>Mynt automatiskt valda</translation>
     </message>
     <message>
         <source>medium</source>
-        <translation>media</translation>
+        <translation>medel</translation>
     </message>
     <message>
         <source>Coin Control Features</source>
-        <translation>Funciones de Control de Monedas</translation>
+        <translation>Mynt Kontroll Funktioner</translation>
     </message>
     <message>
         <source>If this is activated, but the change address is empty or invalid, change will be sent to a newly generated address.</source>
-        <translation>Si esto está activado, pero la dirección de cambio está vacía o es inválida, el cambio será mandado a una nueva dirección generada.</translation>
+        <translation>Om detta är aktiverat, men växeladressen är tom eller ogiltig så kommer växeln att skickas till en nybildad adress.</translation>
     </message>
     <message>
         <source>Custom change address</source>
-        <translation>Dirección de cambio personalizada</translation>
+        <translation>Skräddarsydd växel adress</translation>
     </message>
     <message>
         <source>Amount After Fee:</source>
-        <translation>Cantidad Después de comisión:</translation>
+        <translation>Mängd Efter Avgift:</translation>
     </message>
     <message>
         <source>Change:</source>
-        <translation>Cambio:</translation>
+        <translation>Växel:</translation>
     </message>
     <message>
         <source>out of sync</source>
-        <translation>desincronizado</translation>
+        <translation>osynkroniserad</translation>
     </message>
     <message>
         <source>Mint Status: Okay</source>
-        <translation>Estado de Creación de Moneda: Ok</translation>
+        <translation>Myntnings Status: Okej</translation>
     </message>
     <message>
         <source>Copy quantity</source>
-        <translation>Copiar cantidad</translation>
+        <translation>Kopiera kvantitet</translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>Copiar cantidad</translation>
+        <translation>Kopiera antal</translation>
     </message>
     <message>
         <source>Starting ResetMintZerocoin: rescanning complete blockchain, this will need up to 30 minutes depending on your hardware.
 Please be patient...</source>
-        <translation>Ejecutando ResetMintZerocoin: reescaneando el blockchain entero, esto necesitará hasta 30 minutos dependiendo de su hardware.
-Por favor espere...</translation>
+        <translation>Startar ResetMintZerocoin: skannar om hela blockchain, detta kan ta upp till 30 minuter beroende på din hårdvara.
+Ha lite tålamod...</translation>
     </message>
     <message>
         <source>Spending Zerocoin.
 Computationally expensive, might need several minutes depending on the selected Security Level and your hardware.
 Please be patient...</source>
-        <translation>Gastando Zerocoin.
-Esto es computacionalmente intensivo, puede necesitar varios minutos dependiendo del Nivel de Seguridad elegido y el hardware de su máquina.
-Por favor tenga paciencia...</translation>
+        <translation>Spendera Zerocoin.
+Beräkningsmässigt krävande, kan behöva flera minuter beroende på den valda säkerhetsnivån och din hårdvara.
+Var god dröj...</translation>
     </message>
     <message>
         <source>) needed.
 Maximum allowed: </source>
-        <translation>) necesario.
-Máximo permitido:</translation>
+        <translation>) behövda.
+Högsta tillåtna:</translation>
     </message>
     <message>
         <source>zSECX Spend #: </source>
-        <translation>Gastar zSECX #: </translation>
+        <translation>zSECX spendering #:</translation>
     </message>
     <message>
         <source>zSECX Mint</source>
-        <translation>Acuñar zSECX</translation>
+        <translation>zSECX Prägling</translation>
     </message>
     <message>
         <source> &lt;b&gt;enabled&lt;/b&gt;.</source>
-        <translation>&lt;b&gt;ativado&lt;/b&gt;.</translation>
+        <translation>&lt;b&gt;aktiverad&lt;/b&gt;.</translation>
     </message>
     <message>
         <source> &lt;b&gt;disabled&lt;/b&gt;.</source>
-        <translation>&lt;b&gt;Desativado&lt;/b&gt;.</translation>
+        <translation>&lt;b&gt;inaktiverad&lt;/b&gt;.</translation>
     </message>
     <message>
         <source> Configured target percentage: &lt;b&gt;</source>
-        <translation>Porcentaje objetivo configurado:</translation>
+        <translation>Konfigurerat procent mål: &lt;b&gt;</translation>
     </message>
     <message>
         <source>zSECX is currently disabled due to maintenance.</source>
-        <translation>zSECX actualmente está desactivado debido al mantenimiento.</translation>
+        <translation>zSECX är för nuvarande inaktiverat p.g.a. underhåll.</translation>
     </message>
     <message>
         <source>zSECX is currently undergoing maintenance.</source>
-        <translation>zSECX se encuentra actualmente en mantenimiento.</translation>
+        <translation>zSECX genomgår för tillfället underhåll.</translation>
     </message>
     <message>
         <source>Denom. with value &lt;b&gt;1&lt;/b&gt;:</source>
-        <translation>Billetes con valor &lt;b&gt; 1&lt;/b&gt;:</translation>
+        <translation>Valör med värde &lt;b&gt;1&lt;/b&gt;:</translation>
     </message>
     <message>
         <source>Denom. with value &lt;b&gt;5&lt;/b&gt;:</source>
-        <translation>Billetes con valor &lt;b&gt; 5&lt;/b&gt;:</translation>
+        <translation>Valör med värde &lt;b&gt;5&lt;/b&gt;:</translation>
     </message>
     <message>
         <source>Denom. with value &lt;b&gt;10&lt;/b&gt;:</source>
-        <translation>Billetes con valor &lt;b&gt; 10&lt;/b&gt;:</translation>
+        <translation>Valör med värde &lt;b&gt;10&lt;/b&gt;:</translation>
     </message>
     <message>
         <source>Denom. with value &lt;b&gt;50&lt;/b&gt;:</source>
-        <translation>Billetes con valor &lt;b&gt;50&lt;/b&gt;:</translation>
+        <translation>Valör med värde &lt;b&gt;50&lt;/b&gt;:</translation>
     </message>
     <message>
         <source>Denom. with value &lt;b&gt;100&lt;/b&gt;:</source>
-        <translation>Billetes con valor &lt;b&gt;100&lt;/b&gt;:</translation>
+        <translation>Valör med värde &lt;b&gt;100&lt;/b&gt;:</translation>
     </message>
     <message>
         <source>Denom. with value &lt;b&gt;500&lt;/b&gt;:</source>
-        <translation>Billetes con valor &lt;b&gt;500&lt;/b&gt;:</translation>
+        <translation>Valör med värde &lt;b&gt;500&lt;/b&gt;:</translation>
     </message>
     <message>
         <source>Denom. with value &lt;b&gt;1000&lt;/b&gt;:</source>
-        <translation>Billetes con valor &lt;b&gt;1000&lt;/b&gt;:</translation>
+        <translation>Valör med värde &lt;b&gt;1000&lt;/b&gt;:</translation>
     </message>
     <message>
         <source>Denom. with value &lt;b&gt;5000&lt;/b&gt;:</source>
-        <translation>Billetes con valor &lt;b&gt;5000&lt;/b&gt;:</translation>
+        <translation>Valör med värde &lt;b&gt;5000&lt;/b&gt;:</translation>
     </message>
     <message>
         <source>AutoMint Status:</source>
-        <translation>Status AutoMint:</translation>
+        <translation>AutoMyntnings Status:</translation>
     </message>
     <message>
         <source>Denom. &lt;b&gt;1&lt;/b&gt;:</source>
-        <translation>Denom. &lt;b&gt;1&lt;/b&gt;:</translation>
+        <translation>Valör &lt;b&gt;1&lt;/b&gt;:</translation>
     </message>
     <message>
         <source>Denom. &lt;b&gt;5&lt;/b&gt;:</source>
-        <translation>Denom. &lt;b&gt;5&lt;/b&gt;:</translation>
+        <translation>Valör &lt;b&gt;5&lt;/b&gt;:</translation>
     </message>
     <message>
         <source>Denom. &lt;b&gt;10&lt;/b&gt;:</source>
-        <translation>Denom. &lt;b&gt;10&lt;/b&gt;:</translation>
+        <translation>Valör &lt;b&gt;10&lt;/b&gt;:</translation>
     </message>
     <message>
         <source>Denom. &lt;b&gt;50&lt;/b&gt;:</source>
-        <translation>Denom. &lt;b&gt;50&lt;/b&gt;:</translation>
+        <translation>Valör &lt;b&gt;50&lt;/b&gt;:</translation>
     </message>
     <message>
         <source>Denom. &lt;b&gt;100&lt;/b&gt;:</source>
-        <translation>Denom. &lt;b&gt;100&lt;/b&gt;:</translation>
+        <translation>Valör &lt;b&gt;100&lt;/b&gt;:</translation>
     </message>
     <message>
         <source>Denom. &lt;b&gt;500&lt;/b&gt;:</source>
-        <translation>Denom. &lt;b&gt;500&lt;/b&gt;:</translation>
+        <translation>Valör &lt;b&gt;500&lt;/b&gt;:</translation>
     </message>
     <message>
         <source>Denom. &lt;b&gt;1000&lt;/b&gt;:</source>
-        <translation>Denom. &lt;b&gt;1000&lt;/b&gt;:</translation>
+        <translation>Valör &lt;b&gt;1000&lt;/b&gt;:</translation>
     </message>
     <message>
         <source>Denom. &lt;b&gt;5000&lt;/b&gt;:</source>
-        <translation>Denom. &lt;b&gt;5000&lt;/b&gt;:</translation>
+        <translation>Valör &lt;b&gt;5000&lt;/b&gt;:</translation>
     </message>
     <message>
         <source>Error: Your wallet is locked. Please enter the wallet passphrase first.</source>
-        <translation>Error: Tu monedero está bloqueado. Por favor, primero introduzca la frase clave del monedero.</translation>
+        <translation>Fel: Din plånbok är låst. Var vänlig och mata in plånbokens lösenfras först.</translation>
     </message>
     <message>
         <source>Message: Enter an amount &gt; 0.</source>
-        <translation>Mensaje: Introduzca una cantidad &gt; 0.</translation>
+        <translation>Message: Mata in en mängd &gt; 0.</translation>
     </message>
     <message>
         <source>Minting </source>
-        <translation>Minting</translation>
+        <translation>Myntade</translation>
     </message>
     <message>
         <source>Successfully minted </source>
-        <translation>Minted correctamente</translation>
+        <translation>Framgångsrikt Myntade</translation>
     </message>
     <message>
         <source> zSECX in </source>
-        <translation>zSECX en</translation>
+        <translation>zSECX i</translation>
     </message>
     <message>
         <source> sec. Used denominations:
 </source>
-        <translation>seg. denominación usados:
+        <translation>sek. Använda valörer:
 </translation>
     </message>
     <message>
         <source>Duration: </source>
-        <translation>Duración:</translation>
+        <translation>Varaktighet:</translation>
     </message>
     <message>
         <source> sec.
 </source>
-        <translation>seg.
+        <translation>sec.
 </translation>
     </message>
     <message>
         <source>Starting ResetSpentZerocoin: </source>
-        <translation>Iniciando ResetSpentZerocoin:</translation>
+        <translation>Startar ResetSpentZerocoin:</translation>
     </message>
     <message>
         <source>No 'Pay To' address provided, creating local payment</source>
-        <translation>No se especificó drección 'Pagar A', por lo que asumimos un pago local</translation>
+        <translation>Ingen 'Betala Till' adress inmatad, skapar lokal betalning</translation>
     </message>
     <message>
         <source>Invalid SecurityX Address</source>
-        <translation>Dirección SecurityX Inválida</translation>
+        <translation>Ogiltig SecurityX Adress</translation>
     </message>
     <message>
         <source>Invalid Send Amount</source>
-        <translation>Cantidad a Enviar Inválida</translation>
+        <translation>Ogiltig Mängd att Skicka</translation>
     </message>
     <message>
         <source>Confirm additional Fees</source>
-        <translation>Confirmar comisiónes adicionales</translation>
+        <translation>Bekräfta Tilläggsavgifter</translation>
     </message>
     <message>
         <source>Are you sure you want to send?&lt;br /&gt;&lt;br /&gt;</source>
-        <translation>¿Está seguro que desea enviar?&lt;br /&gt;&lt;br /&gt;</translation>
+        <translation>Är du säker på att du vill skicka?&lt;br /&gt;&lt;br /&gt;</translation>
     </message>
     <message>
         <source> to address </source>
-        <translation>a la dirección</translation>
+        <translation>till adress</translation>
     </message>
     <message>
         <source> to a newly generated (unused and therefore anonymous) local address &lt;br /&gt;</source>
-        <translation>a una dirección local recién generada (no utilizada y, por lo tanto, anónima)&lt;br /&gt;</translation>
+        <translation>till en nygjord (oanvänd och därför anonym) lokal adress&lt;br /&gt;</translation>
     </message>
     <message>
         <source>with Security Level </source>
-        <translation>con Nivel de Seguridad</translation>
+        <translation>med Säkerhetsnivå</translation>
     </message>
     <message>
         <source>Confirm send coins</source>
-        <translation>Confirmar enviar monedas</translation>
+        <translation>Bekräfta att skicka mynt</translation>
     </message>
     <message>
         <source>Version 1 zSECX require a security level of 100 to successfully spend.</source>
-        <translation>La versión 1 zSECX requiere un nivel de seguridad de 100 para gastar exitosamente.</translation>
+        <translation>Version 1 zSECX kräver en säkerhetsnivå på 100 för att kunna spenderas med framgång.</translation>
     </message>
     <message>
         <source>Failed to spend zSECX</source>
-        <translation>Error al enviar zSECX</translation>
+        <translation>Misslyckades med att spendera zSECX</translation>
     </message>
     <message>
         <source>Failed to fetch mint associated with serial hash</source>
-        <translation>Error al buscar la asociación del acuñado con el hash serial</translation>
+        <translation>Misslyckades med att hämta myntning associerat med serie hashen</translation>
     </message>
     <message>
         <source>Too much inputs (</source>
-        <translation>Demasiadas entradas (</translation>
+        <translation>För många input (</translation>
     </message>
     <message>
         <source>
 Either mint higher denominations (so fewer inputs are needed) or reduce the amount to spend.</source>
         <translation>
-O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o reduzca la cantidad a gastar.</translation>
+Minta antingen högre valörer (så att färre inputs behövs) eller spendera mindre.</translation>
     </message>
     <message>
         <source>Spend Zerocoin failed with status = </source>
-        <translation>Gastar Zerocoin falló con estado =</translation>
+        <translation>Spendering av Zerocoin misslyckades med status =</translation>
     </message>
     <message numerus="yes">
         <source>PrivacyDialog</source>
         <comment>Enter an amount of SECX to convert to zSECX</comment>
-        <translation><numerusform>PrivacyDialog</numerusform><numerusform>PrivacyDialog</numerusform></translation>
+        <translation><numerusform>SekretessRuta</numerusform><numerusform>SekretessDialog</numerusform></translation>
     </message>
     <message>
         <source>denomination: </source>
-        <translation>Denominación:</translation>
+        <translation>valör:</translation>
     </message>
     <message>
         <source>serial: </source>
-        <translation>serial:</translation>
+        <translation>serie:</translation>
     </message>
     <message>
         <source>Spend is 1 of : </source>
-        <translation>Gasto 1 de :</translation>
+        <translation>Spendering är 1 av :</translation>
     </message>
     <message>
         <source>value out: </source>
-        <translation>valor salida:</translation>
+        <translation>utgångsvärde:</translation>
     </message>
     <message>
         <source>address: </source>
-        <translation>dirección:</translation>
+        <translation>adress:</translation>
     </message>
     <message>
         <source>Sending successful, return code: </source>
-        <translation>Envío correcto, código devuelto: </translation>
+        <translation>Sändning lyckat, returkod:</translation>
     </message>
     <message>
         <source>txid: </source>
@@ -3021,18 +2997,18 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
     </message>
     <message>
         <source>fee: </source>
-        <translation>comisión:</translation>
+        <translation>avgift:</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Amount</source>
-        <translation>Cantidad</translation>
+        <translation>Mängd</translation>
     </message>
     <message>
         <source>Enter a SecurityX address (e.g. %1)</source>
-        <translation>Introduzca una dirección SecurityX (p.e. %1)</translation>
+        <translation>Mata in en SecurityX adress (e.g. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -3040,7 +3016,7 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
     </message>
     <message>
         <source>%1 h</source>
-        <translation>%1 h</translation>
+        <translation>%1 t</translation>
     </message>
     <message>
         <source>%1 m</source>
@@ -3052,19 +3028,19 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
     </message>
     <message>
         <source>NETWORK</source>
-        <translation>RED</translation>
+        <translation>NÄTVERK</translation>
     </message>
     <message>
         <source>BLOOM</source>
-        <translation>BLOOM</translation>
+        <translation>"BLOOM"</translation>
     </message>
     <message>
         <source>UNKNOWN</source>
-        <translation>DESCONOCIDO</translation>
+        <translation>OKÄND</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Ninguno</translation>
+        <translation>Inget</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -3079,42 +3055,38 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
     <name>QRImageWidget</name>
     <message>
         <source>&amp;Save Image...</source>
-        <translation>&amp;Guardar Imagen...</translation>
-    </message>
-    <message>
-        <source>&amp;Copy Image</source>
-        <translation>&amp;Copiar Imagen</translation>
+        <translation>&amp;Spara Bild...</translation>
     </message>
     <message>
         <source>Save QR Code</source>
-        <translation>Guardar Código QR</translation>
+        <translation>Spara QR Kod</translation>
     </message>
     <message>
         <source>PNG Image (*.png)</source>
-        <translation>Imagen PNG (*.png)</translation>
+        <translation>PNG Bild (*.png)</translation>
     </message>
 </context>
 <context>
     <name>RPCConsole</name>
     <message>
         <source>Tools window</source>
-        <translation>Ventana de herramientas</translation>
+        <translation>Verktygsfönster</translation>
     </message>
     <message>
         <source>&amp;Information</source>
-        <translation>&amp;Información</translation>
+        <translation>information</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>General</translation>
+        <translation>Allmänt</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Nombre</translation>
+        <translation>Namn</translation>
     </message>
     <message>
         <source>Client name</source>
-        <translation>Nombre de cliente</translation>
+        <translation>Klient namn</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -3122,47 +3094,43 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
     </message>
     <message>
         <source>Number of connections</source>
-        <translation>Número de conexiones</translation>
-    </message>
-    <message>
-        <source>&amp;Open</source>
-        <translation>&amp;Abrir</translation>
+        <translation>Antal anslutningar</translation>
     </message>
     <message>
         <source>Startup time</source>
-        <translation>Tiempo de funcionamiento</translation>
+        <translation>Starttid</translation>
     </message>
     <message>
         <source>Network</source>
-        <translation>Red</translation>
+        <translation>Nätverk</translation>
     </message>
     <message>
         <source>Last block time</source>
-        <translation>Momento del último bloque</translation>
+        <translation>Tid för senaste block</translation>
     </message>
     <message>
         <source>Debug log file</source>
-        <translation>Fichero de depuración</translation>
+        <translation>Felsökningslogg</translation>
     </message>
     <message>
         <source>Using OpenSSL version</source>
-        <translation>Usando la versión OpenSSL</translation>
+        <translation>Använder OpenSSL version</translation>
     </message>
     <message>
         <source>Build date</source>
-        <translation>Fecha de compilación</translation>
+        <translation>Byggdatum</translation>
     </message>
     <message>
         <source>Current number of blocks</source>
-        <translation>Número actual de bloques</translation>
+        <translation>Nuvarande mängd block</translation>
     </message>
     <message>
         <source>Client version</source>
-        <translation>Versión del cliente</translation>
+        <translation>Klient version</translation>
     </message>
     <message>
         <source>Using BerkeleyDB version</source>
-        <translation>Usando BerkeleyDB versión</translation>
+        <translation>Använder BerkeleyDB version</translation>
     </message>
     <message>
         <source>Block chain</source>
@@ -3170,39 +3138,31 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
     </message>
     <message>
         <source>Open the SecurityX debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Abrir el fichero de depuración SecurityX en el directorio actual de datos. Esto puede llevar unos segundos para ficheros de depuración grandes.</translation>
+        <translation>Öppna SecurityX felsökningslogg från den nuvarande data katalogen. Detta kan ta några sekunder för stora logg filer.</translation>
     </message>
     <message>
         <source>Number of Masternodes</source>
-        <translation>Número de masternodes</translation>
-    </message>
-    <message>
-        <source>&amp;Console</source>
-        <translation>&amp;Consola</translation>
+        <translation>Antal Huvudnoder "masternodes"</translation>
     </message>
     <message>
         <source>Clear console</source>
-        <translation>Limpiar consola</translation>
+        <translation>Rensa konsol</translation>
     </message>
     <message>
         <source>&amp;Network Traffic</source>
-        <translation>&amp;Tráfico de Red</translation>
-    </message>
-    <message>
-        <source>&amp;Clear</source>
-        <translation>&amp;Limpiar</translation>
+        <translation>&amp;Nätverkstrafik</translation>
     </message>
     <message>
         <source>Totals</source>
-        <translation>Totales</translation>
+        <translation>Totalt</translation>
     </message>
     <message>
         <source>Received</source>
-        <translation>Recibidos</translation>
+        <translation>Mottaget</translation>
     </message>
     <message>
         <source>Sent</source>
-        <translation>Enviados</translation>
+        <translation>Skickat</translation>
     </message>
     <message>
         <source>&amp;Peers</source>
@@ -3210,239 +3170,215 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
     </message>
     <message>
         <source>Banned peers</source>
-        <translation>Peers proibidos</translation>
+        <translation>Förbjudna kamrater</translation>
     </message>
     <message>
         <source>Select a peer to view detailed information.</source>
-        <translation>Seleccione un peer conectado para ver información detallada.</translation>
+        <translation>Välj en person för att visa detaljerad information.</translation>
     </message>
     <message>
         <source>Whitelisted</source>
-        <translation>En lista blance</translation>
+        <translation>Vitlistad</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation>Dirección</translation>
+        <translation>Riktning</translation>
     </message>
     <message>
         <source>Protocol</source>
-        <translation>Protocolo</translation>
+        <translation>Protokoll</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation>Versión</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <source>Services</source>
-        <translation>Servicios</translation>
+        <translation>Tjänster</translation>
     </message>
     <message>
         <source>Ban Score</source>
-        <translation>Puntuación de Baneo</translation>
+        <translation>"Ban" Poäng</translation>
     </message>
     <message>
         <source>Connection Time</source>
-        <translation>Tiempo de Conexión</translation>
+        <translation>Anslutningstid</translation>
     </message>
     <message>
         <source>Last Send</source>
-        <translation>Último Envío</translation>
+        <translation>Senast skickad</translation>
     </message>
     <message>
         <source>Last Receive</source>
-        <translation>Última Recepción</translation>
+        <translation>Senast mottagen</translation>
     </message>
     <message>
         <source>Bytes Sent</source>
-        <translation>Bytes Enviados</translation>
+        <translation>Bytes Skickat</translation>
     </message>
     <message>
         <source>Bytes Received</source>
-        <translation>Bytes Recibidos</translation>
+        <translation>Mottagna Bytes</translation>
     </message>
     <message>
         <source>Ping Time</source>
-        <translation>Intervalo de Ping</translation>
-    </message>
-    <message>
-        <source>&amp;Wallet Repair</source>
-        <translation>Reparar &amp;Monedero</translation>
+        <translation>Ping Tid</translation>
     </message>
     <message>
         <source>Delete local Blockchain Folders</source>
-        <translation>Eliminar directorios locales de Blockchain</translation>
+        <translation>Radera lokala Blockchain Mappar</translation>
     </message>
     <message>
         <source>Wallet In Use:</source>
-        <translation>Monedero En Uso:</translation>
+        <translation>Plånbok Används:</translation>
     </message>
     <message>
         <source>Starting Block</source>
-        <translation>Bloque de empiezo</translation>
+        <translation>Startblock</translation>
     </message>
     <message>
         <source>Synced Headers</source>
-        <translation>Encabezados sincronizados</translation>
+        <translation>Synkroniserade Rubriker</translation>
     </message>
     <message>
         <source>Synced Blocks</source>
-        <translation>Bloques sincronizados</translation>
+        <translation>Synkroniserade Block</translation>
     </message>
     <message>
         <source>The duration of a currently outstanding ping.</source>
-        <translation>La duración de un ping actualmente pendiente.</translation>
+        <translation>Varaktigheten på ett nuvarande utomstående ping.</translation>
     </message>
     <message>
         <source>Ping Wait</source>
-        <translation>Espera de Ping</translation>
+        <translation>Ping Vänta</translation>
     </message>
     <message>
         <source>Time Offset</source>
-        <translation>Desplazamiento de tiempo</translation>
+        <translation>Tidsförskjutning</translation>
     </message>
     <message>
         <source>Custom Backup Path:</source>
-        <translation>Ruta personalizada de la copia de seguridad:</translation>
+        <translation>Vanlig Backup Sökväg:</translation>
     </message>
     <message>
         <source>Custom zSECX Backup Path:</source>
-        <translation>Ruta personalizada de la copia de seguridad zSECX:</translation>
+        <translation>Vanlig zSECX Backup Sökväg:</translation>
     </message>
     <message>
         <source>Custom Backups Threshold:</source>
-        <translation>Límite de copias de seguridad personalizadas:</translation>
+        <translation>Vanlig Backup Tröskel:</translation>
     </message>
     <message>
         <source>Salvage wallet</source>
-        <translation>Salvar monedero</translation>
+        <translation>Spara plånboken</translation>
     </message>
     <message>
         <source>Attempt to recover private keys from a corrupt wallet.dat.</source>
-        <translation>Intentar recuperar las llaves privadas de un archivo wallet.dat corrupto.</translation>
+        <translation>Försök återställa privata nycklar från en korrupt wallet.dat.</translation>
     </message>
     <message>
         <source>Rescan blockchain files</source>
-        <translation>Reescanear ficheros del blockchain</translation>
+        <translation>Skanna om blockchain filer</translation>
     </message>
     <message>
         <source>Rescan the block chain for missing wallet transactions.</source>
-        <translation>Reescanear el blockchain buscando transacciones que faltan en el monedero.</translation>
+        <translation>Skanna om blockchain efter de saknade plånboks transaktionerna.</translation>
     </message>
     <message>
         <source>Recover transactions 1</source>
-        <translation>Recuperar transacciones 1</translation>
+        <translation>Hämta åter transaktion 1</translation>
     </message>
     <message>
         <source>Recover transactions from blockchain (keep meta-data, e.g. account owner).</source>
-        <translation>Recuperar transacciones del blockchain (mantener meta-datos, p.e. propietario de la cuenta,etc).</translation>
+        <translation>Återvinn transaktioner från blockchain (behåll meta-data, t.ex. kontoägare).</translation>
     </message>
     <message>
         <source>Recover transactions 2</source>
-        <translation>Recuperar transacciones 2</translation>
+        <translation>Hämta åter transaktion 2</translation>
     </message>
     <message>
         <source>Recover transactions from blockchain (drop meta-data).</source>
-        <translation>Recuperar transacciones del blockchain (ignorar meta-datos).</translation>
+        <translation>Hämta åter transaktioner från blockchain (släpp meta-data).</translation>
     </message>
     <message>
         <source>Upgrade wallet format</source>
-        <translation>Actualizar formato del monedero</translation>
+        <translation>Uppgradera plånboksformat</translation>
     </message>
     <message>
         <source>Rebuild block chain index from current blk000??.dat files.</source>
-        <translation>Reconstruir el índice del blockchain desde los archivos blk000??.dat actuales.</translation>
+        <translation>Bygg om blockchain index från nuvarande blk000??.dat filer.</translation>
     </message>
     <message>
         <source>-resync:</source>
-        <translation>resincronizando:</translation>
+        <translation>-resync:</translation>
     </message>
     <message>
         <source>Deletes all local blockchain folders so the wallet synchronizes from scratch.</source>
-        <translation>Eliminar todos los directorios locales del blockchain y sincronizar el monedero desde el principio</translation>
+        <translation>Raderar alla lokala blockchain mappar så att plånboken synkroniseras från start.</translation>
     </message>
     <message>
         <source>The buttons below will restart the wallet with command-line options to repair the wallet, fix issues with corrupt blockhain files or missing/obsolete transactions.</source>
-        <translation>Los botones de más abajo reiniciarán el programa con comandos especiales para reparar el monedero, solucionar problemas con cadenas de bloques corruptas o buscar transacciones obsoletas o perdidas</translation>
+        <translation>Knapparna nedanför kommer starta om plånboken med ett kommandorads val att reparera plånboken, lösa problem med korrupta blockchain filer eller saknade/föråldrade transaktioner.</translation>
     </message>
     <message>
         <source>Wallet repair options.</source>
-        <translation>Opciones de reparación de monedero.</translation>
+        <translation>Plånbok reparerings alternativ.</translation>
     </message>
     <message>
         <source>Upgrade wallet to latest format on startup. (Note: this is NOT an update of the wallet itself!)</source>
-        <translation>Actualizar el monedero al último formato en el arranque. (Nota: esto NO es una actualización del monedero como tal!)</translation>
+        <translation>Uppgradera plånbok till senaste formatet vid uppstart. (Observera: detta är inte en uppdatering av själva plånboken!)</translation>
     </message>
     <message>
         <source>Rebuild index</source>
-        <translation>Reconstruir índice</translation>
+        <translation>Bygg om index</translation>
     </message>
     <message>
         <source>In:</source>
-        <translation>Dentro:</translation>
+        <translation>In:</translation>
     </message>
     <message>
         <source>Out:</source>
-        <translation>Fuera:</translation>
+        <translation>Ut:</translation>
     </message>
     <message>
         <source>Welcome to the SecurityX RPC console.</source>
-        <translation>Bienvenido a la consola RPC de SecurityX.</translation>
+        <translation>Välkommen till SecurityX RPC konsol.</translation>
     </message>
     <message>
         <source>&amp;Disconnect Node</source>
-        <translation>&amp;Desconectar nodo</translation>
+        <translation>&amp;stänga av nod</translation>
     </message>
     <message>
         <source>Ban Node for</source>
-        <translation>Prohibir nodo por </translation>
-    </message>
-    <message>
-        <source>1 &amp;hour</source>
-        <translation>1 &amp;hora</translation>
-    </message>
-    <message>
-        <source>1 &amp;day</source>
-        <translation>1 &amp;día</translation>
-    </message>
-    <message>
-        <source>1 &amp;week</source>
-        <translation>1 &amp;semana</translation>
-    </message>
-    <message>
-        <source>1 &amp;year</source>
-        <translation>1 &amp;año</translation>
-    </message>
-    <message>
-        <source>&amp;Unban Node</source>
-        <translation>&amp;  No prohibir nodo</translation>
+        <translation>förbjud Nod för att</translation>
     </message>
     <message>
         <source>This will delete your local blockchain folders and the wallet will synchronize the complete Blockchain from scratch.&lt;br /&gt;&lt;br /&gt;</source>
-        <translation>Esto eliminará las carpetas de blockchain locales y el monedero sincronizará la cadena de bloques completa desde cero.&lt;br /&gt;&lt;br /&gt;</translation>
+        <translation>Detta kommer radera dina lokala blockchain mappar och plånboken kommer synkronisera den kompletta Blockchainen från början.&lt;br /&gt;&lt;br /&gt;</translation>
     </message>
     <message>
         <source>This needs quite some time and downloads a lot of data.&lt;br /&gt;&lt;br /&gt;</source>
-        <translation>Esto requiere bastante tiempo y la descarga una gran cantidad de datos.&lt;br /&gt;&lt;br /&gt;</translation>
+        <translation>Detta behöver tid och laddar ner en massa data.&lt;br /&gt;&lt;br /&gt;</translation>
     </message>
     <message>
         <source>Your transactions and funds will be visible again after the download has completed.&lt;br /&gt;&lt;br /&gt;</source>
-        <translation>Sus transacciones y fondos serán visibles nuevamente después de que se haya completado la descarga.&lt;br /&gt;&lt;br /&gt;</translation>
+        <translation>Dina transaktioner och tillgångar kommer bli synliga igen efter att nedladdningen är slutförd.&lt;br /&gt;&lt;br /&gt;</translation>
     </message>
     <message>
         <source>Do you want to continue?.&lt;br /&gt;</source>
-        <translation>¿Desea continuar?.&lt;br /&gt;</translation>
+        <translation>Vill du fortsätta?.&lt;br /&gt;</translation>
     </message>
     <message>
         <source>Confirm resync Blockchain</source>
-        <translation>Confirmar resincronización del Blockchain</translation>
+        <translation>Godkänn omsynkronisering av Blockchain</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
-        <translation>Use las teclas arriba y abajo para navegar por la historia, y &lt;b&gt;Ctrl-L&lt;/b&gt; para limpiar la pantalla.</translation>
+        <translation>Använd upp- och ner-pilarna för att navigera historiken, och &lt;b&gt;Ctrl-L&lt;/b&gt; för att rensa skärm.</translation>
     </message>
     <message>
         <source>Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation>Escriba &lt;b&gt;help&lt;/b&gt; para ver una lista de posibles comandos.</translation>
+        <translation>Skriv &lt;b&gt;help&lt;/b&gt; för en överblick av tillgängliga kommandon.</translation>
     </message>
     <message>
         <source>%1 B</source>
@@ -3462,235 +3398,227 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
     </message>
     <message>
         <source>(node id: %1)</source>
-        <translation>(node id: %1)</translation>
+        <translation>(nod id: %1)</translation>
     </message>
     <message>
         <source>via %1</source>
-        <translation>vía %1</translation>
+        <translation>via %1</translation>
     </message>
     <message>
         <source>never</source>
-        <translation>nunca</translation>
+        <translation>aldrig</translation>
     </message>
     <message>
         <source>Inbound</source>
-        <translation>Entrantes</translation>
+        <translation>Inkommande</translation>
     </message>
     <message>
         <source>Outbound</source>
-        <translation>Salientes</translation>
+        <translation>Utgående</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Sí</translation>
+        <translation>Ja</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>No</translation>
+        <translation>Nej</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>Desconocido</translation>
+        <translation>Okänd</translation>
     </message>
 </context>
 <context>
     <name>ReceiveCoinsDialog</name>
     <message>
         <source>Reuse one of the previously used receiving addresses.&lt;br&gt;Reusing addresses has security and privacy issues.&lt;br&gt;Do not use this unless re-generating a payment request made before.</source>
-        <translation>Reutilizar una de las direcciones de recepción anteriores.&lt;br&gt;Reutilizar direcciones de recepción tiene implicaciones de seguridad y privacidad.&lt;br&gt;No la utilizar al menos que esté re-generando una solicitud de pago anterior.</translation>
+        <translation>Återanvänd en av de föregående använda adresserna.&lt;br&gt;Återanvända adresser har säkerhets och sekretess problem.&lt;br&gt;Använd inte detta utöver att generera om en tidigare betalningsförfrågan.</translation>
     </message>
     <message>
         <source>R&amp;euse an existing receiving address (not recommended)</source>
-        <translation>R&amp;eutilizar una dirección de recepción existente (no recomendado)</translation>
+        <translation>Återanvänd en befintlig mottagande adress (inte att rekommendera)</translation>
     </message>
     <message>
         <source>&amp;Message:</source>
-        <translation>&amp;Mensaje:</translation>
+        <translation>&amp;Meddelande:</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
-        <translation>Una etiqueta opcional a asociar con la nueva dirección de recepción.</translation>
+        <translation>En valfri etikett att associera med den nya mottagaradressen.</translation>
     </message>
     <message>
         <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the SecurityX network.</source>
-        <translation>Un mensaje opcional a adjuntar a la solicitud de pago, que será mostrado cuando se abra la solicitud. Nota: El mensaje no se envía junto al pago por la red SecurityX.</translation>
+        <translation>Ett frivilligt meddelande att bifoga till betalningsförfrågan, som kommer visas när förfrågan öppnas. Observera: Medelandet kommer inte skickas med betalningen över SecurityX nätverket.</translation>
     </message>
     <message>
         <source>RECEIVE</source>
-        <translation>RECIBIR</translation>
+        <translation>ERHÅLLA</translation>
     </message>
     <message>
         <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the SecurityX network.</source>
-        <translation>Un mensaje opcional a adjuntar a la solicitud de pago, que será mostrado cuando se abra la solicitud. &lt;br&gt;Nota: El mensaje no se envía junto al pago por la red SecurityX.</translation>
+        <translation>Ett frivilligt meddelande att bifoga till betalningsförfrågan, vilket kommer visas när förfrågan öppnas.&lt;br&gt;Observera: Medelandet kommer inte skickas med betalningen över SecurityX nätverket.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
-        <translation>Use este formulario para solicitar pagos. Todos los campos &lt;b&gt;opcionales&lt;/b&gt;.</translation>
+        <translation>Använd detta formulär till betalningsförfrågningar. Alla fält är &lt;b&gt;frivilliga&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>&amp;Label:</source>
-        <translation>&amp;Etiqueta:</translation>
+        <translation>&amp;Etikett:</translation>
     </message>
     <message>
         <source>An optional amount to request. Leave this empty or zero to not request a specific amount.</source>
-        <translation>Una cantidad opcional a solicitar. Deje esto vacío o en cero para no pedir una cantidad específica.</translation>
-    </message>
-    <message>
-        <source>&amp;Amount:</source>
-        <translation>&amp;Cantidad:</translation>
-    </message>
-    <message>
-        <source>&amp;Request payment</source>
-        <translation>&amp;Solicitud de pago</translation>
+        <translation>En frivillig mängd att anhålla om. Lämna den tom eller på noll för att inte fråga efter en specifik mängd.</translation>
     </message>
     <message>
         <source>Clear all fields of the form.</source>
-        <translation>Limpiar todos los campos del formulario.</translation>
+        <translation>Rensa alla fält i formuläret.</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>Limpiar</translation>
+        <translation>Rensa</translation>
     </message>
     <message>
         <source>Requested payments history</source>
-        <translation>Historial de peticiones de pago</translation>
+        <translation>Förfrågade betalningshistorik</translation>
     </message>
     <message>
         <source>Show the selected request (does the same as double clicking an entry)</source>
-        <translation>Mostrar la solicitud seleccionada (lo mismo que hacer doble click en una entrada)</translation>
+        <translation>Visa förfrågan (gör samma sak som att dubbelklicka)</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation>Mostrar</translation>
+        <translation>Visa</translation>
     </message>
     <message>
         <source>Remove the selected entries from the list</source>
-        <translation>Quitar las entradas seleccionadas de la lista</translation>
+        <translation>Tar bort de valda posterna från listan</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Quitar</translation>
+        <translation>Ta bort</translation>
     </message>
     <message>
         <source>Copy label</source>
-        <translation>Copiar etiqueta</translation>
+        <translation>Kopiera etikett</translation>
     </message>
     <message>
         <source>Copy message</source>
-        <translation>Copiar mensaje</translation>
+        <translation>Kopiera meddelande</translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>Copiar cantidad</translation>
+        <translation>Kopiera antal</translation>
     </message>
 </context>
 <context>
     <name>ReceiveRequestDialog</name>
     <message>
         <source>QR Code</source>
-        <translation>Código QR</translation>
+        <translation>QR Kod</translation>
     </message>
     <message>
         <source>Copy &amp;URI</source>
-        <translation>Copiar &amp;Identificador</translation>
+        <translation>Kopiera &amp;URI</translation>
     </message>
     <message>
         <source>Copy &amp;Address</source>
-        <translation>Copiar &amp;Dirección</translation>
+        <translation>Kopiera &amp;Adress</translation>
     </message>
     <message>
         <source>&amp;Save Image...</source>
-        <translation>&amp;Guardar Imagen...</translation>
+        <translation>&amp;Spara Bild...</translation>
     </message>
     <message>
         <source>Request payment to %1</source>
-        <translation>Solicitar pago a %1</translation>
+        <translation>Fråga om betalning till %1</translation>
     </message>
     <message>
         <source>Payment information</source>
-        <translation>Información de pago</translation>
+        <translation>Betalningsinformation</translation>
     </message>
     <message>
         <source>URI</source>
-        <translation>URI (identificador de recurso)</translation>
+        <translation>URI</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>Dirección</translation>
+        <translation>Adress</translation>
     </message>
     <message>
         <source>Amount</source>
-        <translation>Cantidad</translation>
+        <translation>Mängd</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation>Etiqueta</translation>
+        <translation>Etikett</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation>Mensaje</translation>
+        <translation>Meddelande</translation>
     </message>
     <message>
         <source>Resulting URI too long, try to reduce the text for label / message.</source>
-        <translation>El identificador de recurso es demasiado largo, intente reducir el texto para la etiqueta / mensaje.</translation>
+        <translation>Resulterande URI för långt, försök att minska etikettens / meddelandets text.</translation>
     </message>
     <message>
         <source>Error encoding URI into QR Code.</source>
-        <translation>Error codificando el identificador de recurso dentro del código QR.</translation>
+        <translation>Kunde inte omvandla URI till QR Kod.</translation>
     </message>
 </context>
 <context>
     <name>RecentRequestsTableModel</name>
     <message>
         <source>Date</source>
-        <translation>Fecha</translation>
+        <translation>Datum</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation>Etiqueta</translation>
+        <translation>Etikett</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation>Mensaje</translation>
+        <translation>Medelande</translation>
     </message>
     <message>
         <source>Amount</source>
-        <translation>Cantidad</translation>
+        <translation>Mängd</translation>
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(sin etiqueta)</translation>
+        <translation>(Ingen etikett)</translation>
     </message>
     <message>
         <source>(no message)</source>
-        <translation>(no hay mensajes)</translation>
+        <translation>(inget meddelande)</translation>
     </message>
     <message>
         <source>(no amount)</source>
-        <translation>(sin cantidad)</translation>
+        <translation>(ingen mängd)</translation>
     </message>
 </context>
 <context>
     <name>SendCoinsDialog</name>
     <message>
         <source>Send Coins</source>
-        <translation>Enviar Monedas</translation>
+        <translation>Skicka Mynt</translation>
     </message>
     <message>
         <source>SEND</source>
-        <translation>ENVIAR</translation>
+        <translation>SKICKA</translation>
     </message>
     <message>
         <source>Coin Control Features</source>
-        <translation>Funciones de Control de Monedas</translation>
+        <translation>Mynt Kontroll Funktioner</translation>
     </message>
     <message>
         <source>Insufficient funds!</source>
-        <translation>¡Fondos insuficientes!</translation>
+        <translation>Otillräckliga pengar!</translation>
     </message>
     <message>
         <source>Quantity:</source>
-        <translation>Cantidad:</translation>
+        <translation>Kvantitet:</translation>
     </message>
     <message>
         <source>Bytes:</source>
@@ -3698,55 +3626,55 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
     </message>
     <message>
         <source>Amount:</source>
-        <translation>Cantidad:</translation>
+        <translation>Antal:</translation>
     </message>
     <message>
         <source>Priority:</source>
-        <translation>Prioridad:</translation>
+        <translation>Prioritet:</translation>
     </message>
     <message>
         <source>medium</source>
-        <translation>media</translation>
+        <translation>medel</translation>
     </message>
     <message>
         <source>Fee:</source>
-        <translation>Comisión:</translation>
+        <translation>Avgift:</translation>
     </message>
     <message>
         <source>Dust:</source>
-        <translation>Calderilla:</translation>
+        <translation>Dust:</translation>
     </message>
     <message>
         <source>no</source>
-        <translation>no</translation>
+        <translation>nej</translation>
     </message>
     <message>
         <source>After Fee:</source>
-        <translation>Después de Comisión:</translation>
+        <translation>Efter Avgift:</translation>
     </message>
     <message>
         <source>Change:</source>
-        <translation>Cambio:</translation>
+        <translation>Växel:</translation>
     </message>
     <message>
         <source>If this is activated, but the change address is empty or invalid, change will be sent to a newly generated address.</source>
-        <translation>Si esto está activado, pero la dirección de cambio está vacía o es inválida, el cambio será mandado a una nueva dirección generada.</translation>
+        <translation>Om detta är aktiverat, men växeladressen är tom eller ogiltig så kommer växel skickas till en nybildad adress.</translation>
     </message>
     <message>
         <source>Custom change address</source>
-        <translation>Dirección de cambio personalizada</translation>
+        <translation>Skräddarsydd växel adress</translation>
     </message>
     <message>
         <source>Split UTXO</source>
-        <translation>Partir UTXO</translation>
+        <translation>Dela upp UTXO</translation>
     </message>
     <message>
         <source># of outputs</source>
-        <translation># de salidas</translation>
+        <translation># utgångar</translation>
     </message>
     <message>
         <source>UTXO Size:</source>
-        <translation>Tamaño de UTXO:</translation>
+        <translation>UTXO Storlek:</translation>
     </message>
     <message>
         <source>0 SECX</source>
@@ -3754,39 +3682,35 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
     </message>
     <message>
         <source>Transaction Fee:</source>
-        <translation>Comisión de transacción:</translation>
+        <translation>Transaktionsavgift:</translation>
     </message>
     <message>
         <source>Choose...</source>
-        <translation>Elegir...</translation>
-    </message>
-    <message>
-        <source>collapse fee-settings</source>
-        <translation>minimizar los ajustes de comisión</translation>
+        <translation>Välj...</translation>
     </message>
     <message>
         <source>Minimize</source>
-        <translation>Minimizar</translation>
+        <translation>Minimera</translation>
     </message>
     <message>
         <source>per kilobyte</source>
-        <translation>por kilobyte</translation>
+        <translation>per kilobyte</translation>
     </message>
     <message>
         <source>total at least</source>
-        <translation>total al menos</translation>
+        <translation>totalt minst</translation>
     </message>
     <message>
         <source>(read the tooltip)</source>
-        <translation>(leer el consejo)</translation>
+        <translation>(läs verktygstipset)</translation>
     </message>
     <message>
         <source>Custom:</source>
-        <translation>Personalizado:</translation>
+        <translation>Skräddarsy:</translation>
     </message>
     <message>
         <source>(Smart fee not initialized yet. This usually takes a few blocks...)</source>
-        <translation>(La comisión automática no se ha inicializado todavía. Esto normalmente necesita unos cuantos bloques...)</translation>
+        <translation>(Smart fee inte initierad än. Detta tar vanligtvis några block...)</translation>
     </message>
     <message>
         <source>SwiftX</source>
@@ -3794,27 +3718,27 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
     </message>
     <message>
         <source>Confirmation time:</source>
-        <translation>Tiempo de confirmación:</translation>
+        <translation>Bekräftelsetid:</translation>
     </message>
     <message>
         <source>Open Coin Control...</source>
-        <translation>Abrir Control de Monedas...</translation>
+        <translation>Öppna Mynt Kontroll...</translation>
     </message>
     <message>
         <source>Coins automatically selected</source>
-        <translation>Monedas seleccionadas automáticamente</translation>
+        <translation>Mynt automatiskt valda</translation>
     </message>
     <message>
         <source>If the custom fee is set to 1000 uSECXs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uSECXs in fee,&lt;br /&gt;while "at least" pays 1000 uSECXs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Si la comisión personalizada se fija en 1000 uSECXs y la transacción necesita sólo 250 bytes, entonces la opción "por kilobyte" sólo pagará 250 uSECXs de comisión,&lt;br/&gt;mientras "por lo menos" pagará 1000 uSECXs. Para transacciones que midan más de un kilobyte ambas pagan por kilobyte.</translation>
+        <translation>Om 1000 uSECXs är den valda skräddarsydda avgiften och transaktionen är bara 250 bytes så kommer "per kilobyte" bara betala 250 uSECXs i avgift,&lt;br /&gt;medans "minst" betalar 1000 uSECXs. För transaktioner större än en kilobyte så betalar båda per kilobyte.</translation>
     </message>
     <message>
         <source>If the custom fee is set to 1000 uSECXs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uSECXs in fee,&lt;br /&gt;while "total at least" pays 1000 uSECXs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Si la comisión personalizada se fija en 1000 uSECXs y la transacción necesita sólo 250 bytes, entonces la opción "por kilobyte" sólo pagará 250 uSECXs de comisión,&lt;br/&gt;mientras "por lo menos" pagará 1000 uSECXs. Para transacciones que midan más de un kilobyte ambas pagan por kilobyte.</translation>
+        <translation>Om 1000 uSECXs är den valda skräddarsydda avgiften och transaktionen är bara 250 bytes så kommer "per kilobyte" bara betala 250 uSECXs i avgift,&lt;br /&gt;medans "minst totalt" betalar 1000 uSECXs. För transaktioner större än en kilobyte så betalar båda per kilobyte.</translation>
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for SecurityX transactions than the network can process.</source>
-        <translation>Pagar sólo la comisión mínima está bien mientras haya menos volumen de transacciones que espacio en los bloques.&lt;br/&gt;Pero tenga en cuenta que esto podría acabar en una transacción que nunca se confirme si hay más demanda de transacciones SecurityX de las que la red puede procesar.</translation>
+        <translation>Att endast betala minimum avgift är okej så länge som transaktionsvolymen är mindre än rummet i blocken.&lt;br /&gt;Men var medveten om att detta kan sluta som en transaktion som aldrig blir bekräftad när det finns ett större behov av SecurityX transaktioner än nätverket kan bearbeta.</translation>
     </message>
     <message>
         <source>normal</source>
@@ -3822,47 +3746,39 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
     </message>
     <message>
         <source>fast</source>
-        <translation>rápido</translation>
+        <translation>snabb</translation>
     </message>
     <message>
         <source>Recommended</source>
-        <translation>Recomendada</translation>
+        <translation>Rekommenderad</translation>
     </message>
     <message>
         <source>Send as zero-fee transaction if possible</source>
-        <translation>Enviar como transacción sin comisiones si es posible</translation>
+        <translation>Skicka som noll-avgifts transaktion om möjligt</translation>
     </message>
     <message>
         <source>(confirmation may take longer)</source>
-        <translation>(la primera confirmación puede tardar más)</translation>
+        <translation>(bekräftelse kan ta längre tid)</translation>
     </message>
     <message>
         <source>Confirm the send action</source>
-        <translation>Confirmar la acción de enviar</translation>
-    </message>
-    <message>
-        <source>S&amp;end</source>
-        <translation>&amp;Enviar</translation>
+        <translation>Bekräfta skickandet</translation>
     </message>
     <message>
         <source>Clear all fields of the form.</source>
-        <translation>Limpiar todos los campos del formulario.</translation>
+        <translation>Rensa alla fält i formuläret.</translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
-        <translation>Limpiar &amp;Todo</translation>
+        <translation>Rensa &amp;allt</translation>
     </message>
     <message>
         <source>Send to multiple recipients at once</source>
-        <translation>Enviar a varios destinatarios al mismo tiempo</translation>
-    </message>
-    <message>
-        <source>Add &amp;Recipient</source>
-        <translation>Añadir Destinatario</translation>
+        <translation>Skicka till flera mottagare på en gång</translation>
     </message>
     <message>
         <source>Anonymized SECX</source>
-        <translation>SECX anonimizados</translation>
+        <translation>Anonymiserade SECX</translation>
     </message>
     <message>
         <source>Balance:</source>
@@ -3870,360 +3786,360 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
     </message>
     <message>
         <source>Copy quantity</source>
-        <translation>Copiar cantidad</translation>
+        <translation>Kopiera kvantitet</translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>Copiar cantidad</translation>
+        <translation>Kopiera antal</translation>
     </message>
     <message>
         <source>Copy fee</source>
-        <translation>Copiar comisión</translation>
+        <translation>Kopiera avgift</translation>
     </message>
     <message>
         <source>Copy after fee</source>
-        <translation>Copiar después de comisión</translation>
+        <translation>Kopiera efter avgift</translation>
     </message>
     <message>
         <source>Copy bytes</source>
-        <translation>Copiar octetos</translation>
+        <translation>Kopiera bytes</translation>
     </message>
     <message>
         <source>Copy priority</source>
-        <translation>Copiar prioridad</translation>
+        <translation>Kopierings prioritet</translation>
     </message>
     <message>
         <source>Copy dust</source>
-        <translation>Copiar calderilla</translation>
+        <translation>Kopiera dust</translation>
     </message>
     <message>
         <source>Copy change</source>
-        <translation>Copiar cambio</translation>
+        <translation>kopiera ändringar</translation>
     </message>
     <message>
         <source>The split block tool does not work when sending to outside addresses. Try again.</source>
-        <translation>La herramienta de separación de bloques no funciona cuando se envía a direcciones exteriores. Inténtelo otra vez.</translation>
+        <translation>Split block verktyget fungerar inte när man ska skicka till adresser utanför. Försök igen.</translation>
     </message>
     <message>
         <source>The split block tool does not work with multiple addresses. Try again.</source>
-        <translation>La herramienta de división de bloques no funciona con varias direcciones. Inténtelo otra vez.</translation>
+        <translation>Split block verktyget fungerar inte med flera adresser. Försök igen.</translation>
     </message>
     <message>
         <source>Warning: Invalid SecurityX address</source>
-        <translation>Advertencia: Direcciones SecurityX inválidas</translation>
+        <translation>Varning: Ogiltig SecurityX adress</translation>
     </message>
     <message>
         <source>%1 to %2</source>
-        <translation>%1 a %2</translation>
+        <translation>%1 till %2</translation>
     </message>
     <message>
         <source>Are you sure you want to send?</source>
-        <translation>¿Está seguro de querer enviar?</translation>
+        <translation>Är du säker att du vill skicka?</translation>
     </message>
     <message>
         <source>are added as transaction fee</source>
-        <translation>son añadidos como comisión de transacción</translation>
+        <translation>är tillagda som transaktionsavgift</translation>
     </message>
     <message>
         <source>Total Amount = &lt;b&gt;%1&lt;/b&gt;&lt;br /&gt;= %2</source>
-        <translation>Cantidad total = &lt;b&gt;%1&lt;/b&gt;&lt;br /&gt;= %2</translation>
+        <translation>Totala Mängd = &lt;b&gt;%1&lt;/b&gt;&lt;br /&gt;= %2</translation>
     </message>
     <message>
         <source>Confirm send coins</source>
-        <translation>Confirmar enviar monedas</translation>
+        <translation>Bekräfta att skicka mynt</translation>
     </message>
     <message>
         <source>A fee %1 times higher than %2 per kB is considered an insanely high fee.</source>
-        <translation>Una comisión %1 veces más alta que %2 por kB se considera exageradamente alta.</translation>
+        <translation>En avgift %1 gånger större än %2 per kB anses vara en galet hög avgift.</translation>
     </message>
     <message numerus="yes">
         <source>Estimated to begin confirmation within %n block(s).</source>
-        <translation><numerusform>Estimamos que empezará la confirmación en %n bloques.</numerusform><numerusform>Estimamos que empezará la confirmación en %n bloques.</numerusform></translation>
+        <translation><numerusform>Bekräftelse börjar om uppskattningsvis %n block.</numerusform><numerusform>Bekräftelse börjar om uppskattningsvis %n block.</numerusform></translation>
     </message>
     <message>
         <source>The recipient address is not valid, please recheck.</source>
-        <translation>La dirección de destino no es válida, por favor compruébelo de nuevo.</translation>
+        <translation>Mottagaradressen är ej giltig, var vänlig kontrollera den.</translation>
     </message>
     <message>
         <source>using SwiftX</source>
-        <translation>usando o SwiftX</translation>
+        <translation>använder SwiftX</translation>
     </message>
     <message>
         <source> split into %1 outputs using the UTXO splitter.</source>
-        <translation>separado en %1 salidas usando el separador UTXO.</translation>
+        <translation>dela upp i %1 utgångar med användning av UTXO fördelare.</translation>
     </message>
     <message>
         <source>&lt;b&gt;(%1 of %2 entries displayed)&lt;/b&gt;</source>
-        <translation>&lt;b&gt;(%1 de %2 entradas mostradas)&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;(%1 of %2 entries displayed)&lt;/b&gt;</translation>
     </message>
     <message>
         <source>The amount to pay must be larger than 0.</source>
-        <translation>La cantidad a pagar debe ser mayor de 0.</translation>
+        <translation>Mängden som betalas måste överstiga 0.</translation>
     </message>
     <message>
         <source>The amount exceeds your balance.</source>
-        <translation>La cantidad excede su saldo.</translation>
+        <translation>Mängden överstiger ditt saldo.</translation>
     </message>
     <message>
         <source>The total exceeds your balance when the %1 transaction fee is included.</source>
-        <translation>El total excede su saldo si contamos la comisión de %1 .</translation>
+        <translation>Det totala överstiger ditt saldo när %1 transaktionsavgiften lägg på.</translation>
     </message>
     <message>
         <source>Duplicate address found, can only send to each address once per send operation.</source>
-        <translation>Hemos encontrado una dirección duplicada, sólo podemos enviar a cada dirección una vez por envío.</translation>
+        <translation>En adress har använts två gånger, kan endast skicka till en adress en gång per skickad transaktion.</translation>
     </message>
     <message>
         <source>Transaction creation failed!</source>
-        <translation>¡Fallo al crear la transacción!</translation>
+        <translation>Misslyckades att skapa transaktion!</translation>
     </message>
     <message>
         <source>The transaction was rejected! This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>¡La transacción fue rechazada! Esto puede ocurrir si alguna de sus monedas ya se gastó con anterioridad, por ejemplo, si estuvo usted usando una copia de su monedero wallet.dat y gastó allí monedas pero no las marcó como gastadas aquí.</translation>
+        <translation>Transaktionen nekades! Detta kan hända om några mynt i din plånbok redan har spenderats, möjligen att du använt en kopia av wallet.dat och spenderade mynt från kopian men de inte blivit markerade som spenderade här.</translation>
     </message>
     <message>
         <source>Error: The wallet was unlocked only to anonymize coins.</source>
-        <translation>Error: El monedero se desbloqueó sólo para anonimizar monedas.</translation>
+        <translation>Felmeddelande: Plånboken låstes upp endast för att anonymisera mynt.</translation>
     </message>
     <message>
         <source>Error: The wallet was unlocked only to anonymize coins. Unlock canceled.</source>
-        <translation>Error: El monedero ya fue desbloqueado para anonimizar monedas. El desbloqueo total se ha cancelado.</translation>
+        <translation>Felmeddelande: Plånboken låstes upp endast för att anonymisera mynt. Upplåsning avbrutet.</translation>
     </message>
     <message>
         <source>Pay only the minimum fee of %1</source>
-        <translation>Pagar sólo la comisión mínima de %1</translation>
+        <translation>Betala endast minsta avgift på %1</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
-        <translation>Advertencia: Dirección de cambio desconocida</translation>
+        <translation>Varning: Okänd växeladress</translation>
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(sin etiqueta)</translation>
+        <translation>(Ingen etikett)</translation>
     </message>
 </context>
 <context>
     <name>SendCoinsEntry</name>
     <message>
         <source>This is a normal payment.</source>
-        <translation>Esto es un pago normal.</translation>
+        <translation>Detta är en normal betalning.</translation>
     </message>
     <message>
         <source>Pay &amp;To:</source>
-        <translation>Pagar &amp;A:</translation>
+        <translation>Betala &amp;Till:</translation>
     </message>
     <message>
         <source>The SecurityX address to send the payment to</source>
-        <translation>La dirección SecurityX a la cual enviar el pago</translation>
+        <translation>SecurityX adressen att skicka betalningen till</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
-        <translation>Escoja una dirección usada previamente</translation>
+        <translation>Använd den föregående använda adressen</translation>
     </message>
     <message>
         <source>Alt+A</source>
-        <translation>Alt + A</translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <source>Paste address from clipboard</source>
-        <translation>Pegar dirección desde el portapapeles</translation>
+        <translation>Infoga adress från urklipp</translation>
     </message>
     <message>
         <source>Alt+P</source>
-        <translation>Alt + P</translation>
+        <translation>Alt+P</translation>
     </message>
     <message>
         <source>Remove this entry</source>
-        <translation>Quitar esta entrada</translation>
+        <translation>Ta bort den här artikeln</translation>
     </message>
     <message>
         <source>&amp;Label:</source>
-        <translation>&amp;Etiqueta:</translation>
+        <translation>Etikett:</translation>
     </message>
     <message>
         <source>Enter a label for this address to add it to the list of used addresses</source>
-        <translation>Introduzca una etiqueta para esta dirección para añadirla a la lista de direcciones utilizadas</translation>
+        <translation>Mata in en etikett till denna adress för att lägga till den till listan med använda adresser</translation>
     </message>
     <message>
         <source>A&amp;mount:</source>
-        <translation>Cantidad:</translation>
+        <translation>&amp;mängd:</translation>
     </message>
     <message>
         <source>Message:</source>
-        <translation>Mensaje:</translation>
+        <translation>Medelande:</translation>
     </message>
     <message>
         <source>A message that was attached to the SecurityX: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the SecurityX network.</source>
-        <translation>Un mensaje adjunto al SecurityX: En recurso web especificado será guardado junto a la transacción para su referencia. Nota: Este mensaje no se enviará por la red SecurityX.</translation>
+        <translation>Ett medelande som var bifogat till SecurityX: URI som kommer sparas med transaktionen som din referens. Lägg märke till: Detta meddelande kommer inte skickas genom SecurityX nätverket.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
-        <translation>Esta es una solicitud de pago no verificada.</translation>
+        <translation>Detta är en overifierad betalningsförfrågan.</translation>
     </message>
     <message>
         <source>Pay To:</source>
-        <translation>Pagar A:</translation>
+        <translation>Betala till:</translation>
     </message>
     <message>
         <source>Memo:</source>
-        <translation>Texto libre:</translation>
+        <translation>Memo:</translation>
     </message>
     <message>
         <source>This is a verified payment request.</source>
-        <translation>Esta es una solicitud de pago verificada.</translation>
+        <translation>Det här är en verifierad betalningsförfrågan.</translation>
     </message>
     <message>
         <source>Enter a label for this address to add it to your address book</source>
-        <translation>Introduzca una etiqueta para esta dirección para añadirla a su libreta de direcciones</translation>
+        <translation>Mata in en etikett till denna adress för att lägga till den till din adressbok</translation>
     </message>
 </context>
 <context>
     <name>ShutdownWindow</name>
     <message>
         <source>SecurityX Core is shutting down...</source>
-        <translation>El programa SecurityX se está cerrando...</translation>
+        <translation>SecurityX Core stängs ner...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
-        <translation>No apague el equipo hasta que esta ventana desaparezca.</translation>
+        <translation>Stäng inte av datorn förrän detta fönster försvinner.</translation>
     </message>
 </context>
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
         <source>Signatures - Sign / Verify a Message</source>
-        <translation>Firmas - Firmar / Verificar un Mensaje</translation>
+        <translation>Signaturer - Signera / Verifiera ett Meddelande</translation>
     </message>
     <message>
         <source>&amp;Sign Message</source>
-        <translation>&amp;Firmar Mensaje</translation>
+        <translation>&amp;Signera Meddelande</translation>
     </message>
     <message>
         <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vague, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>Usted puede firmar mensajes con su dirección para probar que son auténticos. Tenga cuidado con firmar algo corto o vago como "hola", pues los ataques de phising pueden engañarle para que firme su identidad para ellos. Sólo firme textos detallados con los que esté de acuerdo.</translation>
+        <translation>Du kan signera meddelanden med din egna adress för att bevisa att du äger dem. Se upp för att signera något vagt, då phishing-attacker kan försöka lura dig att signera din identitet åt dom. Signera endast fullt detaljerade påståenden du går med på.</translation>
     </message>
     <message>
         <source>The SecurityX address to sign the message with</source>
-        <translation>La dirección SecurityX con la que desee firmar el mensaje</translation>
+        <translation>SecurityX adressen för signera meddelandet med</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
-        <translation>Escoja una dirección usada previamente</translation>
+        <translation>Använd den föregående använda adressen</translation>
     </message>
     <message>
         <source>Alt+A</source>
-        <translation>Alt + A</translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <source>Paste address from clipboard</source>
-        <translation>Pegar dirección desde el portapapeles</translation>
+        <translation>Infoga adress från urklipp</translation>
     </message>
     <message>
         <source>Alt+P</source>
-        <translation>Alt + P</translation>
+        <translation>Alt+P</translation>
     </message>
     <message>
         <source>Enter the message you want to sign here</source>
-        <translation>Introduzca el mensaje que quiere firmar aquí</translation>
+        <translation>Skriv in meddelandet du vill skriva under här</translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation>Firma</translation>
+        <translation>Signatur</translation>
     </message>
     <message>
         <source>Copy the current signature to the system clipboard</source>
-        <translation>Copiar la firma actual al portapapeles del sistema</translation>
+        <translation>Kopiera den nuvarande signaturen till systemets urklipp</translation>
     </message>
     <message>
         <source>Sign the message to prove you own this SecurityX address</source>
-        <translation>Firme el mensaje para demostrar que eres el propietario de esta dirección SecurityX</translation>
+        <translation>Signera meddelandet för att bevisa att du äger denna SecurityX adress</translation>
     </message>
     <message>
         <source>The SecurityX address the message was signed with</source>
-        <translation>La dirección SecurityX con la que se firmó el mensaje</translation>
+        <translation>SecurityX adressen meddelandet blev signerat med</translation>
     </message>
     <message>
         <source>Verify the message to ensure it was signed with the specified SecurityX address</source>
-        <translation>Verifica el mensaje para asegurar que fue firmado con la dirección SecurityX especificada</translation>
+        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika SecurityX adressen.</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
-        <translation>Firmar &amp;Mensaje</translation>
+        <translation>Signera &amp;Meddelande</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
-        <translation>Limpiar todos los campos de firma de mensaje</translation>
+        <translation>Återställ alla signatur meddelande fält</translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
-        <translation>Limpiar &amp;Todo</translation>
+        <translation>Rensa &amp;allt</translation>
     </message>
     <message>
         <source>&amp;Verify Message</source>
-        <translation>&amp;Verificar Mensaje</translation>
+        <translation>&amp;Verifiera Meddelande</translation>
     </message>
     <message>
         <source>Enter the signing address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack.</source>
-        <translation>Introduzca la dirección de firma, mensaje (asegúrese de que copia los puntos y aparte, espacios, tabuladores, etc. exactamente) y la firma debajo para verificar el mensaje. Vaya con cuidado de no leer más en la firma de loque está en el mensaje firmado propiamente dicho, para evitar ser engañado por un ataque "hombre en el medio".</translation>
+        <translation>Skriv in den signerande adressen, meddelande (var säker på att du kopierar radbrytningar, mellanslag, tabs, etc. exakt) och signera under för att verifiera meddelandet. Var försiktig med att inte läsa in mer i signaturen än själva signerade meddelandet, för att undvika att bli lurad av en "man i mitten" attack.</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
-        <translation>Verificar &amp;Mensaje</translation>
+        <translation>Verifiera &amp;Meddelande</translation>
     </message>
     <message>
         <source>Reset all verify message fields</source>
-        <translation>Limpiar todos los campos de verificación de mensaje</translation>
+        <translation>Återställ alla verifierande fält</translation>
     </message>
     <message>
         <source>Click "Sign Message" to generate signature</source>
-        <translation>Haga click en "Firmar Mensaje" para generar la firma</translation>
+        <translation>Klicka på "Signera Meddelande" för att generera signatur</translation>
     </message>
     <message>
         <source>The entered address is invalid.</source>
-        <translation>La dirección introducida es inválida</translation>
+        <translation>Den angivna adressen är felaktig.</translation>
     </message>
     <message>
         <source>Please check the address and try again.</source>
-        <translation>Por favor compruebe la dirección e inténtelo de nuevo.</translation>
+        <translation>Var vänlig kontrollera adressen och försök igen.</translation>
     </message>
     <message>
         <source>The entered address does not refer to a key.</source>
-        <translation>La dirección introducida no se refiere a ninguna clave.</translation>
+        <translation>Den angivna adressen refererar inte till en nyckel.</translation>
     </message>
     <message>
         <source>Wallet unlock was cancelled.</source>
-        <translation>El desbloqueo del monedero fue cancelado.</translation>
+        <translation>Upplåsningen av plånboken var avbruten.</translation>
     </message>
     <message>
         <source>Private key for the entered address is not available.</source>
-        <translation>La clave privada para la dirección introducida no está disponible.</translation>
+        <translation>Den privata nyckel som angivits flr adressen är inte tillgänglig.</translation>
     </message>
     <message>
         <source>Message signing failed.</source>
-        <translation>La firma del mensaje falló.</translation>
+        <translation>Meddelande signering misslyckades.</translation>
     </message>
     <message>
         <source>Message signed.</source>
-        <translation>Mensaje firmado.</translation>
+        <translation>Meddelande signerat.</translation>
     </message>
     <message>
         <source>The signature could not be decoded.</source>
-        <translation>La firma no pudo ser decodificada.</translation>
+        <translation>Signaturen kunde inte avkodas.</translation>
     </message>
     <message>
         <source>Please check the signature and try again.</source>
-        <translation>Por favor compruebe la firma e inténtelo otra vez.</translation>
+        <translation>Var vänlig och kontrollera signaturen och försök igen.</translation>
     </message>
     <message>
         <source>The signature did not match the message digest.</source>
-        <translation>La firma no coincide con el resumen del mensaje.</translation>
+        <translation>Signaturen matchade inte meddelande smältandet.</translation>
     </message>
     <message>
         <source>Message verification failed.</source>
-        <translation>Falló la verificación del mensaje.</translation>
+        <translation>Meddelande verifiering misslyckades.</translation>
     </message>
     <message>
         <source>Message verified.</source>
-        <translation>Mensaje verificado.</translation>
+        <translation>Medelande verifierat.</translation>
     </message>
 </context>
 <context>
@@ -4234,19 +4150,19 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
     </message>
     <message>
         <source>Version %1</source>
-        <translation>Versión %1</translation>
+        <translation>Version %1</translation>
     </message>
     <message>
         <source>The Bitcoin Core developers</source>
-        <translation>Los desarrolladores de Bitcoin Core</translation>
+        <translation>Bitcoin Core utvecklarna</translation>
     </message>
     <message>
         <source>The Dash Core developers</source>
-        <translation>Los desarrolladores de Dash Core</translation>
+        <translation>Dash Core utvecklarna</translation>
     </message>
     <message>
         <source>The SecurityX Core developers</source>
-        <translation>Los desarrolladores de SecurityX Core</translation>
+        <translation>SecurityX Core utvecklarna</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4264,15 +4180,15 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
     <name>TransactionDesc</name>
     <message numerus="yes">
         <source>Open for %n more block(s)</source>
-        <translation><numerusform>Abierto para %n bloques más</numerusform><numerusform>Abierto para %n bloques más</numerusform></translation>
+        <translation><numerusform>Öppen för %n fler block</numerusform><numerusform>Öppen för %n fler block</numerusform></translation>
     </message>
     <message>
         <source>Open until %1</source>
-        <translation>Abierto hasta %1</translation>
+        <translation>Öppna tills %1</translation>
     </message>
     <message>
         <source>conflicted</source>
-        <translation>conflictivo (bloque huérfano?)</translation>
+        <translation>hamnade i konflikt</translation>
     </message>
     <message>
         <source>%1/offline</source>
@@ -4280,325 +4196,325 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
     </message>
     <message>
         <source>%1/unconfirmed</source>
-        <translation>%1/sin confirmar</translation>
+        <translation>%1/obekräftade</translation>
     </message>
     <message>
         <source>%1 confirmations</source>
-        <translation>%1 confirmaciones</translation>
+        <translation>%1 bekräftelser</translation>
     </message>
     <message>
         <source>%1/offline (verified via SwiftX)</source>
-        <translation>%1/offline (verificado via swifttx)</translation>
+        <translation>%1/offline (verifierade via SwiftX)</translation>
     </message>
     <message>
         <source>%1/confirmed (verified via SwiftX)</source>
-        <translation>%1/confirmado (verificado via swifttx)</translation>
+        <translation>%1/bekräftade (verifierade via SwiftX)</translation>
     </message>
     <message>
         <source>%1 confirmations (verified via SwiftX)</source>
-        <translation>%1 confirmaciones (verificado via swifttx)</translation>
+        <translation>%1 bekräftelser (verifierade via SwiftX)</translation>
     </message>
     <message>
         <source>%1/offline (SwiftX verification in progress - %2 of %3 signatures)</source>
-        <translation>%1/offline (verificación SwiftTX en marcha - %2 de %3 firmas)</translation>
+        <translation>%1/offline (SwiftX verifikation arbetar på det - %2 av %3 signaturer)</translation>
     </message>
     <message>
         <source>%1/confirmed (SwiftX verification in progress - %2 of %3 signatures )</source>
-        <translation>%1/confirmado (verificación SwiftTX en marcha - %2 de %3 firmas)</translation>
+        <translation>%1/bekräftade (SwiftX verifikation arbetar på det - %2 av %3 signaturer)</translation>
     </message>
     <message>
         <source>%1 confirmations (SwiftX verification in progress - %2 of %3 signatures)</source>
-        <translation>%1 confirmaciones (verificación SwiftTX en marcha - %2 de %3 firmas)</translation>
+        <translation>%1 bekräftelser (SwiftX verifikation arbetar på det - %2 av %3 signaturer)</translation>
     </message>
     <message>
         <source>%1/offline (SwiftX verification failed)</source>
-        <translation>%1/offline (falló la verificación SwiftTX)</translation>
+        <translation>%1/offline (SwiftX verifikation misslyckades)</translation>
     </message>
     <message>
         <source>%1/confirmed (SwiftX verification failed)</source>
-        <translation>%1/confirmado (falló la verificación SwiftTX)</translation>
+        <translation>%1/bekräftade (SwiftX verifikation misslyckades)</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>Estado</translation>
+        <translation>Status</translation>
     </message>
     <message>
         <source>, has not been successfully broadcast yet</source>
-        <translation>, no ha sido correctamente transmitida todavía</translation>
+        <translation>, har ännu inte lyckats sändas ut</translation>
     </message>
     <message numerus="yes">
         <source>, broadcast through %n node(s)</source>
-        <translation><numerusform>, retransmitido a través de %n nodos</numerusform><numerusform>, retransmitido a través de %n nodos</numerusform></translation>
+        <translation><numerusform>, sänder via %n nod</numerusform><numerusform>, sänder via %n noder</numerusform></translation>
     </message>
     <message>
         <source>Date</source>
-        <translation>Fecha</translation>
+        <translation>Datum</translation>
     </message>
     <message>
         <source>Source</source>
-        <translation>Fuente</translation>
+        <translation>Källa</translation>
     </message>
     <message>
         <source>Generated</source>
-        <translation>Generado</translation>
+        <translation>Genererad</translation>
     </message>
     <message>
         <source>From</source>
-        <translation>De</translation>
+        <translation>Från</translation>
     </message>
     <message>
         <source>unknown</source>
-        <translation>desconocido</translation>
+        <translation>okänd</translation>
     </message>
     <message>
         <source>To</source>
-        <translation>A</translation>
+        <translation>Till</translation>
     </message>
     <message>
         <source>own address</source>
-        <translation>dirección propia</translation>
+        <translation>egen adress</translation>
     </message>
     <message>
         <source>watch-only</source>
-        <translation>sólo-lectura</translation>
+        <translation>se-endast</translation>
     </message>
     <message>
         <source>label</source>
-        <translation>etiqueta</translation>
+        <translation>Etikett</translation>
     </message>
     <message>
         <source>Credit</source>
-        <translation>Crédito</translation>
+        <translation>Kredit</translation>
     </message>
     <message numerus="yes">
         <source>matures in %n more block(s)</source>
-        <translation><numerusform>madura en %n bloques más</numerusform><numerusform>maduracíon en %n bloques más</numerusform></translation>
+        <translation><numerusform>mognar om %n fler block</numerusform><numerusform>mognar om %n fler block</numerusform></translation>
     </message>
     <message>
         <source>not accepted</source>
-        <translation>rechazado</translation>
+        <translation>Inte Accepterad</translation>
     </message>
     <message>
         <source>Debit</source>
-        <translation>Débito</translation>
+        <translation>Debit</translation>
     </message>
     <message>
         <source>Total debit</source>
-        <translation>Débito total</translation>
+        <translation>Total debit</translation>
     </message>
     <message>
         <source>Total credit</source>
-        <translation>Abonos totales</translation>
+        <translation>Total kredit</translation>
     </message>
     <message>
         <source>Transaction fee</source>
-        <translation>Comisión de transacción</translation>
+        <translation>Transaktions avgift</translation>
     </message>
     <message>
         <source>Net amount</source>
-        <translation>Cantidad neta</translation>
+        <translation>Nettobelopp</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation>Mensaje</translation>
+        <translation>Meddelande</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation>Comentario</translation>
+        <translation>Kommentar</translation>
     </message>
     <message>
         <source>Transaction ID</source>
-        <translation>ID de la transacción</translation>
+        <translation>Transaktions ID</translation>
     </message>
     <message>
         <source>Output index</source>
-        <translation>Índice de salida</translation>
+        <translation>Utgångsindex</translation>
     </message>
     <message>
         <source>Merchant</source>
-        <translation>Comerciante</translation>
+        <translation>Handlare</translation>
     </message>
     <message>
         <source>Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Las monedas generadas deben madurarse %1 bloques hasta que puedan ser gastadas de nuevo. Cuando generaste este bloque, se retransmitió a la red para añadirse a la cadena de bloques. Si falla en unirse a la cadena, su estado cambiará a "no aceptado" y no se podrá gastar de nuevo (bloque huérfano). Esto puede ocurrir ocasionalmente si otro nodo genera un bloque casi al mismo tiempo que el tuyo.</translation>
+        <translation>Genererade mynt måste mogna %1 block innan de kan spenderas. När du genererar detta block, sänds den ut till nätverket för att läggas till i block chain. Om den misslyckas att komma med i blockchain så kommer dess status att ändras till "ej accepterad" och kommer ej kunna spenderas. Detta kan ibland hända om en annan nod genererar ett block inom några sekunder av ditt.</translation>
     </message>
     <message>
         <source>Debug information</source>
-        <translation>Información de depuración</translation>
+        <translation>Felsökningsinformation</translation>
     </message>
     <message>
         <source>Transaction</source>
-        <translation>Transacción</translation>
+        <translation>Transaktion</translation>
     </message>
     <message>
         <source>Inputs</source>
-        <translation>Entradas</translation>
+        <translation>Input</translation>
     </message>
     <message>
         <source>Amount</source>
-        <translation>Cantidad</translation>
+        <translation>Mängd</translation>
     </message>
     <message>
         <source>true</source>
-        <translation>verdad</translation>
+        <translation>sant</translation>
     </message>
     <message>
         <source>false</source>
-        <translation>falso</translation>
+        <translation>falskt</translation>
     </message>
 </context>
 <context>
     <name>TransactionDescDialog</name>
     <message>
         <source>Transaction details</source>
-        <translation>Detalles de transacción</translation>
+        <translation>Transaktionsdetaljer</translation>
     </message>
     <message>
         <source>This pane shows a detailed description of the transaction</source>
-        <translation>Este panel muestra una descripción detallada de la transacción</translation>
+        <translation>Denna panel visar en detaljerad beskrivning av transaktionerna</translation>
     </message>
 </context>
 <context>
     <name>TransactionTableModel</name>
     <message>
         <source>Date</source>
-        <translation>Fecha</translation>
+        <translation>Datum</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Tipo</translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>Dirección</translation>
+        <translation>Adress</translation>
     </message>
     <message numerus="yes">
         <source>Open for %n more block(s)</source>
-        <translation><numerusform>Abierto para %n bloques más</numerusform><numerusform>Abierto para %n bloques más</numerusform></translation>
+        <translation><numerusform>Öppen för %n fler block</numerusform><numerusform>Öppen för %n fler block</numerusform></translation>
     </message>
     <message>
         <source>Open until %1</source>
-        <translation>Abierto hasta %1</translation>
+        <translation>Öppna tills %1</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation>Desconectado</translation>
+        <translation>Offline</translation>
     </message>
     <message>
         <source>Unconfirmed</source>
-        <translation>Sin confirmar</translation>
+        <translation>obekräftad</translation>
     </message>
     <message>
         <source>Confirming (%1 of %2 recommended confirmations)</source>
-        <translation>Confirmando (%1 de %2 confirmaciones recomendadas)</translation>
+        <translation>Bekräftar (%1 av %2 rekomenderade bekräftelser)</translation>
     </message>
     <message>
         <source>Confirmed (%1 confirmations)</source>
-        <translation>Confirmado (%1 confirmaciones)</translation>
+        <translation>Bekräftat (%1 bekräftelser)</translation>
     </message>
     <message>
         <source>Conflicted</source>
-        <translation>Huérfano</translation>
+        <translation>I konflikt</translation>
     </message>
     <message>
         <source>Immature (%1 confirmations, will be available after %2)</source>
-        <translation>Prematuro (%1 confirmaciones, estará disponible después de %2)</translation>
+        <translation>Omogna (%1 bekräftelser, kommer bli tillgängliga efter %2)</translation>
     </message>
     <message>
         <source>This block was not received by any other nodes and will probably not be accepted!</source>
-        <translation>¡Este bloque no fue recibido por los otros nodos y probablemente no será aceptado!</translation>
+        <translation>Detta block togs inte emot av någon annan nod och kommer förmodligen inte accepteras!</translation>
     </message>
     <message>
         <source>Received with</source>
-        <translation>Recibido con</translation>
+        <translation>Mottaget med</translation>
     </message>
     <message>
         <source>Masternode Reward</source>
-        <translation>Recompensa de Nodo Maestro</translation>
+        <translation>Masternode Belöning</translation>
     </message>
     <message>
         <source>Received from</source>
-        <translation>Recibido desde</translation>
+        <translation>Mottaget från</translation>
     </message>
     <message>
         <source>Received via Obfuscation</source>
-        <translation>Recibido por medio de Ofuscación</translation>
+        <translation>Mottaget via Fördunkling</translation>
     </message>
     <message>
         <source>SECX Stake</source>
-        <translation>Stake SECX</translation>
+        <translation>SECX staking</translation>
     </message>
     <message>
         <source>zSECX Stake</source>
-        <translation>Stake zSECX</translation>
+        <translation>zSECX Staking</translation>
     </message>
     <message>
         <source>Obfuscation Denominate</source>
-        <translation>Ofuscación Denominada</translation>
+        <translation>Fördunkling Betecknat</translation>
     </message>
     <message>
         <source>Obfuscation Collateral Payment</source>
-        <translation>Pago Colateral de Ofuscación</translation>
+        <translation>Fördunkling Kollateral Betalning</translation>
     </message>
     <message>
         <source>Obfuscation Make Collateral Inputs</source>
-        <translation>La Ofuscación Crea Entradas Colaterales</translation>
+        <translation>Fördunkling Gör Kollateral Inmatning</translation>
     </message>
     <message>
         <source>Obfuscation Create Denominations</source>
-        <translation>Ofuscación Crea Billetes</translation>
+        <translation>Obfuscation Skapa tecken</translation>
     </message>
     <message>
         <source>Converted SECX to zSECX</source>
-        <translation>SECX convertidos a zSECX</translation>
+        <translation>Konvertera SECX till zSECX</translation>
     </message>
     <message>
         <source>Spent zSECX</source>
-        <translation>Gastar zSECX</translation>
+        <translation>Spendera zSECX</translation>
     </message>
     <message>
         <source>Received SECX from zSECX</source>
-        <translation>SECX recibidos desde zSECX </translation>
+        <translation>Mottog SECX från zSECX</translation>
     </message>
     <message>
         <source>Minted Change as zSECX from zSECX Spend</source>
-        <translation>Cambio de acuñación en zSECX al Gastar zSECX</translation>
+        <translation>Myntad Växel som zSECX från zSECX Spendering</translation>
     </message>
     <message>
         <source>Converted zSECX to SECX</source>
-        <translation>zSECX convertidos a SECX</translation>
+        <translation>Konverterad zSECX till SECX</translation>
     </message>
     <message>
         <source>Anonymous (zSECX Transaction)</source>
-        <translation>Anónimo (Transacción zSECX)</translation>
+        <translation>Anonym (zSECX Transaktion)</translation>
     </message>
     <message>
         <source>Anonymous (zSECX Stake)</source>
-        <translation>Anónimo (Stake zSECX)</translation>
+        <translation>Anonym (zSECX Stake)</translation>
     </message>
     <message>
         <source>Sent to</source>
-        <translation>Enviado a</translation>
+        <translation>Skicka till</translation>
     </message>
     <message>
         <source>Orphan Block - Generated but not accepted. This does not impact your holdings.</source>
-        <translation>Bloque Huérfano - Generado pero no aceptado. Esto no afecta a su saldo.</translation>
+        <translation>Föräldralöst Block - Genererat men ej accepterat. Detta påverkar inte ditt innehav.</translation>
     </message>
     <message>
         <source>Payment to yourself</source>
-        <translation>Pago a usted mismo</translation>
+        <translation>Betalning till dig själv</translation>
     </message>
     <message>
         <source>Mined</source>
-        <translation>Minado</translation>
+        <translation>Mined</translation>
     </message>
     <message>
         <source>Obfuscated</source>
-        <translation>Ofuscado</translation>
+        <translation>Fördunklade</translation>
     </message>
     <message>
         <source>watch-only</source>
-        <translation>sólo-lectura</translation>
+        <translation>se-endast</translation>
     </message>
     <message>
         <source>(n/a)</source>
@@ -4606,166 +4522,166 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
     </message>
     <message>
         <source>Transaction status. Hover over this field to show number of confirmations.</source>
-        <translation>Estado de la transacción. Pase el ratón sobre este campo para mostrar el número de confirmaciones.</translation>
+        <translation>Transaktionsstatus. håll musen över detta fält för att visa antal bekräftelser.</translation>
     </message>
     <message>
         <source>Date and time that the transaction was received.</source>
-        <translation>Fecha y hora a la que se recibió la transacción.</translation>
+        <translation>Tid och datum som transaktionen togs emot.</translation>
     </message>
     <message>
         <source>Type of transaction.</source>
-        <translation>Tipo de transacción.</translation>
+        <translation>Typ av transaktion.</translation>
     </message>
     <message>
         <source>Whether or not a watch-only address is involved in this transaction.</source>
-        <translation>Indica si hay o no una dirección de sólo lectura relacionada en esta transacción</translation>
+        <translation>Om en "watch only" adress är involverad i denna transaktion.</translation>
     </message>
     <message>
         <source>Destination address of transaction.</source>
-        <translation>Dirección de destino de la transacción.</translation>
+        <translation>Transaktionens Destinationsadress.</translation>
     </message>
     <message>
         <source>Amount removed from or added to balance.</source>
-        <translation>Cantidad quitada o añadida al balance.</translation>
+        <translation>Mängd borttagen från eller tillagd till saldo.</translation>
     </message>
 </context>
 <context>
     <name>TransactionView</name>
     <message>
         <source>All</source>
-        <translation>Todos</translation>
+        <translation>All</translation>
     </message>
     <message>
         <source>Today</source>
-        <translation>Hoy</translation>
+        <translation>Idag</translation>
     </message>
     <message>
         <source>This week</source>
-        <translation>Esta semana</translation>
+        <translation>Denna vecka</translation>
     </message>
     <message>
         <source>This month</source>
-        <translation>Este mes</translation>
+        <translation>Denna månad</translation>
     </message>
     <message>
         <source>Last month</source>
-        <translation>Último mes</translation>
+        <translation>Förra månaden</translation>
     </message>
     <message>
         <source>This year</source>
-        <translation>Este año</translation>
+        <translation>Detta år</translation>
     </message>
     <message>
         <source>Range...</source>
-        <translation>Intervalo...</translation>
+        <translation>Räckvid...</translation>
     </message>
     <message>
         <source>Most Common</source>
-        <translation>Más Común</translation>
+        <translation>Vanligast</translation>
     </message>
     <message>
         <source>Received with</source>
-        <translation>Recibido con</translation>
+        <translation>Mottaget med</translation>
     </message>
     <message>
         <source>Sent to</source>
-        <translation>Enviado a</translation>
+        <translation>Skicka till</translation>
     </message>
     <message>
         <source>To yourself</source>
-        <translation>A usted mismo</translation>
+        <translation>Dig själv</translation>
     </message>
     <message>
         <source>Mined</source>
-        <translation>Minado</translation>
+        <translation>Mined</translation>
     </message>
     <message>
         <source>Minted</source>
-        <translation>Creación de moneda</translation>
+        <translation>Mintad</translation>
     </message>
     <message>
         <source>Masternode Reward</source>
-        <translation>Recompensa de Nodo Maestro</translation>
+        <translation>Huvudnods Belöning</translation>
     </message>
     <message>
         <source>Zerocoin Mint</source>
-        <translation>Creación de moneda Zerocoin</translation>
+        <translation>Zerocoin Mint</translation>
     </message>
     <message>
         <source>Zerocoin Spend</source>
-        <translation>Gasto de Zerocoin</translation>
+        <translation>Zerocoin Spendera</translation>
     </message>
     <message>
         <source>Zerocoin Spend to Self</source>
-        <translation>Pago Zerocoin a tí mismo</translation>
+        <translation>Zerocoin Spendera till Själv</translation>
     </message>
     <message>
         <source>Other</source>
-        <translation>Otro</translation>
+        <translation>Annan</translation>
     </message>
     <message>
         <source>Enter address or label to search</source>
-        <translation>Introduzca dirección o etiqueta para buscar</translation>
+        <translation>Mata in adress eller etikett att söka</translation>
     </message>
     <message>
         <source>Min amount</source>
-        <translation>Cantidad mínima</translation>
+        <translation>Min. mängd</translation>
     </message>
     <message>
         <source>Copy address</source>
-        <translation>Copiar dirección</translation>
+        <translation>Kopiera Adress</translation>
     </message>
     <message>
         <source>Copy label</source>
-        <translation>Copiar etiqueta</translation>
+        <translation>Kopiera etikett</translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>Copiar cantidad</translation>
+        <translation>Kopiera antal</translation>
     </message>
     <message>
         <source>Copy transaction ID</source>
-        <translation>Copiar código de transacción</translation>
+        <translation>Kopiera transactions ID</translation>
     </message>
     <message>
         <source>Edit label</source>
-        <translation>Editar etiqueta</translation>
+        <translation>Redigera etikett</translation>
     </message>
     <message>
         <source>Show transaction details</source>
-        <translation>Mostrar detalles de transacción</translation>
+        <translation>Visa Transaktionsdetaljer</translation>
     </message>
     <message>
         <source>Export Transaction History</source>
-        <translation>Exportar Histórico de Transacciones</translation>
+        <translation>Exportera Transaktionshistorik</translation>
     </message>
     <message>
         <source>Comma separated file (*.csv)</source>
-        <translation>Archivo separado por comas (*.csv)</translation>
+        <translation>Kommaseparerad fil (*.csv)</translation>
     </message>
     <message>
         <source>Confirmed</source>
-        <translation>Confirmado</translation>
+        <translation>bekräftad</translation>
     </message>
     <message>
         <source>Watch-only</source>
-        <translation>Sólo-lectura</translation>
+        <translation>Se-bara</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation>Fecha</translation>
+        <translation>Datum</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Tipo</translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation>Etiqueta</translation>
+        <translation>Etikett</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>Dirección</translation>
+        <translation>Adress</translation>
     </message>
     <message>
         <source>ID</source>
@@ -4773,98 +4689,98 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
     </message>
     <message>
         <source>Exporting Failed</source>
-        <translation>Exportación fallida</translation>
+        <translation>Exportering Misslyckad</translation>
     </message>
     <message>
         <source>There was an error trying to save the transaction history to %1.</source>
-        <translation>Hubo un error intentando guardar el historial de transacciones a %1.</translation>
+        <translation>Det uppstod ett fel med att försöka spara transaktionshistoriken till %1.</translation>
     </message>
     <message>
         <source>Exporting Successful</source>
-        <translation>Exportación Correcta</translation>
+        <translation>Exportering Lyckat</translation>
     </message>
     <message>
         <source>Received SECX from zSECX</source>
-        <translation>SECX recibidos desde zSECX</translation>
+        <translation>Mottog SECX från zSECX</translation>
     </message>
     <message>
         <source>Zerocoin Spend, Change in zSECX</source>
-        <translation>Gastar Zerocoin, Cambio en zSECX</translation>
+        <translation>Zerocoin spendera, Växel i zSECX</translation>
     </message>
     <message>
         <source>The transaction history was successfully saved to %1.</source>
-        <translation>El historial de transacción fue guardado satisfactoriamente a %1.</translation>
+        <translation>Transaktionhistoriken lyckades sparas till %1.</translation>
     </message>
     <message>
         <source>Range:</source>
-        <translation>Rango:</translation>
+        <translation>Räckvid:</translation>
     </message>
     <message>
         <source>to</source>
-        <translation>a</translation>
+        <translation>till</translation>
     </message>
 </context>
 <context>
     <name>UnitDisplayStatusBarControl</name>
     <message>
         <source>Unit to show amounts in. Click to select another unit.</source>
-        <translation>Unidad en la que mostrar cantidades. Click para seleccionar otra unidad.</translation>
+        <translation>Enhet att visa mängd i. Klicka för att välja en annan enhet.</translation>
     </message>
 </context>
 <context>
     <name>WalletFrame</name>
     <message>
         <source>No wallet has been loaded.</source>
-        <translation>No se ha cargado ningún monedero.</translation>
+        <translation>Ingen plånbok har laddats.</translation>
     </message>
 </context>
 <context>
     <name>WalletModel</name>
     <message>
         <source>Send Coins</source>
-        <translation>Enviar Monedas</translation>
+        <translation>Skicka Mynt</translation>
     </message>
     <message>
         <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 SECX.</source>
-        <translation>SwiftTX no soporta el envío de importes tan altos todavía. Las transacciones están actualmente limitadas a %1 SECX.</translation>
+        <translation>wiftX stödjer inte att skicka så höga värden än. Transaktioner är för nuvarande begränsade till %1 SECX.</translation>
     </message>
 </context>
 <context>
     <name>WalletView</name>
     <message>
         <source>HISTORY</source>
-        <translation>HISTÓRIA</translation>
+        <translation>HISTORIK</translation>
     </message>
     <message>
         <source>&amp;Export</source>
-        <translation>&amp;Exportar</translation>
+        <translation>&amp;Exportera</translation>
     </message>
     <message>
         <source>Export the data in the current tab to a file</source>
-        <translation>Exportar los datos de la pestaña actual a un archivo</translation>
+        <translation>Exportera data in den nuvarande fliken till en fil</translation>
     </message>
     <message>
         <source>Selected amount:</source>
-        <translation>Cantidad seleccionada:</translation>
+        <translation>Vald mängd:</translation>
     </message>
     <message>
         <source>Backup Wallet</source>
-        <translation>Copia del Monedero</translation>
+        <translation>Gör en backup på plånboken</translation>
     </message>
     <message>
         <source>Wallet Data (*.dat)</source>
-        <translation>Datos del Monedero (*.dat)</translation>
+        <translation>Plånboksdata (*.dat)</translation>
     </message>
 </context>
 <context>
     <name>ZSecxControlDialog</name>
     <message>
         <source>Select zSECX to Spend</source>
-        <translation>Selecciona zSECX para Gastar</translation>
+        <translation>Välj zSECX att Spendera</translation>
     </message>
     <message>
         <source>Quantity</source>
-        <translation>Cantidad</translation>
+        <translation>Mängd</translation>
     </message>
     <message>
         <source>0</source>
@@ -4876,386 +4792,386 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
     </message>
     <message>
         <source>Select/Deselect All</source>
-        <translation>Seleccionar/Deseleccionar Todos</translation>
+        <translation>Markera/Avmarkera alla</translation>
     </message>
     <message>
         <source>Is Spendable</source>
-        <translation>Es Gastable</translation>
+        <translation>Är Spenderbar</translation>
     </message>
 </context>
 <context>
     <name>securityx-core</name>
     <message>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
-        <translation>(1= mantener los metadatos tx p.e. dueño de la cuenta e información de la solicitud de pago, 2 = ignorar metadatos tx)</translation>
+        <translation>(1 = behåll tx meta data t.ex. kontoägare och information om betalningsförfråga, 2 = släpp tx meta data)</translation>
     </message>
     <message>
         <source>Allow JSON-RPC connections from specified source. Valid for &lt;ip&gt; are a single IP (e.g. 1.2.3.4), a network/netmask (e.g. 1.2.3.4/255.255.255.0) or a network/CIDR (e.g. 1.2.3.4/24). This option can be specified multiple times</source>
-        <translation>Permitir conexiones JSON-RPC  desde la fuente especificada. Valido para &lt;ip&gt; sea una única IP (ej: 1.2.3.4), una red/mascara de red (ej: 1.2.3.4/255.255.255.0) o una red/CIDR (ej: 1.2.3.4/24). Esta opción puede ser especificada múltiples veces.</translation>
+        <translation>Tillåt JSON-RPC anslutningar från specifierad källa. Giltig till &lt;ip&gt; är en singel IP (t.ex. 1.2.3.4), ett nätverk/nätmask (t.ex. 1.2.3.4/255.255.255.0) eller ett nätverk/CIDR (t.ex. 1.2.3.4/24). Detta alternativ kan specifieras flera gånger</translation>
     </message>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>
-        <translation>Conectarse a la IP seleccionada y siempre escuchar de ella. Usar la forma [host]:puerto para IPv6</translation>
+        <translation>Bind till given adress och lyssna alltid på den. Använd [värd]:port notation för IPv6</translation>
     </message>
     <message>
         <source>Bind to given address and whitelist peers connecting to it. Use [host]:port notation for IPv6</source>
-        <translation>Escuchar únicamente a la dirección IP indicada y a nodos de la lista blanca. Use la notación [host]:puerto para IPv6</translation>
+        <translation>Bind till angiven adress och vitlista peers att ansluta till den. Använd [värd]:port notation för IPv6</translation>
     </message>
     <message>
         <source>Bind to given address to listen for JSON-RPC connections. Use [host]:port notation for IPv6. This option can be specified multiple times (default: bind to all interfaces)</source>
-        <translation>Escuchar únicamente a la tarjeta de red indicada para conexiones JSON-RPC. Use la notación [host]:puerto para IPv6. Esta opción puede ser especificada varias veces (por defecto: escuchar en todas las tarjetas de red)</translation>
+        <translation>Bind till given adress att lyssna efter JSON-RPC anslutningar. Använd [värd]:port notation för IPv6. Detta alternativ kan specifieras flera gånger (standard: bind till alla gränssnitt)</translation>
     </message>
     <message>
         <source>Calculated accumulator checkpoint is not what is recorded by block index</source>
-        <translation>El punto de chequeo del acumulador que hemos calculado no coincide con lo guardado en el índice de bloques</translation>
+        <translation>Beräknade ackumulator kontrollstation är inte vad som sparats av block index</translation>
     </message>
     <message>
         <source>Cannot obtain a lock on data directory %s. SecurityX Core is probably already running.</source>
-        <translation>No se puede obtener un bloqueo sobre el directorio de datos %s. SecurityX Core esta probablemente en ejecución.</translation>
+        <translation>Kan ej låsa in på data katalog %s. SecurityX Kärna körs förmodligen redan.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
-        <translation>Cambiar el comportamiento automático de votación de presupuesto final. modo=auto: Votar sólo por coincidencia exacta de un presupuesto finalizado con el generado por mí. (cadena, por defecto: auto)</translation>
+        <translation>Växel automatiskt slutgiltig budget beteende. läge=auto: Rösta endast för exakt slutförd budget matchning till min genererade budget. (sträng, standard: auto)</translation>
     </message>
     <message>
         <source>Continuously rate-limit free transactions to &lt;n&gt;*1000 bytes per minute (default:%u)</source>
-        <translation>Limite continuo de transacciones gratuitas &lt;n&gt;*1000 bytes por minuto (default:%u)</translation>
+        <translation>Kontinuerligt takt-begränsad fria transaktioner to &lt;n&gt;*1000 bytes per minut (standard:%u)</translation>
     </message>
     <message>
         <source>Create new files with system default permissions, instead of umask 077 (only effective with disabled wallet functionality)</source>
-        <translation>Crear nuevos archivos con el permiso predeterminado del sistema, en vez de umask 077 (solamente efectivo con la funcionalidad del monedero desabilitada)</translation>
+        <translation>Skapa nya filer med systemets standard tillstånd, istället för umask 077 (endast effektgivande med inaktiverade plånboksfunktioner)</translation>
     </message>
     <message>
         <source>Delete all wallet transactions and only recover those parts of the blockchain through -rescan on startup</source>
-        <translation>Borrar todas las transacciones del monedero y solo recuperar partes de la cadena de bloque a traves de -rescan al inicio.</translation>
+        <translation>Radera alla plånbokstransaktioner och återhämta endast de delar av blockchain genom -rescan vid uppstart</translation>
     </message>
     <message>
         <source>Delete all zerocoin spends and mints that have been recorded to the blockchain database and reindex them (0-1, default: %u)</source>
-        <translation>Elimina todos registros de las transferencias y el acuñado de Zerocoin que se hayan registrado en la base de datos de Blockchain y vuelva a indexarlos (0-1, default: %u)</translation>
+        <translation>Radera alla zerocoin spenderingar och mints som har blivit nedskrivna  till blockchain databasen och placera om de i indexet (0-1, default: %u)</translation>
     </message>
     <message>
         <source>Distributed under the MIT software license, see the accompanying file COPYING or &lt;http://www.opensource.org/licenses/mit-license.php&gt;.</source>
-        <translation>Distribuido bajo licencia MIT software license, ver el archivo adjunto COPYING or &lt;http://www.opensource.org/licenses/mit-license.php&gt;</translation>
+        <translation>Distribuerad under MIT mjukvarulicensen, se medföljande fil COPYING eller &lt;http://www.opensource.org/licenses/mit-license.php&gt;.</translation>
     </message>
     <message>
         <source>Enable automatic wallet backups triggered after each zSECX minting (0-1, default: %u)</source>
-        <translation>Habilite copias de seguridad automáticas del monedero que se activan después de cada acuñación zSECX (0-1, predeterminado: %u)</translation>
+        <translation>Aktivera automatisk plånboksbackup efter varje zSECX minting (0-1, standard: %u)</translation>
     </message>
     <message>
         <source>Enable or disable staking functionality for SECX inputs (0-1, default: %u)</source>
-        <translation>Habilitar o deshabilitar la funcionalidad de staking para las entradas SECX (0-1, predeterminado: %u)</translation>
+        <translation>Aktivera eller avaktivera staking funktionalitet för SECX inmatningar (0-1, standard: %u)</translation>
     </message>
     <message>
         <source>Enable or disable staking functionality for zSECX inputs (0-1, default: %u)</source>
-        <translation>Habilitar o deshabilitar la funcionalidad de staking para las entradas zSECX (0-1, predeterminado: %u)</translation>
+        <translation>Aktivera eller avaktivera staking funktionalitet för zSECX inmatningar (0-1, standard: %u)</translation>
     </message>
     <message>
         <source>Enable spork administration functionality with the appropriate private key.</source>
-        <translation>Activar la función de administración de sporks con la llave privada apropiada.</translation>
+        <translation>Tillåt spork administration funktion med den lämpliga privata nyckeln.</translation>
     </message>
     <message>
         <source>Enter regression test mode, which uses a special chain in which blocks can be solved instantly.</source>
-        <translation>Entrar en el modo prueba de regresión, el cual usa una cadena especial en el cual los bloques pueden ser resueltos instantaneamente.</translation>
+        <translation>Gå in i regressions testläge, som använder en speciell chain som block kan lösas omedelbart.</translation>
     </message>
     <message>
         <source>Error: Listening for incoming connections failed (listen returned error %s)</source>
-        <translation>Error: La escucha para conexiones entrantes falló (la escucha retorno error %s)</translation>
+        <translation>Felmeddelande: Lystnande efter inkommande anslutningar misslyckades (listen återgav fel %s)</translation>
     </message>
     <message>
         <source>Error: The transaction is larger than the maximum allowed transaction size!</source>
-        <translation>Error: ¡La transacción es más grande que el tamaño máximo de transacción permitido!</translation>
+        <translation>Felmeddelande: Transaktionen är större än maximala tillåtna transaktions storleken!</translation>
     </message>
     <message>
         <source>Error: Unsupported argument -socks found. Setting SOCKS version isn't possible anymore, only SOCKS5 proxies are supported.</source>
-        <translation>Error: Argumento -socks no soportado. No se permite utilizar la versión SOCKS, solo proxies de SOCKS5 están soportados.</translation>
+        <translation>Felmeddelande: Ohanterbart argument -socks hittad. Ställa in SOCKS version är inte möjligt längre, endast SOCKS5 proxies stöds.</translation>
     </message>
     <message>
         <source>Execute command when a relevant alert is received or we see a really long fork (%s in cmd is replaced by message)</source>
-        <translation>Ejecutar un comando cuando una alerta relevante es recibida o estamos teniendo una realmente larga bifurcación (%s en cmd is reemplazado por el mensaje)</translation>
+        <translation>Exekvera kommando när en relevant varning tas emot eller när vi ser en jättelång fork (%s i cmd byts ut mot meddelande)</translation>
     </message>
     <message>
         <source>Execute command when a wallet transaction changes (%s in cmd is replaced by TxID)</source>
-        <translation>Ejecutar un comando cuando una transacción del monedero cambie (%s en cmd is reemplazado por TxID)</translation>
+        <translation>Exekvera kommando när en plånbok transaktion ändras (%s i cmd är utbytt mot TxID)</translation>
     </message>
     <message>
         <source>Execute command when the best block changes (%s in cmd is replaced by block hash)</source>
-        <translation>Ejecutar comando cuando el mejor bloque cambie (%s en cmd es reemplazado por el block hash)</translation>
+        <translation>Exekvera kommando när den bästa block ändras (%s i cmd är utbytt mot block hash)</translation>
     </message>
     <message>
         <source>Fees (in SECX/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Comisiones (en SECX/Kb) menores a esta son consideradas gratuitas para la propagación de la transacción (default: %s)</translation>
+        <translation>Avgifter (i SECX/Kb) mindre än detta anses vara noll avgift i vidarebefodring (standard: %s)</translation>
     </message>
     <message>
         <source>Fees (in SECX/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Comisiones (en SECX/Kb) menores a esta son consideradas gratuitas para la creación de la transacción (default: %s)</translation>
+        <translation>Avgifter (i SECX/Kb) mindre än detta anses vara noll avgift i transaktionsskapelse (standard: %s)</translation>
     </message>
     <message>
         <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>
-        <translation>Trasladar la actividad de la base de datos en el pool de memoria al log de disco cada &lt;n&gt; megabytes (default: %u)</translation>
+        <translation>Spola databasaktivitet från minnes pool till disk log varje &lt;n&gt;megabytes (default: %u)</translation>
     </message>
     <message>
         <source>Found unconfirmed denominated outputs, will wait till they confirm to continue.</source>
-        <translation>Se encontró salidas denominadas sin confirmar, se esperará hasta que se confirmen para continuar.</translation>
+        <translation>Obekräftade betecknade utmatningar hittade, kommer vänta tills de bekräftar för att fortsätta.</translation>
     </message>
     <message>
         <source>If paytxfee is not set, include enough fee so transactions begin confirmation on average within n blocks (default: %u)</source>
-        <translation>Si paytxfee no esta definido, incluir suficiente comisión de manera que la transacción se vuelva confirmada en promedio dentro de n bloques (predeterminado: %u)</translation>
+        <translation>Om paytxfee inte är satt, inkludera tillräcklig avgift för att transaktionen ska börja bekräfta i genomsnitt inom n block (standard: %u)</translation>
     </message>
     <message>
         <source>In this mode -genproclimit controls how many blocks are generated immediately.</source>
-        <translation>En este modo -genproclimit controla cuantos bloques son generados inmediatamente.</translation>
+        <translation>I detta läge -genproclimit kontrolleras hur många block som genereras omedelbart.</translation>
     </message>
     <message>
         <source>Insufficient or insufficient confirmed funds, you might need to wait a few minutes and try again.</source>
-        <translation>Fondos insuficientes o fondos confirmados insuficientes, es posible que tenga que esperar unos minutos y volver a intentarlo.</translation>
+        <translation>Otillräckliga eller otillräckligt bekräftade pengar, du kan behöva vänta några minuter och försöka igen.</translation>
     </message>
     <message>
         <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s' (must be at least the minrelay fee of %s to prevent stuck transactions)</source>
-        <translation>Importe inválido para -maxtxfee=&lt;amount&gt;:'%s' (debe ser al menos la comisión minrelay de %s para prevenir transacciones atascadas)</translation>
+        <translation>Ogiltig mängd -maxtxfee=&lt;amount&gt;: '%s' (måste vara minst minrelay avgift av %s för att förhindra att transaktioner fastnar)</translation>
     </message>
     <message>
         <source>Keep the specified amount available for spending at all times (default: 0)</source>
-        <translation>Mantener la cantidad especificada disponible para gastar en todo momento (por defecto: 0)</translation>
+        <translation>Håll den specifierade mängden tillgänglig till att spenderas vid alla tillfällen (standard: 0)</translation>
     </message>
     <message>
         <source>Log transaction priority and fee per kB when mining blocks (default: %u)</source>
-        <translation>Prioridad y comisión del registro de transacciones por kB cuando se esta minando bloques (predeterminado: %u)</translation>
+        <translation>Log transaktion prioritet och avgift per kB närmining block (standard: %u)</translation>
     </message>
     <message>
         <source>Maintain a full transaction index, used by the getrawtransaction rpc call (default: %u)</source>
-        <translation>Mantener un indice de transacción completo, utilizado por la llamada rpc getrawtransaction (predeterminado: %u)</translation>
+        <translation>Behåll en full transaktionsindex, använd av getrawtransaction rpc call (standard: %u)</translation>
     </message>
     <message>
         <source>Maximum size of data in data carrier transactions we relay and mine (default: %u)</source>
-        <translation>Tamaño máximo de datos en transacciones de transmisiones de datos que pasamos y minamos (predeterminado: %u)</translation>
+        <translation>Maximal datastorlek i databärar transaktioner ändrar vi väg och mine (standard: %u)</translation>
     </message>
     <message>
         <source>Maximum total fees to use in a single wallet transaction, setting too low may abort large transactions (default: %s)</source>
-        <translation>Comisión máxima total para usar en una única transacción de monedero, definirlo muy bajo puede abortar transacciones largas (predeterminado: %s)</translation>
+        <translation>Maximala fullständiga avgifter att använda i en ensam plånbokstransaktion, om satt för låg så kanske stora transaktioner avbryts (standard: %s)</translation>
     </message>
     <message>
         <source>Number of seconds to keep misbehaving peers from reconnecting (default: %u)</source>
-        <translation>Número de segundos a mantener pares con mal comportamiento de reconectarse (predeterminado: %u)</translation>
+        <translation>Antal sekunder att hindra peers som beter sig illa från att återansluta (standard: %u)</translation>
     </message>
     <message>
         <source>Obfuscation uses exact denominated amounts to send funds, you might simply need to anonymize some more coins.</source>
-        <translation>La ofuscación utiliza importes en denominaciones exactas para enviar fondos, puedes simplemente necesitar anonimizar algunas monedas mas. </translation>
+        <translation>Obfuscation använder exakta denominerade mängder för att skicka medel, du kan helt enkelt behöva anonymisera några fler mynt.</translation>
     </message>
     <message>
         <source>Output debugging information (default: %u, supplying &lt;category&gt; is optional)</source>
-        <translation>Saluda de información de depuración (predeterminado: %u, proveyendo &lt;category&gt; es opcional)</translation>
+        <translation>Utmata felsökningsinformation (standard: %u, tillgodose &lt;category&gt; är frivilligt)</translation>
     </message>
     <message>
         <source>Query for peer addresses via DNS lookup, if low on addresses (default: 1 unless -connect)</source>
-        <translation>Consultar por direcciones de pares vía búsqueda en DNS, si cantidad de direcciones esta bajo (predeterminado: 1 a menos que se utilice -connect)</translation>
+        <translation>Fråga efter peer adresser via DNS lookup, om få adresser (standard: 1 om inte -connect)</translation>
     </message>
     <message>
         <source>Randomize credentials for every proxy connection. This enables Tor stream isolation (default: %u)</source>
-        <translation>Credenciales aleatorias para cada conexión proxy. Esto habilita el aislamiento del flujos de datos Tor (por defecto: %u)</translation>
+        <translation>Slumpa kreditiv för varje proxy anslutning. Detta tillåter Tor stream isolation (standard: %u)</translation>
     </message>
     <message>
         <source>Require high priority for relaying free or low-fee transactions (default:%u)</source>
-        <translation>Requerir alta prioridad para transmitir transacción de libre o baja comisión (predeterminado: %u)</translation>
+        <translation>Kräver hög prioritet för att lägga om gratis eller låg-avgifts transaktionsväg (standard: %u)</translation>
     </message>
     <message>
         <source>Send trace/debug info to console instead of debug.log file (default: %u)</source>
-        <translation>Enviar info de traza/debug a la consola en lugar del archivo debug.log (predeterminado: %u)</translation>
+        <translation>Skicka spåra/felsöknings information till konsoll istället för debug.log fil (standard: %u)</translation>
     </message>
     <message>
         <source>Set maximum size of high-priority/low-fee transactions in bytes (default: %d)</source>
-        <translation>Define tamaño máximo de transacción alta prioridad/baja comisión en bytes (predeterminado: %d)</translation>
+        <translation>Sätt maximala storlek för hög-prioritet/låg-avgift transaktioner i bytes (standard: %d)</translation>
     </message>
     <message>
         <source>Set the number of script verification threads (%u to %d, 0 = auto, &lt;0 = leave that many cores free, default: %d)</source>
-        <translation>Define el número de hilos para el script de verificación (%u a %d, 0 = auto, &lt;0 = dejar esa cantidad de núcleos libres, predeterminado: %d)</translation>
+        <translation>Sätt mängden scripbekräftelse trådar (%u till %d, 0 = auto, &lt;0 = lämna så många kärnor fria, standard: %d)</translation>
     </message>
     <message>
         <source>Set the number of threads for coin generation if enabled (-1 = all cores, default: %d)</source>
-        <translation>Define el número de hilos para generación de moneda si esta habilitado (-1 = todos los núcleos, predeterminado: %d)</translation>
+        <translation>Sätt mängden trådar åt mynt generering om aktiverad (-1 = alla kärnor, standard: %d)</translation>
     </message>
     <message>
         <source>Show N confirmations for a successfully locked transaction (0-9999, default: %u)</source>
-        <translation>Mostrar N confirmaciones para una transacción cerrada exitosamente (0-9999, predefinido: %u)</translation>
+        <translation>Visa N bekräftelser för en lyckad låst transaktion (0-9999, standard: %u)</translation>
     </message>
     <message>
         <source>Support filtering of blocks and transaction with bloom filters (default: %u)</source>
-        <translation>Soportar filtrado de bloques y transacciones con filtros bloom (por defecto: %u)</translation>
+        <translation>Stödjer filtrering av block och transaktioner med blomm filter (standard: %u)</translation>
     </message>
     <message>
         <source>This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit &lt;https://www.openssl.org/&gt; and cryptographic software written by Eric Young and UPnP software written by Thomas Bernard.</source>
-        <translation>Este producto incluye software desarrollado por el Proyecto OpenSSL para uso en OpenSSL Toolkit &lt;https://www.openssl.org/&gt; y software de cifrado escrito por Eric Young y software de UPnP escrito por Thomas Bernard.</translation>
+        <translation>Denna produkt inkluderar mjukvara utvecklad av OpenSSL Projektet för användning i OpenSSL Toolkit &lt;https://www.openssl.org/&gt; och kryptografisk mjukvara skriven av Eric Young och UPnP mjukvara skriven av Thomas Bernard.</translation>
     </message>
     <message>
         <source>Unable to bind to %s on this computer. SecurityX Core is probably already running.</source>
-        <translation>Imposible conectar a %s en esta computadora. Es probable que SecurityX Core ya este corriendo.</translation>
+        <translation>Kan inte binda till %s på denna dator. SecurityX Core körs förmodligen redan.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
-        <translation>Imposible localizar suficientes fondos denominados de Ofuscación para esta transacción.</translation>
+        <translation>Kan ej lokalisera tillräckligt Fördunklingsdenominationerade pengar för denna transaktion.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 SECX.</source>
-        <translation>Imposible localizar suficientes fondos no-denominados de Ofuscación para esta transacción que no es igual a 10000 SECX.</translation>
+        <translation>Kan ej lokalisera tillräckligt Fördunkling icke-denominationerade pengar för denna transaktion som inte är 10000 SECX.</translation>
     </message>
     <message>
         <source>Unable to locate enough funds for this transaction that are not equal 10000 SECX.</source>
-        <translation>Imposible localizar fondos suficientes para esta transacción que no es igual a 10000 SECX.</translation>
+        <translation>Kan inte hitta tillräckligt med pengar för denna transaktion som inte är 10000 SECX.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
-        <translation>Utilizar un proxy SOCKS5 diferente para alcanzar pares vía el servicio oculto Tor (predefinido: %s)</translation>
+        <translation>Använd separera SOCKS5 proxy för att nå peers via Tor hidden services (standard: %s)</translation>
     </message>
     <message>
         <source>Warning: -maxtxfee is set very high! Fees this large could be paid on a single transaction.</source>
-        <translation>Advertencia: -maxtxfee esta muy alto! Comisiones así de altas pueden ser pagadas en una única transacción.</translation>
+        <translation>Varning: -maxtxfee är sätt väldigt högt! Avgifter såhär stora kan betalas med en ensam transaktion.</translation>
     </message>
     <message>
         <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
-        <translation>Advertencia: -paytxfee esta muy alta! Esta es la comisión de transacción que pagarás si envías una transacción.</translation>
+        <translation>Varning: -maxtxfee är sätt väldigt högt! Detta är transaktionsavgiften du kommer betala om du skickar en transaktion.</translation>
     </message>
     <message>
         <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong SecurityX Core will not work properly.</source>
-        <translation>Advertencia: Por favor verifique que la fecha y hora de su computadora sean correctas! Si su reloj esta fuera de hora SecurityX Core no funcionará adecuadamente.</translation>
+        <translation>Varning: Var vänlig kontrollera att din dators tid och datum är korrekt! Om din klocka är fel så kommer SecurityX Core inte att fungera korrekt.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
-        <translation>Advertencia: La red parece no estar concordando totalmente! Algunos mineros parecen estar experimentando problemas.</translation>
+        <translation>Varning: Nätverket verkar inte fullständigt hålla med! Några miners verkar uppleva problem.</translation>
     </message>
     <message>
         <source>Warning: We do not appear to fully agree with our peers! You may need to upgrade, or other nodes may need to upgrade.</source>
-        <translation>Advertencia: No estamos apareciendo totalmente en concordancia con nuestros pares! Podrías necesitar una actualización, o otros nodos pueden necesitar una actualización.</translation>
+        <translation>Varning: Vi verkar inte fullständigt hålla med våra peers! Du kan behöva uppgradera, eller andra noder kan behöva uppgraderas.</translation>
     </message>
     <message>
         <source>Warning: error reading wallet.dat! All keys read correctly, but transaction data or address book entries might be missing or incorrect.</source>
-        <translation>Advertencia: error leyendo wallet.dat! Todas las claves leídas correctamente, pero datos de transacción or entradas en el libro de direcciones podrían estar faltando o ser incorrectas.</translation>
+        <translation>Varning: fel intäffade när wallet.dat skulle läsas! Alla nycklar lästes korrekt, men transaktionsdata eller adress bokinmatningar kan fattas eller vara fel.</translation>
     </message>
     <message>
         <source>Warning: wallet.dat corrupt, data salvaged! Original wallet.dat saved as wallet.{timestamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.</source>
-        <translation>Advertencia: wallet.dat esta dañado, datos salvados! El wallet.dat original esta grabado como wallet.{timestamp}.bak en %s; si tu saldo o transacciones son incorrectas deberías restaurar de un backup.</translation>
+        <translation>Varning: wallet.dat korrupt, data bärgat! Original wallet.dat sparad som wallet.{timestamp}.bak i %s; om ditt saldo eller transaktioner är fel borde du återställa från en backup.</translation>
     </message>
     <message>
         <source>Whitelist peers connecting from the given netmask or IP address. Can be specified multiple times.</source>
-        <translation>Pares de la whitelist conectados desde la mascara de red o direcciones IP dada. Puede ser especificado múltiples veces.</translation>
+        <translation>Vitlista peers som ansuter från den angivna nätmasken eller IP adressen. Kan specifieras flera gånger.</translation>
     </message>
     <message>
         <source>Whitelisted peers cannot be DoS banned and their transactions are always relayed, even if they are already in the mempool, useful e.g. for a gateway</source>
-        <translation>Pares de la Whitelist no pueden ser banneados por DoS y sus transacciones son siempre transmitidas, aún si ellas están ya en la mempool, util por ejemplo para un gateway.</translation>
+        <translation>Vitlistade peers kan ej DoS bannas och deras transaktioner är alltid vidarebofordrade, även om dom redan är i mempool, användbart t.ex. för en gateway</translation>
     </message>
     <message>
         <source>You must specify a masternodeprivkey in the configuration. Please see documentation for help.</source>
-        <translation>Debes especificar un masternodeprivkey en la configuración. Por favor mira la documentación por ayuda.</translation>
+        <translation>Du måste specifiera en masternodeprivkey i konfigurationen. Var vänlig se dokumentationen för hjälp.</translation>
     </message>
     <message>
         <source>(51472 could be used only on mainnet)</source>
-        <translation>(51472 puede ser utilizado solo en mainnet)</translation>
+        <translation>(51472 kunde endast användas på mainnet)</translation>
     </message>
     <message>
         <source>(default: %s)</source>
-        <translation>(predeterminado: %s)</translation>
+        <translation>(standard: %s)</translation>
     </message>
     <message>
         <source>(default: 1)</source>
-        <translation>(predeterminado: 1)</translation>
+        <translation>(standard: 1)</translation>
     </message>
     <message>
         <source>(must be 51472 for mainnet)</source>
-        <translation>(debe ser 51472 para un mainnet)</translation>
+        <translation>(måste vara 51472 för mainnet)</translation>
     </message>
     <message>
         <source>Accept command line and JSON-RPC commands</source>
-        <translation>Aceptar linea de mandato y mandatos JSON-RPC</translation>
+        <translation>Acceptera kommandolinje och JSON-RPC kommandon</translation>
     </message>
     <message>
         <source>Accept connections from outside (default: 1 if no -proxy or -connect)</source>
-        <translation>Aceptar conexiones desde afuera (predeterminado: 1 sin opción -proxy o -connect)</translation>
+        <translation>Acceptera anslutningar utifrån (standard: 1 om ingen -proxy eller -connect)</translation>
     </message>
     <message>
         <source>Accept public REST requests (default: %u)</source>
-        <translation>Aceptar peticiones públicas REST (predeterminado: %u)</translation>
+        <translation>Acceptera offentlig REST förfrågningar (standard: %u)</translation>
     </message>
     <message>
         <source>Add a node to connect to and attempt to keep the connection open</source>
-        <translation>Agregar un nodo a conectarse y intentar mantener abierta la conexión</translation>
+        <translation>Lägg till en nod för att ansluta till och försöka att hålla anslutningen öppen</translation>
     </message>
     <message>
         <source>Allow DNS lookups for -addnode, -seednode and -connect</source>
-        <translation>Permitir búsquedas DNS para -addnode, -seednode y -connect</translation>
+        <translation>Tillåt DNS lookups för -addnode, -seednode och -connect</translation>
     </message>
     <message>
         <source>Already have that input.</source>
-        <translation>Ya tiene esa entrada.</translation>
+        <translation>Har redan den inmatningen.</translation>
     </message>
     <message>
         <source>Always query for peer addresses via DNS lookup (default: %u)</source>
-        <translation>Siempre consultar por direcciones de pares vía búsqueda DNS (predeterminado: %u)</translation>
+        <translation>Fråga alltid efter peer adresser via DNS lookup (standard: %u)</translation>
     </message>
     <message>
         <source>Attempt to recover private keys from a corrupt wallet.dat</source>
-        <translation>Intentar recuperar claves privadas desde un wallet.dat dañado</translation>
+        <translation>Försök återfå privata nycklar från en korrupt wallet.dat</translation>
     </message>
     <message>
         <source>Automatically create Tor hidden service (default: %d)</source>
-        <translation>Crear automáticamente servicio Tor oculto (por defecto: %d)</translation>
+        <translation>Skapa automatiskt Tor hidden service (standard: %d)</translation>
     </message>
     <message>
         <source>Block creation options:</source>
-        <translation>Opciones de creación de bloque:</translation>
+        <translation>Block skapande alternative:</translation>
     </message>
     <message>
         <source>Calculating missing accumulators...</source>
-        <translation>Calculando acumuladores pendientes...</translation>
+        <translation>Beräknar fattandes ackumulatorer...</translation>
     </message>
     <message>
         <source>Can't denominate: no compatible inputs left.</source>
-        <translation>No se puede denominar: quedaron entradas no compatibles.</translation>
+        <translation>Kan ej kalla: inga kompatibla inmatningar kvar.</translation>
     </message>
     <message>
         <source>Can't find random Masternode.</source>
-        <translation>No se puede encontrar un Masternode al azar.</translation>
+        <translation>Kan ej hitta slumpmässig Huvudnod.</translation>
     </message>
     <message>
         <source>Can't mix while sync in progress.</source>
-        <translation>No se puede mezclar mientras la sincronización esta en progreso.</translation>
+        <translation>Kan ej blanda när synkronisering håller på.</translation>
     </message>
     <message>
         <source>Cannot downgrade wallet</source>
-        <translation>No se puede volver a una versión anterior del monedero</translation>
+        <translation>Kan ej nergradera plånbok</translation>
     </message>
     <message>
         <source>Cannot resolve -bind address: '%s'</source>
-        <translation>No se puede resolver la dirección -bind: '%s'</translation>
+        <translation>Kan ej lösa -bind adress: '%s'</translation>
     </message>
     <message>
         <source>Cannot resolve -externalip address: '%s'</source>
-        <translation>No se puede resolver la dirección -externalip: '%s'</translation>
+        <translation>Kan ej lösa -externalip adress: '%s'</translation>
     </message>
     <message>
         <source>Cannot resolve -whitebind address: '%s'</source>
-        <translation>No se puede resolver la dirección -whitebind: '%s'</translation>
+        <translation>Kan ej lösa -whitebind adress: '%s'</translation>
     </message>
     <message>
         <source>Cannot write default address</source>
-        <translation>No se puede escribir la dirección predeterminada</translation>
+        <translation>Kan ej skriva standard adress</translation>
     </message>
     <message>
         <source>Collateral not valid.</source>
-        <translation>Colateral no válido.</translation>
+        <translation>Kollateral ej giltig.</translation>
     </message>
     <message>
         <source>Connect only to the specified node(s)</source>
-        <translation>Conectar solo a el/los nodo(s) especificados</translation>
+        <translation>Anslut endast till de specifierade nod(erna)</translation>
     </message>
     <message>
         <source>Connect through SOCKS5 proxy</source>
-        <translation>Conectar a través de proxy SOCKS5</translation>
+        <translation>Anslut genom SOCKS5 proxy</translation>
     </message>
     <message>
         <source>Connect to a node to retrieve peer addresses, and disconnect</source>
-        <translation>Conectar a un nodo para obtener direcciones de pares, y desconectar</translation>
+        <translation>Anslut till en not för att hämta upp peer adresser, och koppla ifrån</translation>
     </message>
     <message>
         <source>Connection options:</source>
-        <translation>Opciones de conexión:</translation>
+        <translation>Anslutningsalternativ:</translation>
     </message>
     <message>
         <source>Copyright (C) 2009-%i The Bitcoin Core Developers</source>
@@ -5271,1095 +5187,1095 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
     </message>
     <message>
         <source>Corrupted block database detected</source>
-        <translation>Se detectó base de datos de bloques dañado</translation>
+        <translation>Korrupterad blockdatabas upptäckt</translation>
     </message>
     <message>
         <source>Could not parse masternode.conf</source>
-        <translation>No se pudo analizar el contenido de masternode.conf </translation>
+        <translation>Kunde ej tolka masternode.conf</translation>
     </message>
     <message>
         <source>Debugging/Testing options:</source>
-        <translation>Opciones de Depuración/Pruebas:</translation>
+        <translation>Felsökning/Test alternativ:</translation>
     </message>
     <message>
         <source>Delete blockchain folders and resync from scratch</source>
-        <translation>Eliminar directorios de Blockchain y resincronizar desde el principio</translation>
+        <translation>Radera blockchainmappar och synka om från början</translation>
     </message>
     <message>
         <source>Disable OS notifications for incoming transactions (default: %u)</source>
-        <translation>Desactivar notificaciones del sistema para transacciones extrantes (por defecto: %u)</translation>
+        <translation>Inaktivera OS notifikationer för inkommande transaktioner (standard: %u)</translation>
     </message>
     <message>
         <source>Disable safemode, override a real safe mode event (default: %u)</source>
-        <translation>Desactiva modo seguro, invalida un evento modo seguro real (predeterminado: %u)</translation>
+        <translation>Avaktivera säkert läge, köröver en riktig säkert läge händelse (standard: %u)</translation>
     </message>
     <message>
         <source>Discover own IP address (default: 1 when listening and no -externalip)</source>
-        <translation>Descubrir direcciones IP propia (predeterminado: 1 cuando se esta a la escucha y sin opción -externalip)</translation>
+        <translation>Upptäck egen IP adress (standard: 1 när lyssnar och ingen -externalip)</translation>
     </message>
     <message>
         <source>Do not load the wallet and disable wallet RPC calls</source>
-        <translation>No cargar la monedero y desactivar las llamadas RPC del monedero</translation>
+        <translation>Ladda inte plånboken och avaktivera plånbok RPC kallning</translation>
     </message>
     <message>
         <source>Do you want to rebuild the block database now?</source>
-        <translation>¿Quieres reconstruir la base de datos de bloques ahora?</translation>
+        <translation>Vill du bygga om block databasen nu?</translation>
     </message>
     <message>
         <source>Done loading</source>
-        <translation>Realizando carga</translation>
+        <translation>Färdigladdat</translation>
     </message>
     <message>
         <source>Enable automatic Zerocoin minting (0-1, default: %u)</source>
-        <translation>Habilitar creación automática de Zerocoin (0-1, por defecto: %u)</translation>
+        <translation>Aktivera automatisk Zerocoin minting (0-1, standard: %u)</translation>
     </message>
     <message>
         <source>Enable publish hash transaction (locked via SwiftX) in &lt;address&gt;</source>
-        <translation>Activar inclusión del hash de la transacción (fijada mediante SwiftTX) en &lt;address&gt;</translation>
+        <translation>Aktivera publicera hash transaktion (låst via SwiftX) i &lt;address&gt;</translation>
     </message>
     <message>
         <source>Enable publish raw transaction (locked via SwiftX) in &lt;address&gt;</source>
-        <translation>Activar inclusión de la transacción en bruto (fijada mediante SwiftTX) en &lt;address&gt;</translation>
+        <translation>Aktivera publicera rå transaktion (låst via SwiftX) i &lt;address&gt;</translation>
     </message>
     <message>
         <source>Enable the client to act as a masternode (0-1, default: %u)</source>
-        <translation>Habilitar al cliente para actuar como un nodo maestro (0-1. predeterminado: %u)</translation>
+        <translation>Tillåt klinten att bete sig som en huvudnod (0-1, standard: %u)</translation>
     </message>
     <message>
         <source>Entries are full.</source>
-        <translation>Las entradas están llenas.</translation>
+        <translation>Poster är fulla.</translation>
     </message>
     <message>
         <source>Error connecting to Masternode.</source>
-        <translation>Error al conectar al Nodo Maestro</translation>
+        <translation>Fel vid anslutning till Huvudnoder.</translation>
     </message>
     <message>
         <source>Error initializing block database</source>
-        <translation>Error al inicializar base de datos de bloques</translation>
+        <translation>Fel vid initialisering av blockdatabas</translation>
     </message>
     <message>
         <source>Error initializing wallet database environment %s!</source>
-        <translation>Error al inicializar ambiente %s de base de datos del monedero!</translation>
+        <translation>Fel initialisering av plånboksdatabas miljö %s!</translation>
     </message>
     <message>
         <source>Error loading block database</source>
-        <translation>Error al cargar base de datos de bloques</translation>
+        <translation>Fel vid laddning av blockdatabas</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>
-        <translation>Error al cargar wallet.dat</translation>
+        <translation>Fel vid laddning av wallet.dat</translation>
     </message>
     <message>
         <source>Error loading wallet.dat: Wallet corrupted</source>
-        <translation>Error al cargar wallet.dat: Monedero dañado</translation>
+        <translation>Fel vid laddning av wallet.dat: Plånbok korrupterad</translation>
     </message>
     <message>
         <source>Error loading wallet.dat: Wallet requires newer version of SecurityX Core</source>
-        <translation>Error al cargar wallet.dat: El monedero requiere una nueva versión del SecurityX Core</translation>
+        <translation>Fel vid laddning av wallet.dat: Plånbok  kräver nyare SecurityX Kärna version</translation>
     </message>
     <message>
         <source>Error opening block database</source>
-        <translation>Error al abrir la base de datos de bloques</translation>
+        <translation>Fel vid öppning av block databas</translation>
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>
-        <translation>Error al leer desde la base de datos, apagando.</translation>
+        <translation>Fel vid läsning från databas, stänger ner.</translation>
     </message>
     <message>
         <source>Error recovering public key.</source>
-        <translation>Error al recuperar clave pública.</translation>
+        <translation>Fel vid återhämtning av offentlig nyckel.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Error</translation>
+        <translation>Fel</translation>
     </message>
     <message>
         <source>Error: A fatal internal error occured, see debug.log for details</source>
-        <translation>Error: Un error interno fatal a ocurrido, ver debug.log para mas detalles</translation>
+        <translation>Fel: Ett fatalt internt fel inträffade, se debug.log för detaljer</translation>
     </message>
     <message>
         <source>Error: Can't select current denominated inputs</source>
-        <translation>Error: No se pudo seleccionar las entradas denominadas actuales</translation>
+        <translation>Fel: Kan ej välja nuvarande benämnda inmatningar</translation>
     </message>
     <message>
         <source>Error: Disk space is low!</source>
-        <translation>Error: El espacio en disco esta bajo!</translation>
+        <translation>Fel: Diskutrymme lågt!</translation>
     </message>
     <message>
         <source>Error: Unsupported argument -tor found, use -onion.</source>
-        <translation>Error: Se encontró argumento no soportado -tor, utilizar -onion.</translation>
+        <translation>Fel: Argument som ej stöds, -tor, hittat, använd -onion.</translation>
     </message>
     <message>
         <source>Error: Wallet locked, unable to create transaction!</source>
-        <translation>Error: ¡Monedero bloqueado, imposible crear transacción!</translation>
+        <translation>Fel: Plånbok låst, kan ej genomföra transaktion!</translation>
     </message>
     <message>
         <source>Error: You already have pending entries in the Obfuscation pool</source>
-        <translation>Error: Ya tienes entradas pendientes en el pool de Ofuscación</translation>
+        <translation>Fel: Du har redan avvaktande poster i Fördunklingspoolen</translation>
     </message>
     <message>
         <source>Failed to calculate accumulator checkpoint</source>
-        <translation>Error al calcular el punto de control del acumulador</translation>
+        <translation>Misslyckades att beräkna ackumulator kontrollstation</translation>
     </message>
     <message>
         <source>Failed to listen on any port. Use -listen=0 if you want this.</source>
-        <translation>Falló la escucha en cualquiera de los puertos. Usar -listen=0 si quieres esto.</translation>
+        <translation>Misslyckades att lyssna på någon port. Använd -listen=0 om du vill detta.</translation>
     </message>
     <message>
         <source>Failed to read block</source>
-        <translation>Falló al leer el bloque</translation>
+        <translation>Misslyckades läsa block</translation>
     </message>
     <message>
         <source>Fee (in SECX/kB) to add to transactions you send (default: %s)</source>
-        <translation>Comisión (en SECX/kB) para agregar a la transacción que envías (predeterminado: %s)</translation>
+        <translation>Avgift (i SECX/kB) för att lägga till transaktioner you skicka (standard: %s)</translation>
     </message>
     <message>
         <source>Finalizing transaction.</source>
-        <translation>Finalizando transacción.</translation>
+        <translation>Slutgiltiggör transaktion.</translation>
     </message>
     <message>
         <source>Force safe mode (default: %u)</source>
-        <translation>Forzar modo seguro (predeterminado: %u)</translation>
+        <translation>Tvinga säkert läga (standard: %u)</translation>
     </message>
     <message>
         <source>Found enough users, signing ( waiting %s )</source>
-        <translation>Se han encontrado suficientes usuarios, firmando ( esperando %s )</translation>
+        <translation>Hittat tillräckligt många användare, signerar (väntar %s)</translation>
     </message>
     <message>
         <source>Found enough users, signing ...</source>
-        <translation>Se han encontrado suficientes usuarios, firmando ...</translation>
+        <translation>Hittade tillräckligt många användare, signerar ...</translation>
     </message>
     <message>
         <source>Generate coins (default: %u)</source>
-        <translation>Generando monedas: (predeterminado: %u)</translation>
+        <translation>Generera mynt (standard: %u)</translation>
     </message>
     <message>
         <source>How many blocks to check at startup (default: %u, 0 = all)</source>
-        <translation>Cuantos bloques a probar al iniciar (predeterminado: %u, 0 = todos)</translation>
+        <translation>Hur  många block som kollas vid start (standard: %u, 0 = alla)</translation>
     </message>
     <message>
         <source>If &lt;category&gt; is not supplied, output all debugging information.</source>
-        <translation>Si &lt;category&gt; no es proveído, dar salida a toda la información de depuración.</translation>
+        <translation>Om &lt;category&gt; inte ges, mata ut all felsökningsinformation.</translation>
     </message>
     <message>
         <source>Importing...</source>
-        <translation>Importando...</translation>
+        <translation>Importerar...</translation>
     </message>
     <message>
         <source>Imports blocks from external blk000??.dat file</source>
-        <translation>Importar bloques desde archivo externo blk000??.dat</translation>
+        <translation>Importera block från externt blk000??.dat fil</translation>
     </message>
     <message>
         <source>Include IP addresses in debug output (default: %u)</source>
-        <translation>Incluir direcciones IP en salida de depuración (predeterminado: %u)</translation>
+        <translation>Inkludera IP adress i felsökningens utmatning (standard: %u)</translation>
     </message>
     <message>
         <source>Incompatible mode.</source>
-        <translation>Modo incompatible.</translation>
+        <translation>Okompatibel sätt.</translation>
     </message>
     <message>
         <source>Incompatible version.</source>
-        <translation>Versión imcompatible.</translation>
+        <translation>Okompatibel version.</translation>
     </message>
     <message>
         <source>Incorrect or no genesis block found. Wrong datadir for network?</source>
-        <translation>Bloque de génesis incorrecto o no encontrado. datadir equivocado para red?</translation>
+        <translation>Ogiltig eller ingen tillblivelse block hittat. Fel datadir för nätverk?</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation>Información</translation>
+        <translation>Information</translation>
     </message>
     <message>
         <source>Initialization sanity check failed. SecurityX Core is shutting down.</source>
-        <translation>La prueba de salud de inicialización ha fallado. SecurityX Core se cerrará.</translation>
+        <translation>Initierings renlighetscheck misslyckades. SecurityX Kärna stängs ner.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
-        <translation>La entrada no es válida.</translation>
+        <translation>inmatning är inte giltig.</translation>
     </message>
     <message>
         <source>Insufficient funds</source>
-        <translation>Fondos insuficientes</translation>
+        <translation>Otillräckliga pengar</translation>
     </message>
     <message>
         <source>Insufficient funds.</source>
-        <translation>Fondos insuficientes.</translation>
+        <translation>Otillräckliga pengar.</translation>
     </message>
     <message>
         <source>Invalid -onion address or hostname: '%s'</source>
-        <translation>Dirección o nombre de equipo -onion inválido: '%s'</translation>
+        <translation>Ogiltig -onion adress eller värdnamn: '%s'</translation>
     </message>
     <message>
         <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</source>
-        <translation>Importe inválido para -maxtxfee=&lt;amount&gt;: '%s'</translation>
+        <translation>Ogiltig mängd -maxtxfee=&lt;amount&gt;: '%s'</translation>
     </message>
     <message>
         <source>Invalid amount for -minrelaytxfee=&lt;amount&gt;: '%s'</source>
-        <translation>Importe inválido para -minrelaytxfee=&lt;amount&gt;: '%s'</translation>
+        <translation>Ogiltig mängd -minrelaytxfee=&lt;amount&gt;: '%s'</translation>
     </message>
     <message>
         <source>Invalid amount for -mintxfee=&lt;amount&gt;: '%s'</source>
-        <translation>Importe inválido para -mintxfee=&lt;amount&gt;: '%s'</translation>
+        <translation>Ogiltig mäng -mintxfee=&lt;amount&gt;: '%s'</translation>
     </message>
     <message>
         <source>Invalid amount for -paytxfee=&lt;amount&gt;: '%s' (must be at least %s)</source>
-        <translation>Importe inválido para -paytxfee=&lt;amount&gt;: '%s' (debe ser al menos %s)</translation>
+        <translation>Ogiltig mäng -paytxfee=&lt;amount&gt;: '%s' (måste vara minst %s)</translation>
     </message>
     <message>
         <source>Invalid amount for -paytxfee=&lt;amount&gt;: '%s'</source>
-        <translation>Importe inválido para -paytxfee=&lt;amount&gt;: '%s'</translation>
+        <translation>Ogiltig mäng -paytxfee=&lt;amount&gt;: '%s'</translation>
     </message>
     <message>
         <source>Invalid amount for -reservebalance=&lt;amount&gt;</source>
-        <translation>Importe inválido para -reservebalance=&lt;amount&gt;</translation>
+        <translation>Ogiltig mäng -reservebalance=&lt;amount&gt;</translation>
     </message>
     <message>
         <source>Invalid amount</source>
-        <translation>Cantidad incorrecta</translation>
+        <translation>Ogiltig mängd</translation>
     </message>
     <message>
         <source>Invalid masternodeprivkey. Please see documenation.</source>
-        <translation>Valor de masternodeprivkey es inválido. Por favor ver la documentación.</translation>
+        <translation>ogiltig masternodeprivkey. Var vänlig se dokumentation.</translation>
     </message>
     <message>
         <source>Invalid netmask specified in -whitelist: '%s'</source>
-        <translation>Máscara de red inválida especificada en -whitelist: '%s'</translation>
+        <translation>Ogiltig nätmask spefifierad i -whitelist: '%s'</translation>
     </message>
     <message>
         <source>Invalid port detected in masternode.conf</source>
-        <translation>Puerto inválido ha sido detectado en masternode.conf</translation>
+        <translation>Ogiltig port upptäckt i masternode.conf</translation>
     </message>
     <message>
         <source>Invalid private key.</source>
-        <translation>Clave pública inválida.</translation>
+        <translation>Fel privat nyckel.</translation>
     </message>
     <message>
         <source>Invalid script detected.</source>
-        <translation>Script inválido detectado.</translation>
+        <translation>Ogiltigt script upptäckt.</translation>
     </message>
     <message>
         <source>Percentage of automatically minted Zerocoin  (1-100, default: %u)</source>
-        <translation>Porcentaje de Zerocoin creadas automáticamente (10-100, por defecto: %u)</translation>
+        <translation>Procent automatiskt mintad Zerocoin (1-100, default: %u)</translation>
     </message>
     <message>
         <source>Reindex the SECX and zSECX money supply statistics</source>
-        <translation>Reindexar as estatísticas de fornecimento de dinheiro SECX e zSECX</translation>
+        <translation>Indexera SECX och zSECX pengarna tillgång statistik på nytt</translation>
     </message>
     <message>
         <source>Reindexing zerocoin database...</source>
-        <translation>Reindexando la base de datos zerocoin...</translation>
+        <translation>Indexera zerocoin databas på nytt...</translation>
     </message>
     <message>
         <source>Reindexing zerocoin failed</source>
-        <translation>La reindexación zerocoin ha fallado</translation>
+        <translation>Indexera zerocoin på nytt misslyckades</translation>
     </message>
     <message>
         <source>Selected coins value is less than payment target</source>
-        <translation>El valor de las monedas seleccionadas es menor que el monto a pagar</translation>
+        <translation>Valda mynts värde är under betalningsmål</translation>
     </message>
     <message>
         <source>SwiftX options:</source>
-        <translation>Opciones SwiftX:</translation>
+        <translation>SwiftX alternativ:</translation>
     </message>
     <message>
         <source>This is a pre-release test build - use at your own risk - do not use for staking or merchant applications!</source>
-        <translation>Esto es una versión pre-release de prueba - use bajo su propia responsabilidad - ¡No lo utilice para recompensa de participación ni aplicaciones de comercio!</translation>
+        <translation>Det här är en för-släppt test byggnad - använd på din egna risk - använd inte för staking eller handel applikationer!</translation>
     </message>
     <message>
         <source> mints deleted
 </source>
-        <translation>creaciones de moneda borradas
+        <translation>mints raderade
 </translation>
     </message>
     <message>
         <source> mints updated, </source>
-        <translation>creaciones de moneda actualizadas,</translation>
+        <translation>mints updaterade,</translation>
     </message>
     <message>
         <source> unconfirmed transactions removed
 </source>
-        <translation>transacciones sin confirmar eliminadas
+        <translation>obekräftade transaktioner borttagna
 </translation>
     </message>
     <message>
         <source>Disable all SecurityX specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
-        <translation>Desabilitar toda la funcionalidad especifica SecurityX (Masternodes, Obfuscation, SwiftTX, Budgeting) (0-1, predeterminado: %u)</translation>
+        <translation>Avaktivera all SecurityX funktionalitet (Huvudnoder, Zerocoin, SwiftX, Budgeting) (0-1, standard: %u)</translation>
     </message>
     <message>
         <source>Enable SwiftX, show confirmations for locked transactions (bool, default: %s)</source>
-        <translation>Activar swifttx, mostrar confirmaciones para transacciones bloqueadas (bool, predeterminado: %s)</translation>
+        <translation>Tillåt SwiftX, visa bekräftelser för låsta transaktioner (bool, default: %s)</translation>
     </message>
     <message>
         <source>Error: The transaction was rejected! This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>¡La transacción fue rechazada! Esto puede ocurrir si alguna de sus monedas ya se gastó con anterioridad, por ejemplo, si estuvo usted usando una copia de su monedero wallet.dat y gastó allí monedas pero no las marcó como gastadas aquí.</translation>
+        <translation>Fel: Transaktionen nekades! Detta kan hända om några mynt i din plånbok redan har spenderats, möjligen att du använt en kopia av wallet.dat och spenderade mynt från kopian men de inte blivit markerade som spenderade här.</translation>
     </message>
     <message>
         <source>Error: This transaction requires a transaction fee of at least %s because of its amount, complexity, or use of recently received funds!</source>
-        <translation>Error: ¡Esta transacción requiere una tasa de al menos %s debido a la cantidad enviada, su complejidad, o el uso de fondos recibidos recientemente!</translation>
+        <translation>Fel: Denna transaktion kräver enatransaktionsavgift på minst %s på grund av dess mängd, komplexitet, eller användning av nyligen mottagna pengar!</translation>
     </message>
     <message>
         <source>Error: Unsupported argument -checklevel found. Checklevel must be level 4.</source>
-        <translation>Error: Se ha especificado un argumento no soportado -checklevel. El Checklevel debe ser siempre 4. </translation>
+        <translation>Fel: Argument som ej stöds hittat, -checklevel. Checklevel måste vara 4.</translation>
     </message>
     <message>
         <source>Execute command when the best block changes and its size is over (%s in cmd is replaced by block hash, %d with the block size)</source>
-        <translation>Ejecute el comando cuando el mejor bloque cambie y su tamaño haya terminado (%s en cmd se reemplaza por el hash del bloque, %d con el tamaño de bloque)</translation>
+        <translation>Exekvera kommando när den bästa block ändras och dess storlek är över (%s i cmd är utbytt mot block hash, %d med blockstorleken)</translation>
     </message>
     <message>
         <source>Failed to find coin set amongst held coins with less than maxNumber of Spends</source>
-        <translation>No se puede encontrar el conjunto de monedas necesarias entre las monedas disponibles con menos de maxNumber para poder gastarlas</translation>
+        <translation>Misslyckades hitta mynt set bland hållandes mynt med mindre än maxNumber av Spenderingar</translation>
     </message>
     <message>
         <source>In rare cases, a spend with 7 coins exceeds our maximum allowable transaction size, please retry spend using 6 or less coins</source>
-        <translation>En casos excepcionales, un envío con más de 7 monedas excede el tamaño máximo de transacción permitidas, intente gastar 6 monedas o menos.</translation>
+        <translation>I sällsynta fall, en spendering med 7 mynt överstiger våran maximala tillåtna transaktionsstorlek, var vänlig försök spendera 6 elr färre mynt</translation>
     </message>
     <message>
         <source>Preferred Denomination for automatically minted Zerocoin  (1/5/10/50/100/500/1000/5000), 0 for no preference. default: %u)</source>
-        <translation>Denominación preferida para acuñado automatico de Zerocoin (1/5/10/50/100/500/1000/5000), 0 para ninguna preferencia. predeterminado: %u)</translation>
+        <translation>Valör aatt föredra för automatiskt mintad Zerocoin (1/5/10/50/100/500/1000/5000), 0 för ingen preface. standard: %u)</translation>
     </message>
     <message>
         <source>Specify custom backup path to add a copy of any automatic zSECX backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</source>
-        <translation>Especifique la ruta de copia de seguridad personalizada para agregar una copia de cualquier copia de seguridad zSECX automática. Si se establece como directorio, cada copia de seguridad genera un archivo con marcas de tiempo. Si se establece como archivo, se reescribirá en ese archivo cada copia de seguridad. Si también se establece backuppath, se realizarán 4 copias de seguridad</translation>
+        <translation>Specifiera skräddarsydd backup väg att lägga till en kopia av alla automatisk zSECX backup. Om satt som dir, varje backup genererar en tidsstämplad fil. Om satt som fil, skriver över den filen vid varje backup. Om backupvägen också är satt, 4 backups kommer hända</translation>
     </message>
     <message>
         <source>Specify custom backup path to add a copy of any wallet backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup.</source>
-        <translation>Especifique una ruta de copia de seguridad personalizada para agregar una copia de cualquier copia de seguridad de monedero. Si se establece como directorio, cada copia de seguridad genera un archivo con marcas de tiempo. Si se establece como archivo, se reescribirá en ese archivo cada copia de seguridad generada.</translation>
+        <translation>Specifiera skräddarsydd backup väg att lägga till en kopia av vilken plånbok backup som helst. Om satt som dir, varje backup genererar en tidsstämplad fil. Om satt som fil, skriver över den filen vid varje backup.</translation>
     </message>
     <message>
         <source>SwiftX requires inputs with at least 6 confirmations, you might need to wait a few minutes and try again.</source>
-        <translation>SwiftX requiere entradas con al menos 6 confirmaciones, es posible que deba esperar unos minutos e intente de nuevo.</translation>
+        <translation>SwiftX kräver inmatningar med minst 6 bekräftelser, du kan behöva vänta några minuter och försöka igen.</translation>
     </message>
     <message>
         <source>&lt;category&gt; can be:</source>
-        <translation>&lt;category&gt;puede ser: </translation>
+        <translation>&lt;category&gt; kan vara:</translation>
     </message>
     <message>
         <source>Attempt to force blockchain corruption recovery</source>
-        <translation>Intentar forzar la recuperación de la cadena de bloques corrupta</translation>
+        <translation>Försök tvinga återhämtning av korrupt blockchain</translation>
     </message>
     <message>
         <source>CoinSpend: Accumulator witness does not verify</source>
-        <translation>CoinSpend: El testigo del acumulador no verifica</translation>
+        <translation>CoinSend: Ackumulator vittnesmål verifierar inte</translation>
     </message>
     <message>
         <source>Display the stake modifier calculations in the debug.log file.</source>
-        <translation>Incluir los cálculos de recompensa por participación en el fichero debug.log.</translation>
+        <translation>Visar stake modifierar beräkningar i debug.log fil.</translation>
     </message>
     <message>
         <source>Display verbose coin stake messages in the debug.log file.</source>
-        <translation>Incluir mensajes explícitos de recompensa por participación en el fichero debug.log.</translation>
+        <translation>Visa omständig mynt stake meddelande i debug.log filen.</translation>
     </message>
     <message>
         <source>Enable publish hash block in &lt;address&gt;</source>
-        <translation>Activar inclusión del hash del bloque en &lt;address&gt;</translation>
+        <translation>Aktivera publicera hash block i &lt;address&gt;</translation>
     </message>
     <message>
         <source>Enable publish hash transaction in &lt;address&gt;</source>
-        <translation>Activar inclusión del hash de la transacción en &lt;address&gt;</translation>
+        <translation>Aktivera publicera hash transaktion i &lt;address&gt;</translation>
     </message>
     <message>
         <source>Enable publish raw block in &lt;address&gt;</source>
-        <translation>Activar inclusión del bloque en bruto en &lt;address&gt;</translation>
+        <translation>Aktivera publicera rå block i &lt;address&gt;</translation>
     </message>
     <message>
         <source>Enable publish raw transaction in &lt;address&gt;</source>
-        <translation>Activar inclusión de la transacción en bruto en &lt;address&gt;</translation>
+        <translation>Aktivera publicera rå transaktion i &lt;address&gt;</translation>
     </message>
     <message>
         <source>Enable staking functionality (0-1, default: %u)</source>
-        <translation>Activar funcionalidad de recompensa por participación (0-1, por defecto: %u)</translation>
+        <translation>Aktivera staking funktionalitet (0-1, standard: %u)</translation>
     </message>
     <message>
         <source>Error: A fatal internal error occurred, see debug.log for details</source>
-        <translation>Error: Un error interno fatal a ocurrido, ver debug.log para mas detalles</translation>
+        <translation>Fel: Ett fatalt internt fel hände, se debug.log för detaljer</translation>
     </message>
     <message>
         <source>Error: No valid utxo!</source>
-        <translation>Error: ¡utxo no válido!</translation>
+        <translation>Fel: Ingen giltig utxo!</translation>
     </message>
     <message>
         <source>Failed to create mint</source>
-        <translation>Error al acuñar</translation>
+        <translation>Misslyckades skapa mint</translation>
     </message>
     <message>
         <source>Failed to deserialize</source>
-        <translation>Error al deserializar</translation>
+        <translation>Misslyckades att deserialize</translation>
     </message>
     <message>
         <source>Failed to find Zerocoins in wallet.dat</source>
-        <translation>Error al encontrar Zerocoins en wallet.dat</translation>
+        <translation>Misslyckades hitta Zerocoins i wallet.dat</translation>
     </message>
     <message>
         <source>Failed to select a zerocoin</source>
-        <translation>Error al seleccionar una zerocoin</translation>
+        <translation>Misslyckades välja en zerocoin</translation>
     </message>
     <message>
         <source>Failed to wipe zerocoinDB</source>
-        <translation>Error al borrar zerocoinDB</translation>
+        <translation>Misslyckades torka zerocoinDB</translation>
     </message>
     <message>
         <source>Failed to write coin serial number into wallet</source>
-        <translation>Error al escribir el número de serie de la moneda en el monedero</translation>
+        <translation>Misslyckades skriva mynt serienummer i plånbok</translation>
     </message>
     <message>
         <source>Keep at most &lt;n&gt; unconnectable transactions in memory (default: %u)</source>
-        <translation>Mantener como máximo &lt;n&gt; transacciones no conectables en memoria (predeterminado: %u)</translation>
+        <translation>Behåll som mest &lt;n&gt; oanslutningsbara transaktioner i minne (standard: %u)</translation>
     </message>
     <message>
         <source>Last Obfuscation was too recent.</source>
-        <translation>La última Ofuscación fue demasiado reciente.</translation>
+        <translation>Senaste obfuscation var för ny.</translation>
     </message>
     <message>
         <source>Last successful Obfuscation action was too recent.</source>
-        <translation>La última acción de Ofuscación exitosa fue demasiado reciente.</translation>
+        <translation>Den senaste framgångsrika Obfuscation-åtgärden var för ny.</translation>
     </message>
     <message>
         <source>Limit size of signature cache to &lt;n&gt; entries (default: %u)</source>
-        <translation>Tamaño límite del cache de firmas a &lt;n&gt; entradas (predeterminado: %u)</translation>
+        <translation>Begränsa storlek av signatur cache till &lt;n&gt; poster (standard: %u)</translation>
     </message>
     <message>
         <source>Line: %d</source>
-        <translation>Linea: %d</translation>
+        <translation>Linje: %d</translation>
     </message>
     <message>
         <source>Listen for JSON-RPC connections on &lt;port&gt; (default: %u or testnet: %u)</source>
-        <translation>Escuchar por conexiones JSON-RPC en &lt;port&gt; (predeterminado: %u o testnet: %u)</translation>
+        <translation>Lystna efter JSON-RPC anslutningar på &lt;port&gt; (standard: %u eller testnet: %u)</translation>
     </message>
     <message>
         <source>Listen for connections on &lt;port&gt; (default: %u or testnet: %u)</source>
-        <translation>Escuchar por conexiones en &lt;port&gt; (predeterminado: %u o testnet: %u)</translation>
+        <translation>Lystna efter anslutningar på &lt;port&gt;(default: %u or testnet: %u) </translation>
     </message>
     <message>
         <source>Loading addresses...</source>
-        <translation>Cargando direcciones...</translation>
+        <translation>Laddar adresser...</translation>
     </message>
     <message>
         <source>Loading block index...</source>
-        <translation>Cargando índice de bloque...</translation>
+        <translation>Laddar block index...</translation>
     </message>
     <message>
         <source>Loading budget cache...</source>
-        <translation>Cargando cache de presupuestos...</translation>
+        <translation> budget cache...</translation>
     </message>
     <message>
         <source>Loading masternode cache...</source>
-        <translation>Cargando cache de nodos maestros...</translation>
+        <translation>Laddar huvudnod cache...</translation>
     </message>
     <message>
         <source>Loading masternode payment cache...</source>
-        <translation>Cargando cache de pagos de nodos maestros</translation>
+        <translation>Laddar huvudnod betalnings cache...</translation>
     </message>
     <message>
         <source>Loading sporks...</source>
-        <translation>Cargando sporks...</translation>
+        <translation>Laddar sporks...</translation>
     </message>
     <message>
         <source>Loading wallet... (%3.2f %%)</source>
-        <translation>Cargando monedero: (%3.2f %%)</translation>
+        <translation>Laddar plånbok... (%3.2f%%)</translation>
     </message>
     <message>
         <source>Loading wallet...</source>
-        <translation>Cargando monedero...</translation>
+        <translation>Laddar plånbok...</translation>
     </message>
     <message>
         <source>Location of the auth cookie (default: data dir)</source>
-        <translation>Ubicación de la cookie de autenticación (predeterminado: data dir)</translation>
+        <translation>Lokation av auth cookie (standard: data dir)</translation>
     </message>
     <message>
         <source>Lock is already in place.</source>
-        <translation>Bloqueo esta en su lugar.</translation>
+        <translation>Lås är redan på plats.</translation>
     </message>
     <message>
         <source>Lock masternodes from masternode configuration file (default: %u)</source>
-        <translation>Bloquear nodos maestros desde el archivo de configuración de nodo maestro (predeterminado: %u)</translation>
+        <translation>Lås huvudnoder från huvudnod konfigurations fil (standard: %u)</translation>
     </message>
     <message>
         <source>Lookup(): Invalid -proxy address or hostname: '%s'</source>
-        <translation>Lookup(): Inválido -dirección proxy o nombre de host '%s'</translation>
+        <translation>Lookup(): Ogiltig -proxy adress eller värdnamn: '%s'</translation>
     </message>
     <message>
         <source>Maintain at most &lt;n&gt; connections to peers (default: %u)</source>
-        <translation>Mantener como máximo &lt;n&gt; conexiones a pares (predeterminado: %u)</translation>
+        <translation>Behåll som mest &lt;n&gt; anslutningar till peers (standard: %u)</translation>
     </message>
     <message>
         <source>Masternode options:</source>
-        <translation>Opciones de Masternode:</translation>
+        <translation>Masternod val:</translation>
     </message>
     <message>
         <source>Masternode queue is full.</source>
-        <translation>La cola del Masternode esta llena.</translation>
+        <translation>Masternodens kö är full.</translation>
     </message>
     <message>
         <source>Masternode:</source>
-        <translation>Masternode:</translation>
+        <translation>Masternod:</translation>
     </message>
     <message>
         <source>Maximum per-connection receive buffer, &lt;n&gt;*1000 bytes (default: %u)</source>
-        <translation>Buffer de recepción máximo por conexión, &lt;n&gt;*1000 bytes (predeterminado: %u)</translation>
+        <translation>Maximala mottagna per-anslutning buffer, &lt;n&gt;*1000 bytes (standard: %u)</translation>
     </message>
     <message>
         <source>Maximum per-connection send buffer, &lt;n&gt;*1000 bytes (default: %u)</source>
-        <translation>Máximo buffer de envío por conexión, &lt;n&gt;*1000 bytes (predeterminado: %u)</translation>
+        <translation>Maximala skicka per-anslutning buffer, &lt;n&gt;*1000 bytes (standard: %u)</translation>
     </message>
     <message>
         <source>Mint did not make it into blockchain</source>
-        <translation>El Acuñado no se realizó en blockchain</translation>
+        <translation>Mint kom inte med i blockchain</translation>
     </message>
     <message>
         <source>Missing input transaction information.</source>
-        <translation>Información de transacciones de entrada perdidas.</translation>
+        <translation>Inmatad transaktions information fattas.</translation>
     </message>
     <message>
         <source>Mixing in progress...</source>
-        <translation>Mezcla en progreso...</translation>
+        <translation>Blandning pågår...</translation>
     </message>
     <message>
         <source>Need address because change is not exact</source>
-        <translation>Necesita dirección porque el cambio no es exacto</translation>
+        <translation>Adress behövs för att växel ej är exakt</translation>
     </message>
     <message>
         <source>Need to specify a port with -whitebind: '%s'</source>
-        <translation>Necesita especificar un puerto con -whitebind: '%s'</translation>
+        <translation>Port behöver specifieras med -whitebind: '%s'</translation>
     </message>
     <message>
         <source>No Masternodes detected.</source>
-        <translation>No se han detectado Masternodes.</translation>
+        <translation>Inga Huvudnoder upptäckta.</translation>
     </message>
     <message>
         <source>No compatible Masternode found.</source>
-        <translation>No hay un Masternode compatible encontrado.</translation>
+        <translation>Inga kompatibla Huvudnoder hittade.</translation>
     </message>
     <message>
         <source>No funds detected in need of denominating.</source>
-        <translation>No hay fondos detectados necesarios de denominación.</translation>
+        <translation>Inga pengar o behov av benämnelse upptäckta.</translation>
     </message>
     <message>
         <source>No matching denominations found for mixing.</source>
-        <translation>No hemos encontrado billetes coincidentes para mezclado.</translation>
+        <translation>Inga matchande valörer hittade till blandning.</translation>
     </message>
     <message>
         <source>Node relay options:</source>
-        <translation>Opciones de transmisión del nodo:</translation>
+        <translation>Nod relä val:</translation>
     </message>
     <message>
         <source>Non-standard public key detected.</source>
-        <translation>Clave pública no-estandar ha sido detectada.</translation>
+        <translation>Ej-standard offentlig nyckel upptäckt.</translation>
     </message>
     <message>
         <source>Not compatible with existing transactions.</source>
-        <translation>No es compatible con las transacciones salientes.</translation>
+        <translation>Ej kompatibel med existerande transaktioner.</translation>
     </message>
     <message>
         <source>Not enough file descriptors available.</source>
-        <translation>No hay suficientes descriptores de archivo disponibles.</translation>
+        <translation>Ej tillräckliga fil deskriptorer tillgängliga.</translation>
     </message>
     <message>
         <source>Not in the Masternode list.</source>
-        <translation>No en la lista Masternode.</translation>
+        <translation>Inte i Huvudnod listan.</translation>
     </message>
     <message>
         <source>Number of automatic wallet backups (default: 10)</source>
-        <translation>Número de Copias de seguridad automáticas de monedero (predeterminado: 10)</translation>
+        <translation>Antal automatiska plånboks backups (standard: 10)</translation>
     </message>
     <message>
         <source>Number of custom location backups to retain (default: %d)</source>
-        <translation>Número de copias de seguridad personalizadas que se deben retener (predeterminado: %d)</translation>
+        <translation>Antal skräddarsydda platser för backup att behålla (standard: %d)</translation>
     </message>
     <message>
         <source>Obfuscation is idle.</source>
-        <translation>La Ofuscación está sin uso.</translation>
+        <translation>Fördunkling är overksam.</translation>
     </message>
     <message>
         <source>Obfuscation request complete:</source>
-        <translation>Pedido de Ofuscacion completado:</translation>
+        <translation>Fördunkling förfrågan avslutad:</translation>
     </message>
     <message>
         <source>Obfuscation request incomplete:</source>
-        <translation>Pedido de Ofuscación incompleto:</translation>
+        <translation>Fördunkling förfrågan ej avslutad:</translation>
     </message>
     <message>
         <source>Only accept block chain matching built-in checkpoints (default: %u)</source>
-        <translation>Solo aceptar cadena de bloque emparejada con puntos de verificación construidos (predeterminado: %u)</translation>
+        <translation>Acceptera endast block chain som matchar inbyggda kontrollstationer (standard: %u)</translation>
     </message>
     <message>
         <source>Only connect to nodes in network &lt;net&gt; (ipv4, ipv6 or onion)</source>
-        <translation>Solo conectar a nodos en la red &lt;net&gt; (ipv4, ipv6 o onion)</translation>
+        <translation>Anslut endast till noder i nätverk &lt;net&gt; (ipv4, ipv6 eller onion)</translation>
     </message>
     <message>
         <source>Options:</source>
-        <translation>Opciones:</translation>
+        <translation>Val:</translation>
     </message>
     <message>
         <source>Password for JSON-RPC connections</source>
-        <translation>Contraseña para conexiones JSON-RPC</translation>
+        <translation>Lösenord för JSON-RPC anslutningar</translation>
     </message>
     <message>
         <source>isValid(): Invalid -proxy address or hostname: '%s'</source>
-        <translation>isValid(): Inválido -dirección proxy o nombre de host '%s'</translation>
+        <translation>isValid(): Ogiltig -proxy adress eller värdnamn: '%s'</translation>
     </message>
     <message>
         <source>Preparing for resync...</source>
-        <translation>Preparando para resincronizar...</translation>
+        <translation>Förbereder för omsynkronisering...</translation>
     </message>
     <message>
         <source>Prepend debug output with timestamp (default: %u)</source>
-        <translation>Agregar timestamp a la salida de depuración (predeterminado: %u)</translation>
+        <translation>Addera till början felsöknings utmatning med tidsstämpel (standard: %u)</translation>
     </message>
     <message>
         <source>Print version and exit</source>
-        <translation>Mostrar versión y salir</translation>
+        <translation>Skriv ut version och stäng</translation>
     </message>
     <message>
         <source>RPC server options:</source>
-        <translation>Opciones del servidor RPC:</translation>
+        <translation>RPC server alternativ:</translation>
     </message>
     <message>
         <source>Randomly drop 1 of every &lt;n&gt; network messages</source>
-        <translation>Aleatoriamente dejar caer 1 de cada &lt;n&gt; mensajes de red</translation>
+        <translation>Slumpmässig släpp 1 för varje &lt;n&gt; nätverksmeddelanden</translation>
     </message>
     <message>
         <source>Randomly fuzz 1 of every &lt;n&gt; network messages</source>
-        <translation>Aleatoriamente esfumar 1 de cada &lt;n&gt; mensajes de red</translation>
+        <translation>Slumpmässigt brusa 1 för varje &lt;n&gt; nätverksmeddelanden</translation>
     </message>
     <message>
         <source>Rebuild block chain index from current blk000??.dat files</source>
-        <translation>Reconstruir el indice de la cadena de bloque desde el corriente archivo blk000??.dat</translation>
+        <translation>Bygg om block chain index från nuvarande blk000??.dat filer</translation>
     </message>
     <message>
         <source>Receive and display P2P network alerts (default: %u)</source>
-        <translation>Recibir y mostrar alertas de red P2P (predeterminado: %u)</translation>
+        <translation>Motta och visa P2P nätverk varningar (standard: %u)</translation>
     </message>
     <message>
         <source>Reindex the accumulator database</source>
-        <translation>Reindexar la base de datos del acumulador</translation>
+        <translation>Indexera om ackumulator databasen</translation>
     </message>
     <message>
         <source>Relay and mine data carrier transactions (default: %u)</source>
-        <translation>Transmitir y minar datos de transacciones enviadas (predeterminado: %u)</translation>
+        <translation>Lägg om och utvinn data bärar transaktioner (standard: %u)</translation>
     </message>
     <message>
         <source>Relay non-P2SH multisig (default: %u)</source>
-        <translation>Transmitir no-P2SH multisig (predeterminado: %u)</translation>
+        <translation>Lägg om icke-P2SH multisig (standard: %u)</translation>
     </message>
     <message>
         <source>Rescan the block chain for missing wallet transactions</source>
-        <translation>Reescanear la cadena de bloques en busca de transacciones perdidas del monedero</translation>
+        <translation>Skanna om block chain för transaktioner som fattas</translation>
     </message>
     <message>
         <source>Rescanning...</source>
-        <translation>Reescaneado...</translation>
+        <translation>Skannar om...</translation>
     </message>
     <message>
         <source>ResetMintZerocoin finished: </source>
-        <translation>ResetMintZerocoin finalizado:</translation>
+        <translation>ResetMintZerocoin färdig:</translation>
     </message>
     <message>
         <source>ResetSpentZerocoin finished: </source>
-        <translation>ResetSpentZerocoin finalizado:</translation>
+        <translation>ResetSpentZerocoin färdigt:</translation>
     </message>
     <message>
         <source>Run a thread to flush wallet periodically (default: %u)</source>
-        <translation>Ejecutar un hilo de ejecución para nivelar el monedero periódicamente (predeterminado: %u)</translation>
+        <translation>Kör en tråd för att spola plånbok periodvis (standard: %u)</translation>
     </message>
     <message>
         <source>Run in the background as a daemon and accept commands</source>
-        <translation>Ejecutar en segundo plano como demonio y aceptar comandos</translation>
+        <translation>Kör i bakgrunden som en daemon och acceptera kommandon</translation>
     </message>
     <message>
         <source>Send transactions as zero-fee transactions if possible (default: %u)</source>
-        <translation>Enviar transacciones como transacciones cero-comisión si es posible (predeterminado: %u)</translation>
+        <translation>Skicka transaktioner som avgiftsfria transaktioner om möjligt (standard: %u)</translation>
     </message>
     <message>
         <source>Session not complete!</source>
-        <translation>Sesión no completa!</translation>
+        <translation>Sessionen är inte klar</translation>
     </message>
     <message>
         <source>Session timed out.</source>
-        <translation>La sesión expiró.</translation>
+        <translation>Sessionens tidsgräns överskriden</translation>
     </message>
     <message>
         <source>Set database cache size in megabytes (%d to %d, default: %d)</source>
-        <translation>Definir tamaño de cache de base de datos en megabytes (%d a %d, predeterminado: %d)</translation>
+        <translation>Ställ in databas cache storlek i megabytes (%d till %d, standard: %d)</translation>
     </message>
     <message>
         <source>Set external address:port to get to this masternode (example: %s)</source>
-        <translation>Definir dirección:puerto externo para alcanzar este nodo maestro (ejemplo: %s)</translation>
+        <translation>Ställ in externa adress:port för att komma åt denna huvudnod (exempel: %s)</translation>
     </message>
     <message>
         <source>Set key pool size to &lt;n&gt; (default: %u)</source>
-        <translation>Definir el tamaño del pool de llaves a &lt;n&gt; (predeterminado: %u)</translation>
+        <translation>Ställ in nyckel pool storlek till &lt;n&gt; (standard: %u) </translation>
     </message>
     <message>
         <source>Set maximum block size in bytes (default: %d)</source>
-        <translation>Ajustar el tamaño máximo de bloque en bytes (predeterminado: %d)</translation>
+        <translation>Ställ in maximala blockstorlek i bytes (standard: %d) </translation>
     </message>
     <message>
         <source>Set minimum block size in bytes (default: %u)</source>
-        <translation>Ajustar el tamaño mínimo de bloque en bytes (predeterminado: %u)</translation>
+        <translation>Ställ in minimum blockstorlek i bytes (standard: %u) </translation>
     </message>
     <message>
         <source>Set the Maximum reorg depth (default: %u)</source>
-        <translation>Establezca la profundidad máxima de reorganización (valor predeterminado: %u)</translation>
+        <translation>Ställ in maximala reorg djup (standard: %u) </translation>
     </message>
     <message>
         <source>Set the masternode private key</source>
-        <translation>Ajustar la clave privada de masternode</translation>
+        <translation>Ställ in privata huvudnods nyckeln</translation>
     </message>
     <message>
         <source>Set the number of threads to service RPC calls (default: %d)</source>
-        <translation>Definir el número de hilos para llamadas al servicio RPC (predeterminado: %d)</translation>
+        <translation>Ställ in antalet trådar att behandla RPC calls (default: %d)</translation>
     </message>
     <message>
         <source>Sets the DB_PRIVATE flag in the wallet db environment (default: %u)</source>
-        <translation>Definir la bandera DB_PRIVATE en la db de la monedero del ambiente (predeterminado: %u)</translation>
+        <translation>Ställer in DB_PRIVATE flaggan i plånbokens db miljö (standard: %u) </translation>
     </message>
     <message>
         <source>Show all debugging options (usage: --help -help-debug)</source>
-        <translation>Mostrar todas las opciones de depuración (uso: --help-debug)</translation>
+        <translation>Visa alla felsöknings alternativ (användning: --help -help-debug)</translation>
     </message>
     <message>
         <source>Shrink debug.log file on client startup (default: 1 when no -debug)</source>
-        <translation>Encojer el archivo debug.log en el cliente al inicio (predeterminado: 1 cuando no hay -debug)</translation>
+        <translation>Minska debug.log fil vid klient start (standard: 1 när ingen -debug)</translation>
     </message>
     <message>
         <source>Signing failed.</source>
-        <translation>La firma falló.</translation>
+        <translation>Signering misslyckades.</translation>
     </message>
     <message>
         <source>Signing timed out.</source>
-        <translation>Se agotó el tiempo para la firma.</translation>
+        <translation>Signeringens tidsgräns överskriden</translation>
     </message>
     <message>
         <source>Signing transaction failed</source>
-        <translation>La firma de la transacción falló</translation>
+        <translation>Signering av transaktion misslyckades</translation>
     </message>
     <message>
         <source>Specify configuration file (default: %s)</source>
-        <translation>Especifique el archivo de configuración (predeterminado: %s)</translation>
+        <translation>Specifiera konfigurationsfil (standard: %s)</translation>
     </message>
     <message>
         <source>Specify connection timeout in milliseconds (minimum: 1, default: %d)</source>
-        <translation>Especificar el timeout de conexión en mili segundos (mínimo: 1, predeterminado: %d) </translation>
+        <translation>Specifiera anslutnings timeout i millisekunder (minimum: 1, standard: %d)</translation>
     </message>
     <message>
         <source>Specify data directory</source>
-        <translation>Especifique el directorio de datos</translation>
+        <translation>Specificera data katalog</translation>
     </message>
     <message>
         <source>Specify masternode configuration file (default: %s)</source>
-        <translation>Especifique el archivo de configuración masternode (predeterminado: %s)</translation>
+        <translation>Specifiera huvudnod konfigurationsfil (standard: %s)</translation>
     </message>
     <message>
         <source>Specify pid file (default: %s)</source>
-        <translation>Especifique el archivo pid (predeterminado: %s)</translation>
+        <translation>Specifiera pid fil (standard: %s)</translation>
     </message>
     <message>
         <source>Specify wallet file (within data directory)</source>
-        <translation>Especifique el archivo del monedero (dentro del directorio de datos)</translation>
+        <translation>Specifiera plånboksfil (inom data katalog)</translation>
     </message>
     <message>
         <source>Specify your own public address</source>
-        <translation>Especifique su propia dirección pública</translation>
+        <translation>Specifiera din egna offentliga adress</translation>
     </message>
     <message>
         <source>Spend Valid</source>
-        <translation>Gastar Válido</translation>
+        <translation>Spendering Giltig</translation>
     </message>
     <message>
         <source>Spend unconfirmed change when sending transactions (default: %u)</source>
-        <translation>Gastar cambio no confirmado cuando se envían transacciones (predeterminado: %u)</translation>
+        <translation>Spendera obekräftad växel när transaktioner skickas (standard: %u)</translation>
     </message>
     <message>
         <source>Staking options:</source>
-        <translation>Opciones de recompensa por participación:</translation>
+        <translation>Staking alternativ:</translation>
     </message>
     <message>
         <source>Stop running after importing blocks from disk (default: %u)</source>
-        <translation>Parar la ejecución después de importar bloques desde el disco (predeterminado: %u)</translation>
+        <translation>Sluta kör efter block har importerats från disk (standard: %u)</translation>
     </message>
     <message>
         <source>Submitted following entries to masternode: %u / %d</source>
-        <translation>Se enviaron las siguientes entradas a masternode: %u / %d</translation>
+        <translation>Skickade in följande poster till huvudnod: %u / %d</translation>
     </message>
     <message>
         <source>Submitted to masternode, waiting for more entries ( %u / %d ) %s</source>
-        <translation>Enviado a masternode, esperando por mas entradas (%u / %d) %s</translation>
+        <translation>Inskickat till huvudnod, väntar på fler poster ( %u / %d ) %s</translation>
     </message>
     <message>
         <source>Submitted to masternode, waiting in queue %s</source>
-        <translation>Enviado a masternode, quedando en espera %s</translation>
+        <translation>Inskickat till huvudnod, väntar i kö %s</translation>
     </message>
     <message>
         <source>Synchronization failed</source>
-        <translation>Falló la sincronización</translation>
+        <translation>Synchronisering misslyckad</translation>
     </message>
     <message>
         <source>Synchronization finished</source>
-        <translation>Sincronización finalizada!</translation>
+        <translation>Synkronisering klar</translation>
     </message>
     <message>
         <source>Synchronization pending...</source>
-        <translation>Sincronización pendiente...</translation>
+        <translation>Synchronisering väntar</translation>
     </message>
     <message>
         <source>Synchronizing budgets...</source>
-        <translation>Sincronizando presupuestos...</translation>
+        <translation>Synchroniserar budgetar</translation>
     </message>
     <message>
         <source>Synchronizing masternode winners...</source>
-        <translation>Sincronizando ganadores masternode...</translation>
+        <translation>Synkroniserar huvudnod vinnarna...</translation>
     </message>
     <message>
         <source>Synchronizing masternodes...</source>
-        <translation>Sincronizando masternodes...</translation>
+        <translation>Synchroniserar masternoder</translation>
     </message>
     <message>
         <source>Synchronizing sporks...</source>
-        <translation>Sincronizando con la red... </translation>
+        <translation>Synkroniserar sporks...</translation>
     </message>
     <message>
         <source>Syncing zSECX wallet...</source>
-        <translation>Sincronizando el monedero zSECX...</translation>
+        <translation>Synkroniserar zSECX plånbok...</translation>
     </message>
     <message>
         <source>The coin spend has been used</source>
-        <translation>El gasto de moneda se ha usado</translation>
+        <translation>Mynt spenderingen har redan använts</translation>
     </message>
     <message>
         <source>The new spend coin transaction did not verify</source>
-        <translation>La nueva transacción de gasto de moneda no se verificó</translation>
+        <translation>Den nya spendera mynt transaktionen kunde inte verifieras</translation>
     </message>
     <message>
         <source>The selected mint coin is an invalid coin</source>
-        <translation>La moneda acuñada seleccionada es una moneda no válida</translation>
+        <translation>Den valda mint myntet är ett ogiltigt mynt</translation>
     </message>
     <message>
         <source>The transaction did not verify</source>
-        <translation>La transacción no se verificó</translation>
+        <translation>Transaktionen verifierades inte</translation>
     </message>
     <message>
         <source>This help message</source>
-        <translation>Este mensaje de ayuda</translation>
+        <translation>Detta hjälpmedelande</translation>
     </message>
     <message>
         <source>This is experimental software.</source>
-        <translation>Esto es software experimental.</translation>
+        <translation>Detta är experimentiell mjukvara</translation>
     </message>
     <message>
         <source>This is intended for regression testing tools and app development.</source>
-        <translation>Esto esta destinado para herramientas de prueba de regresión y desarrollo de aplicaciones.</translation>
+        <translation>Det här är menat för regression testverktyg och app utveckling.</translation>
     </message>
     <message>
         <source>This is not a Masternode.</source>
-        <translation>Este no es un nodo maestro.</translation>
+        <translation>Dehär är ingen Masternod</translation>
     </message>
     <message>
         <source>Threshold for disconnecting misbehaving peers (default: %u)</source>
-        <translation>Limite para desconexión de peers de mal desempeño (predeterminado: %u)</translation>
+        <translation>Tröskel för att koppla från peers som beteer sig illa (standard: %u)</translation>
     </message>
     <message>
         <source>Too many spends needed</source>
-        <translation>Demasiados gastos necesarios</translation>
+        <translation>För många spenderingar behövda</translation>
     </message>
     <message>
         <source>Tor control port password (default: empty)</source>
-        <translation>Contraseña del puerto de control Tor (por defecto: vacío)</translation>
+        <translation>Tor kontroll port lösenord (standard: tom)</translation>
     </message>
     <message>
         <source>Tor control port to use if onion listening enabled (default: %s)</source>
-        <translation>Puerto de control Tor a utilizar si está activada la escucha Onion (por defecto: %s)</translation>
+        <translation>Tor kontroll port att använda om onion lystning är aktiverad (standard: %s)</translation>
     </message>
     <message>
         <source>Transaction Created</source>
-        <translation>Transacción creada</translation>
+        <translation>Transaktion Skapad</translation>
     </message>
     <message>
         <source>Transaction Mint Started</source>
-        <translation>Cotação de transação iniciada</translation>
+        <translation>Transaktion Mint Startad</translation>
     </message>
     <message>
         <source>Transaction amount too small</source>
-        <translation>El monto de la transacción es demasiado pequeño</translation>
+        <translation>Transaktionens antal för litet</translation>
     </message>
     <message>
         <source>Transaction amounts must be positive</source>
-        <translation>El monto de la transacción debe ser positivo</translation>
+        <translation>Transaktionens värde måste vara possitivt</translation>
     </message>
     <message>
         <source>Transaction created successfully.</source>
-        <translation>Transacción creada satisfactoriamente.</translation>
+        <translation>Transaktion skapad framgångsrikt</translation>
     </message>
     <message>
         <source>Transaction fees are too high.</source>
-        <translation>La comision de transacción es demasiado alta.</translation>
+        <translation>Transaktionsavgifter är för stora.</translation>
     </message>
     <message>
         <source>Transaction not valid.</source>
-        <translation>La transacción no es valida.</translation>
+        <translation>Transaktionen inte giltig.</translation>
     </message>
     <message>
         <source>Transaction too large for fee policy</source>
-        <translation>La transacción es demasiado grande para la política de comisión.</translation>
+        <translation>Transaktionen för stor för avgifts policy</translation>
     </message>
     <message>
         <source>Transaction too large</source>
-        <translation>La transacción es demasiado grande</translation>
+        <translation>Transaktion för stor</translation>
     </message>
     <message>
         <source>Transmitting final transaction.</source>
-        <translation>Transmitiendo la transacción final.</translation>
+        <translation>Sänder ut slutgiltig transaktion.</translation>
     </message>
     <message>
         <source>Try to spend with a higher security level to include more coins</source>
-        <translation>Intenta gastar con un nivel de seguridad más alto para incluir más monedas</translation>
+        <translation>Försök att spendera med en högre säkerhetsnivå för att inkludera fler mynt</translation>
     </message>
     <message>
         <source>Trying to spend an already spent serial #, try again.</source>
-        <translation>Tentando gastar um número de série já gasto, tente novamente.</translation>
+        <translation>Försöker spendera en redan spendera serie #, försök igen.</translation>
     </message>
     <message>
         <source>Unable to bind to %s on this computer (bind returned error %s)</source>
-        <translation>Imposible enlazar %s en esta computadora (enlace retorna error %s)</translation>
+        <translation>Kan ej binda till %s på denna dator (bind återgav fel %s)</translation>
     </message>
     <message>
         <source>Unable to find transaction containing mint</source>
-        <translation>No se puede encontrar la transacción que contiene la acuñación</translation>
+        <translation>Kan ej hitta transaktion innehållandes mint</translation>
     </message>
     <message>
         <source>Unable to sign spork message, wrong key?</source>
-        <translation>Imposible firmar el mensaje spork, ¿llave equivocada?</translation>
+        <translation>Kan ej signera spork meddelande, fel nyckel?</translation>
     </message>
     <message>
         <source>Unable to start HTTP server. See debug log for details.</source>
-        <translation>No se puede iniciar el servidor HTTP. Ver registro de depuración para más detalles.</translation>
+        <translation>Kan ej starta HTTP server. Se felsöknings log för detaljer.</translation>
     </message>
     <message>
         <source>Unknown network specified in -onlynet: '%s'</source>
-        <translation>Red especificada desconocida en -onlynet: '%s'</translation>
+        <translation>Okänt nätverk specifierat i -onlynet: '%s'</translation>
     </message>
     <message>
         <source>Unknown state: id = %u</source>
-        <translation>Estado desconocido: id = %u</translation>
+        <translation>Okänt tillstånd: id = %u</translation>
     </message>
     <message>
         <source>Upgrade wallet to latest format</source>
-        <translation>Actualizar el monedero al último formato</translation>
+        <translation>Upgradera plånbok till senaste format</translation>
     </message>
     <message>
         <source>Use UPnP to map the listening port (default: %u)</source>
-        <translation>Usar UPnP para mapear el puerto de escucha (predeterminado: %u)</translation>
+        <translation>Använd UPnP för att kartlägga den lystnande porten (standard: %u)</translation>
     </message>
     <message>
         <source>Use UPnP to map the listening port (default: 1 when listening)</source>
-        <translation>Usar UPnP para mapear el puerto de escucha (predeterminado: 1 cuando esta en escucha)</translation>
+        <translation>Använd UPnP för att kartlägga den lyssnande porten (standard: 1 när lyssnar)</translation>
     </message>
     <message>
         <source>Use a custom max chain reorganization depth (default: %u)</source>
-        <translation>Utilice una profundidad de reorganización de cadena máxima personalizada (valor predeterminado: %u)</translation>
+        <translation>Använd en skräddarsydd max chain reorganiserations djup (standard: %u)</translation>
     </message>
     <message>
         <source>Use the test network</source>
-        <translation>Usar la red de prueba</translation>
+        <translation>Använd test nätverket</translation>
     </message>
     <message>
         <source>Username for JSON-RPC connections</source>
-        <translation>Nombre de usuario para conexiones JSON-RPC</translation>
+        <translation>Användarnamn för JSON-RPC anslutningar</translation>
     </message>
     <message>
         <source>Value is below the smallest available denomination (= 1) of zSECX</source>
-        <translation>El valor está por debajo de la denominación más pequeña disponible (= 1) de zSECX</translation>
+        <translation>Värde är under den minsta tillgängliga valören (=1) av zSECX</translation>
     </message>
     <message>
         <source>Value more than Obfuscation pool maximum allows.</source>
-        <translation>Valor mayor al máximo pool de Ofuscación permitido.</translation>
+        <translation>Värde högre än fördunklingspoolen maximalt tillåter.</translation>
     </message>
     <message>
         <source>Verifying blocks...</source>
-        <translation>Verificando bloques...</translation>
+        <translation>Verifierar block</translation>
     </message>
     <message>
         <source>Verifying wallet...</source>
-        <translation>Verificando el monedero...</translation>
+        <translation>Verifierar plånbok</translation>
     </message>
     <message>
         <source>Version 1 zSECX require a security level of 100 to successfully spend.</source>
-        <translation>La versión 1 zSECX requiere un nivel de seguridad de 100 para gastar exitosamente.</translation>
+        <translation>Version 1 zSECX kräver en säkerhetsnivå på 100 för att kunna spenderas med framgång.</translation>
     </message>
     <message>
         <source>Wallet %s resides outside data directory %s</source>
-        <translation>El monedero %s esta ubicada fuera del directorio de datos %s</translation>
+        <translation>Plånbok %s finns utanför data katalog %s</translation>
     </message>
     <message>
         <source>Wallet is locked.</source>
-        <translation>Monedero bloqueado.</translation>
+        <translation>Plånboken är låst.</translation>
     </message>
     <message>
         <source>Wallet needed to be rewritten: restart SecurityX Core to complete</source>
-        <translation>El Monedero necesita ser reescrito: reinicie SecurityX Core para completar</translation>
+        <translation>Plånbok behöver skrivas om: starta om SecurityX Kärna för att göra klart</translation>
     </message>
     <message>
         <source>Wallet options:</source>
-        <translation>Opciones del Monedero:</translation>
+        <translation>Plånboks val:</translation>
     </message>
     <message>
         <source>Wallet window title</source>
-        <translation>Monedero titulo de ventana</translation>
+        <translation>Plånboksfönster tittle</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>Advertencia</translation>
+        <translation>Varning</translation>
     </message>
     <message>
         <source>Warning: This version is obsolete, upgrade required!</source>
-        <translation>Advertencia: Esta versión es obsoleta, se requiere actualizar!</translation>
+        <translation>Varning: Denna version är föråldrad, upgradering krävs!</translation>
     </message>
     <message>
         <source>Warning: Unsupported argument -benchmark ignored, use -debug=bench.</source>
-        <translation>Advertencia: Argumento no soportado -benchmark ignorado, use -debug=bench </translation>
+        <translation>Varning: Argument -benchmark stödjes ej, ignoreras. Använd -debug=bench.</translation>
     </message>
     <message>
         <source>Warning: Unsupported argument -debugnet ignored, use -debug=net.</source>
-        <translation>Advertencia: Argumento no soportado -debugnet ignorado, use -debug=net.</translation>
+        <translation>Varning: Argument -debugnet stödjes ej, ignoreras. Använd -debug=net.</translation>
     </message>
     <message>
         <source>Will retry...</source>
-        <translation>Probando...</translation>
+        <translation>Kommer försöka igen...</translation>
     </message>
     <message>
         <source>You don't have enough Zerocoins in your wallet</source>
-        <translation>No tienes suficientes Zerocoins en tu monedero</translation>
+        <translation>Du har inte tillräckligt med Zerocoins i din plånbok</translation>
     </message>
     <message>
         <source>You need to rebuild the database using -reindex to change -txindex</source>
-        <translation>Usted necesita reconstruir la base de datos usando -reindex para cambiar -txindex</translation>
+        <translation>Du behöver bygga om databasen genom att använda -reindex för att ändra -txindex</translation>
     </message>
     <message>
         <source>Your entries added successfully.</source>
-        <translation>Su entrada a sido agregada satisfactoriamente.</translation>
+        <translation>Dina poster lyckades läggas till.</translation>
     </message>
     <message>
         <source>Your transaction was accepted into the pool!</source>
-        <translation>Su transacción ha sido aceptada en el pool!</translation>
+        <translation>Din transaktion accepterades in i poolen!</translation>
     </message>
     <message>
         <source>Zapping all transactions from wallet...</source>
-        <translation>Saltando todas las transacciones del monedero...</translation>
+        <translation>Zapping alla transaktioner från plånboken ...</translation>
     </message>
     <message>
         <source>ZeroMQ notification options:</source>
-        <translation>Opciones de notificación ZeroMQ:</translation>
+        <translation>ZeroMQ-anmälningsalternativ:</translation>
     </message>
     <message>
         <source>Zerocoin options:</source>
-        <translation>Opciones Zerocoin:</translation>
+        <translation>Zerocoin alternativ:</translation>
     </message>
     <message>
         <source>on startup</source>
-        <translation>al inicio</translation>
+        <translation>Vid uppstart</translation>
     </message>
     <message>
         <source>wallet.dat corrupt, salvage failed</source>
-        <translation>wallet.dat esta corrupto, fallo al guardar</translation>
+        <translation>wallet.dat korrupt, räddning misslyckades</translation>
     </message>
 </context>
 </TS>

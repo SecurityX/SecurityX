@@ -10,9 +10,9 @@ Type=forking
 PIDFile=/var/lib/securityxd/securityxd.pid
 
 ExecStart=/usr/bin/securityxd -daemon -pid=/var/lib/securityxd/securityxd.pid \
-          -conf=/etc/securityx/securityx.conf -datadir=/var/lib/securityxd
+          -conf=/etc/SecurityX/securityx.conf -datadir=/var/lib/securityxd
 
-ExecStop=-/usr/bin/securityx-cli -conf=/etc/securityx/securityx.conf \
+ExecStop=-/usr/bin/securityx-cli -conf=/etc/SecurityX/securityx.conf \
          -datadir=/var/lib/securityxd stop
 
 Restart=always

@@ -1,7 +1,7 @@
 # /etc/conf.d/securityxd: config file for /etc/init.d/securityxd
 
 # Config file location
-#BITCOIND_CONFIGFILE="/etc/securityx/securityx.conf"
+#BITCOIND_CONFIGFILE="/etc/SecurityX/securityx.conf"
 
 # What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
 #BITCOIND_PIDDIR="/var/run/securityxd"

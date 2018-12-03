@@ -24,10 +24,10 @@ If you're using the automated script (found in [contrib/gitian-build.sh](/contri
 Check out the source code in the following directory hierarchy.
 
     cd /path/to/your/toplevel/build
-    git clone https://github.com/securityx/gitian.sigs.git
-    git clone https://github.com/securityx/securityx-detached-sigs.git
+    git clone https://github.com/SecurityX/gitian.sigs.git
+    git clone https://github.com/SecurityX/securityx-detached-sigs.git
     git clone https://github.com/devrandom/gitian-builder.git
-    git clone https://github.com/securityx/securityx.git
+    git clone https://github.com/SecurityX/securityx.git
 
 ### SecurityX maintainers/release engineers, suggestion for writing release notes
 
@@ -84,7 +84,7 @@ Create the OS X SDK tarball, see the [OS X readme](README_osx.md) for details, a
 By default, Gitian will fetch source files as needed. To cache them ahead of time:
 
     pushd ./gitian-builder
-    make -C ../securityx/depends download SOURCES_PATH=`pwd`/cache/common
+    make -C ../SecurityX/depends download SOURCES_PATH=`pwd`/cache/common
     popd
 
 Only missing files will be fetched, so this is safe to re-run for each build.
@@ -100,22 +100,22 @@ The gbuild invocations below <b>DO NOT DO THIS</b> by default.
 ### Build and sign SecurityX Core for Linux, Windows, and OS X:
 
     pushd ./gitian-builder
-    ./bin/gbuild --memory 3000 --commit securityx=v${VERSION} ../securityx/contrib/gitian-descriptors/gitian-linux.yml
-    ./bin/gsign --signer $SIGNER --release ${VERSION}-linux --destination ../gitian.sigs/ ../securityx/contrib/gitian-descriptors/gitian-linux.yml
+    ./bin/gbuild --memory 3000 --commit securityx=v${VERSION} ../SecurityX/contrib/gitian-descriptors/gitian-linux.yml
+    ./bin/gsign --signer $SIGNER --release ${VERSION}-linux --destination ../gitian.sigs/ ../SecurityX/contrib/gitian-descriptors/gitian-linux.yml
     mv build/out/securityx-*.tar.gz build/out/src/securityx-*.tar.gz ../
 
-    ./bin/gbuild --memory 3000 --commit securityx=v${VERSION} ../securityx/contrib/gitian-descriptors/gitian-win.yml
-    ./bin/gsign --signer $SIGNER --release ${VERSION}-win-unsigned --destination ../gitian.sigs/ ../securityx/contrib/gitian-descriptors/gitian-win.yml
+    ./bin/gbuild --memory 3000 --commit securityx=v${VERSION} ../SecurityX/contrib/gitian-descriptors/gitian-win.yml
+    ./bin/gsign --signer $SIGNER --release ${VERSION}-win-unsigned --destination ../gitian.sigs/ ../SecurityX/contrib/gitian-descriptors/gitian-win.yml
     mv build/out/securityx-*-win-unsigned.tar.gz inputs/securityx-win-unsigned.tar.gz
     mv build/out/securityx-*.zip build/out/securityx-*.exe ../
 
-    ./bin/gbuild --memory 3000 --commit securityx=v${VERSION} ../securityx/contrib/gitian-descriptors/gitian-osx.yml
-    ./bin/gsign --signer $SIGNER --release ${VERSION}-osx-unsigned --destination ../gitian.sigs/ ../securityx/contrib/gitian-descriptors/gitian-osx.yml
+    ./bin/gbuild --memory 3000 --commit securityx=v${VERSION} ../SecurityX/contrib/gitian-descriptors/gitian-osx.yml
+    ./bin/gsign --signer $SIGNER --release ${VERSION}-osx-unsigned --destination ../gitian.sigs/ ../SecurityX/contrib/gitian-descriptors/gitian-osx.yml
     mv build/out/securityx-*-osx-unsigned.tar.gz inputs/securityx-osx-unsigned.tar.gz
     mv build/out/securityx-*.tar.gz build/out/securityx-*.dmg ../
 
-    ./bin/gbuild --memory 3000 --commit securityx=v${VERSION} ../securityx/contrib/gitian-descriptors/gitian-aarch64.yml
-    ./bin/gsign --signer $SIGNER --release ${VERSION}-aarch64 --destination ../gitian.sigs/ ../securityx/contrib/gitian-descriptors/gitian-aarch64.yml
+    ./bin/gbuild --memory 3000 --commit securityx=v${VERSION} ../SecurityX/contrib/gitian-descriptors/gitian-aarch64.yml
+    ./bin/gsign --signer $SIGNER --release ${VERSION}-aarch64 --destination ../gitian.sigs/ ../SecurityX/contrib/gitian-descriptors/gitian-aarch64.yml
     mv build/out/securityx-*.tar.gz build/out/src/securityx-*.tar.gz ../
     popd
 
@@ -137,10 +137,10 @@ Add other gitian builders keys to your gpg keyring, and/or refresh keys.
 Verify the signatures
 
     pushd ./gitian-builder
-    ./bin/gverify -v -d ../gitian.sigs/ -r ${VERSION}-linux ../securityx/contrib/gitian-descriptors/gitian-linux.yml
-    ./bin/gverify -v -d ../gitian.sigs/ -r ${VERSION}-win-unsigned ../securityx/contrib/gitian-descriptors/gitian-win.yml
-    ./bin/gverify -v -d ../gitian.sigs/ -r ${VERSION}-osx-unsigned ../securityx/contrib/gitian-descriptors/gitian-osx.yml
-    ./bin/gverify -v -d ../gitian.sigs/ -r ${VERSION}-aarch64 ../securityx/contrib/gitian-descriptors/gitian-aarch64.yml
+    ./bin/gverify -v -d ../gitian.sigs/ -r ${VERSION}-linux ../SecurityX/contrib/gitian-descriptors/gitian-linux.yml
+    ./bin/gverify -v -d ../gitian.sigs/ -r ${VERSION}-win-unsigned ../SecurityX/contrib/gitian-descriptors/gitian-win.yml
+    ./bin/gverify -v -d ../gitian.sigs/ -r ${VERSION}-osx-unsigned ../SecurityX/contrib/gitian-descriptors/gitian-osx.yml
+    ./bin/gverify -v -d ../gitian.sigs/ -r ${VERSION}-aarch64 ../SecurityX/contrib/gitian-descriptors/gitian-aarch64.yml
     popd
 
 ### Next steps:
@@ -195,18 +195,18 @@ Non-codesigners: wait for Windows/OS X detached signatures:
 Create (and optionally verify) the signed OS X binary:
 
     pushd ./gitian-builder
-    ./bin/gbuild -i --commit signature=v${VERSION} ../securityx/contrib/gitian-descriptors/gitian-osx-signer.yml
-    ./bin/gsign --signer $SIGNER --release ${VERSION}-osx-signed --destination ../gitian.sigs/ ../securityx/contrib/gitian-descriptors/gitian-osx-signer.yml
-    ./bin/gverify -v -d ../gitian.sigs/ -r ${VERSION}-osx-signed ../securityx/contrib/gitian-descriptors/gitian-osx-signer.yml
+    ./bin/gbuild -i --commit signature=v${VERSION} ../SecurityX/contrib/gitian-descriptors/gitian-osx-signer.yml
+    ./bin/gsign --signer $SIGNER --release ${VERSION}-osx-signed --destination ../gitian.sigs/ ../SecurityX/contrib/gitian-descriptors/gitian-osx-signer.yml
+    ./bin/gverify -v -d ../gitian.sigs/ -r ${VERSION}-osx-signed ../SecurityX/contrib/gitian-descriptors/gitian-osx-signer.yml
     mv build/out/securityx-osx-signed.dmg ../securityx-${VERSION}-osx.dmg
     popd
 
 Create (and optionally verify) the signed Windows binaries:
 
     pushd ./gitian-builder
-    ./bin/gbuild -i --commit signature=v${VERSION} ../securityx/contrib/gitian-descriptors/gitian-win-signer.yml
-    ./bin/gsign --signer $SIGNER --release ${VERSION}-win-signed --destination ../gitian.sigs/ ../securityx/contrib/gitian-descriptors/gitian-win-signer.yml
-    ./bin/gverify -v -d ../gitian.sigs/ -r ${VERSION}-win-signed ../securityx/contrib/gitian-descriptors/gitian-win-signer.yml
+    ./bin/gbuild -i --commit signature=v${VERSION} ../SecurityX/contrib/gitian-descriptors/gitian-win-signer.yml
+    ./bin/gsign --signer $SIGNER --release ${VERSION}-win-signed --destination ../gitian.sigs/ ../SecurityX/contrib/gitian-descriptors/gitian-win-signer.yml
+    ./bin/gverify -v -d ../gitian.sigs/ -r ${VERSION}-win-signed ../SecurityX/contrib/gitian-descriptors/gitian-win-signer.yml
     mv build/out/securityx-*win64-setup.exe ../securityx-${VERSION}-win64-setup.exe
     mv build/out/securityx-*win32-setup.exe ../securityx-${VERSION}-win32-setup.exe
     popd
