@@ -1,9 +1,10 @@
 // Copyright (c) 2018 The PIVX developers
+// Copyright (c) 2018 The SecurityX developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef PIVX_DETERMINISTICMINT_H
-#define PIVX_DETERMINISTICMINT_H
+#ifndef SecurityX_DETERMINISTICMINT_H
+#define SecurityX_DETERMINISTICMINT_H
 
 #include <libzerocoin/Denominations.h>
 #include <uint256.h>
@@ -64,4 +65,4 @@ public:
     };
 };
 
-#endif //PIVX_DETERMINISTICMINT_H
+#endif //SecurityX_DETERMINISTICMINT_H

@@ -1,6 +1,7 @@
 // Copyright (c) 2011-2014 The Bitcoin developers
 // Copyright (c) 2014-2015 The Dash developers
 // Copyright (c) 2015-2018 The PIVX developers
+// Copyright (c) 2018 The SecurityX developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -289,7 +290,7 @@ RPCConsole::RPCConsole(QWidget* parent) : QDialog(parent, Qt::WindowSystemMenuHi
     ui->openSSLVersion->setText(SSLeay_version(SSLEAY_VERSION));
 #ifdef ENABLE_WALLET
     std::string strPathCustom = GetArg("-backuppath", "");
-    std::string strzPIVPathCustom = GetArg("-zpivbackuppath", "");
+    std::string strzSECXPathCustom = GetArg("-zsecxbackuppath", "");
     int nCustomBackupThreshold = GetArg("-custombackupthreshold", DEFAULT_CUSTOMBACKUPTHRESHOLD);
 
     if(!strPathCustom.empty()) {
@@ -298,13 +299,13 @@ RPCConsole::RPCConsole(QWidget* parent) : QDialog(parent, Qt::WindowSystemMenuHi
         ui->wallet_custombackuppath->show();
     }
 
-    if(!strzPIVPathCustom.empty()) {
-        ui->wallet_customzpivbackuppath->setText(QString::fromStdString(strzPIVPathCustom));
-        ui->wallet_customzpivbackuppath_label->setVisible(true);
-        ui->wallet_customzpivbackuppath->setVisible(true);
+    if(!strzSECXPathCustom.empty()) {
+        ui->wallet_customzsecxbackuppath->setText(QString::fromStdString(strzSECXPathCustom));
+        ui->wallet_customzsecxbackuppath_label->setVisible(true);
+        ui->wallet_customzsecxbackuppath->setVisible(true);
     }
 
-    if((!strPathCustom.empty() || !strzPIVPathCustom.empty()) && nCustomBackupThreshold > 0) {
+    if((!strPathCustom.empty() || !strzSECXPathCustom.empty()) && nCustomBackupThreshold > 0) {
         ui->wallet_custombackupthreshold->setText(QString::fromStdString(std::to_string(nCustomBackupThreshold)));
         ui->wallet_custombackupthreshold_label->setVisible(true);
         ui->wallet_custombackupthreshold->setVisible(true);
@@ -632,7 +633,7 @@ void RPCConsole::clear()
         "td.cmd-error { color: red; } "
         "b { color: #006060; } ");
 
-    message(CMD_REPLY, (tr("Welcome to the PIVX RPC console.") + "<br>" +
+    message(CMD_REPLY, (tr("Welcome to the SecurityX RPC console.") + "<br>" +
                            tr("Use up and down arrows to navigate history, and <b>Ctrl-L</b> to clear screen.") + "<br>" +
                            tr("Type <b>help</b> for an overview of available commands.")),
         true);

@@ -1,19 +1,19 @@
 [Unit]
-Description=PIVX's distributed currency daemon
+Description=SecurityX's distributed currency daemon
 After=network.target
 
 [Service]
-User=pivx
-Group=pivx
+User=securityx
+Group=securityx
 
 Type=forking
-PIDFile=/var/lib/pivxd/pivxd.pid
+PIDFile=/var/lib/securityxd/securityxd.pid
 
-ExecStart=/usr/bin/pivxd -daemon -pid=/var/lib/pivxd/pivxd.pid \
-          -conf=/etc/pivx/pivx.conf -datadir=/var/lib/pivxd
+ExecStart=/usr/bin/securityxd -daemon -pid=/var/lib/securityxd/securityxd.pid \
+          -conf=/etc/securityx/securityx.conf -datadir=/var/lib/securityxd
 
-ExecStop=-/usr/bin/pivx-cli -conf=/etc/pivx/pivx.conf \
-         -datadir=/var/lib/pivxd stop
+ExecStop=-/usr/bin/securityx-cli -conf=/etc/securityx/securityx.conf \
+         -datadir=/var/lib/securityxd stop
 
 Restart=always
 PrivateTmp=true

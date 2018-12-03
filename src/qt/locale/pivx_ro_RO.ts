@@ -189,9 +189,9 @@
     </message>
     </context>
 <context>
-    <name>ZPivControlDialog</name>
+    <name>ZSecxControlDialog</name>
     </context>
 <context>
-    <name>pivx-core</name>
+    <name>securityx-core</name>
     </context>
 </TS>

@@ -1,9 +1,10 @@
 // Copyright (c) 2017-2018 The PIVX developers
+// Copyright (c) 2018 The SecurityX developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef ZPIVCONTROLDIALOG_H
-#define ZPIVCONTROLDIALOG_H
+#ifndef ZSECXCONTROLDIALOG_H
+#define ZSECXCONTROLDIALOG_H
 
 #include <QDialog>
 #include <QTreeWidgetItem>
@@ -14,26 +15,26 @@ class CZerocoinMint;
 class WalletModel;
 
 namespace Ui {
-class ZPivControlDialog;
+class ZSecxControlDialog;
 }
 
-class CZPivControlWidgetItem : public QTreeWidgetItem
+class CZSecxControlWidgetItem : public QTreeWidgetItem
 {
 public:
-    explicit CZPivControlWidgetItem(QTreeWidget *parent, int type = Type) : QTreeWidgetItem(parent, type) {}
-    explicit CZPivControlWidgetItem(int type = Type) : QTreeWidgetItem(type) {}
-    explicit CZPivControlWidgetItem(QTreeWidgetItem *parent, int type = Type) : QTreeWidgetItem(parent, type) {}
+    explicit CZSecxControlWidgetItem(QTreeWidget *parent, int type = Type) : QTreeWidgetItem(parent, type) {}
+    explicit CZSecxControlWidgetItem(int type = Type) : QTreeWidgetItem(type) {}
+    explicit CZSecxControlWidgetItem(QTreeWidgetItem *parent, int type = Type) : QTreeWidgetItem(parent, type) {}
 
     bool operator<(const QTreeWidgetItem &other) const;
 };
 
-class ZPivControlDialog : public QDialog
+class ZSecxControlDialog : public QDialog
 {
     Q_OBJECT
 
 public:
-    explicit ZPivControlDialog(QWidget *parent);
-    ~ZPivControlDialog();
+    explicit ZSecxControlDialog(QWidget *parent);
+    ~ZSecxControlDialog();
 
     void setModel(WalletModel* model);
 
@@ -42,7 +43,7 @@ public:
     static std::vector<CMintMeta> GetSelectedMints();
 
 private:
-    Ui::ZPivControlDialog *ui;
+    Ui::ZSecxControlDialog *ui;
     WalletModel* model;
     PrivacyDialog* privacyDialog;
 
@@ -57,11 +58,11 @@ private:
         COLUMN_CONFIRMATIONS,
         COLUMN_ISSPENDABLE
     };
-    friend class CZPivControlWidgetItem;
+    friend class CZSecxControlWidgetItem;
 
 private slots:
     void updateSelection(QTreeWidgetItem* item, int column);
     void ButtonAllClicked();
 };
 
-#endif // ZPIVCONTROLDIALOG_H
+#endif // ZSECXCONTROLDIALOG_H

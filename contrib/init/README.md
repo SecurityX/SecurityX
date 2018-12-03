@@ -1,10 +1,10 @@
 Sample configuration files for:
 
-SystemD: pivxd.service
-Upstart: pivxd.conf
-OpenRC:  pivxd.openrc
-         pivxd.openrcconf
-CentOS:  pivxd.init
+SystemD: securityxd.service
+Upstart: securityxd.conf
+OpenRC:  securityxd.openrc
+         securityxd.openrcconf
+CentOS:  securityxd.init
 
 have been made available to assist packagers in creating node packages here.
 

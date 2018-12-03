@@ -1,6 +1,7 @@
 // Copyright (c) 2011-2014 The Bitcoin developers
 // Copyright (c) 2014-2015 The Dash developers
 // Copyright (c) 2015-2017 The PIVX developers
+// Copyright (c) 2018 The SecurityX developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -19,18 +20,18 @@ BitcoinUnits::BitcoinUnits(QObject* parent) : QAbstractListModel(parent),
 QList<BitcoinUnits::Unit> BitcoinUnits::availableUnits()
 {
     QList<BitcoinUnits::Unit> unitlist;
-    unitlist.append(PIV);
-    unitlist.append(mPIV);
-    unitlist.append(uPIV);
+    unitlist.append(SECX);
+    unitlist.append(mSECX);
+    unitlist.append(uSECX);
     return unitlist;
 }
 
 bool BitcoinUnits::valid(int unit)
 {
     switch (unit) {
-    case PIV:
-    case mPIV:
-    case uPIV:
+    case SECX:
+    case mSECX:
+    case uSECX:
         return true;
     default:
         return false;
@@ -40,12 +41,12 @@ bool BitcoinUnits::valid(int unit)
 QString BitcoinUnits::id(int unit)
 {
     switch (unit) {
-    case PIV:
-        return QString("pivx");
-    case mPIV:
-        return QString("mpivx");
-    case uPIV:
-        return QString::fromUtf8("upivx");
+    case SECX:
+        return QString("securityx");
+    case mSECX:
+        return QString("msecurityx");
+    case uSECX:
+        return QString::fromUtf8("usecurityx");
     default:
         return QString("???");
     }
@@ -55,23 +56,23 @@ QString BitcoinUnits::name(int unit)
 {
     if (Params().NetworkID() == CBaseChainParams::MAIN) {
         switch (unit) {
-        case PIV:
-            return QString("PIV");
-        case mPIV:
-            return QString("mPIV");
-        case uPIV:
-            return QString::fromUtf8("μPIV");
+        case SECX:
+            return QString("SECX");
+        case mSECX:
+            return QString("mSECX");
+        case uSECX:
+            return QString::fromUtf8("μSECX");
         default:
             return QString("???");
         }
     } else {
         switch (unit) {
-        case PIV:
-            return QString("tPIV");
-        case mPIV:
-            return QString("mtPIV");
-        case uPIV:
-            return QString::fromUtf8("μtPIV");
+        case SECX:
+            return QString("tSECX");
+        case mSECX:
+            return QString("mtSECX");
+        case uSECX:
+            return QString::fromUtf8("μtSECX");
         default:
             return QString("???");
         }
@@ -82,23 +83,23 @@ QString BitcoinUnits::description(int unit)
 {
     if (Params().NetworkID() == CBaseChainParams::MAIN) {
         switch (unit) {
-        case PIV:
-            return QString("PIV");
-        case mPIV:
-            return QString("Milli-PIV (1 / 1" THIN_SP_UTF8 "000)");
-        case uPIV:
-            return QString("Micro-PIV (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
+        case SECX:
+            return QString("SECX");
+        case mSECX:
+            return QString("Milli-SECX (1 / 1" THIN_SP_UTF8 "000)");
+        case uSECX:
+            return QString("Micro-SECX (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
         default:
             return QString("???");
         }
     } else {
         switch (unit) {
-        case PIV:
-            return QString("TestPIVs");
-        case mPIV:
-            return QString("Milli-TestPIV (1 / 1" THIN_SP_UTF8 "000)");
-        case uPIV:
-            return QString("Micro-TestPIV (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
+        case SECX:
+            return QString("TestSECXs");
+        case mSECX:
+            return QString("Milli-TestSECX (1 / 1" THIN_SP_UTF8 "000)");
+        case uSECX:
+            return QString("Micro-TestSECX (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
         default:
             return QString("???");
         }
@@ -108,11 +109,11 @@ QString BitcoinUnits::description(int unit)
 qint64 BitcoinUnits::factor(int unit)
 {
     switch (unit) {
-    case PIV:
+    case SECX:
         return 100000000;
-    case mPIV:
+    case mSECX:
         return 100000;
-    case uPIV:
+    case uSECX:
         return 100;
     default:
         return 100000000;
@@ -122,11 +123,11 @@ qint64 BitcoinUnits::factor(int unit)
 int BitcoinUnits::decimals(int unit)
 {
     switch (unit) {
-    case PIV:
+    case SECX:
         return 8;
-    case mPIV:
+    case mSECX:
         return 5;
-    case uPIV:
+    case uSECX:
         return 2;
     default:
         return 0;
